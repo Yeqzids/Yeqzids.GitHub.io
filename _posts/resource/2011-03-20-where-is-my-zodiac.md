@@ -1,11 +1,9 @@
 ---
 layout: post
-title: 
-我的星座在哪里？
+title: 我的星座在哪里？
 excerpt: "今晚天气好吗？有没有想过在天上找到自己的星座？这篇短短的指南就是为身在大城市苦于“光海污染”的你准备的。"
 modified: 2011-03-20
 categories: resource
-tags: [sample-post]
 comments: true
 share: true
 ---
