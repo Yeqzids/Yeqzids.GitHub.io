@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: Site Title
+title: Yeqzids
 locale: en_US
 description: Describe your website here.
 logo: site-logo.png
 search: true
-url: http://localhost:4000
+url: http://yeqzids.github.io/
 
 # Jekyll configuration
 
@@ -33,13 +33,13 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
+  name: Quan-Zhi Ye
   avatar: bio-photo.jpg
-  email: you@email.com
+  email: qye22@uwo.ca
   disqus-shortname:
-  twitter: #username
+  twitter: Yeqzids
   facebook: #username
-  github: #username
+  github: Yeqzids
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
