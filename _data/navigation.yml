@@ -1,13 +1,13 @@
 # Site navigation links
 
-- title: About
-  url: /about/
-
-- title: Articles
-  url: /articles/
+- title: Résumé
+  url: http://meteor.uwo.ca/~quanzhi/
 
 - title: Blog
   url: /blog/
+  
+- title: Resource
+  url: /resource/
 
 - title: Search
   url: /search/
