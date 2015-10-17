@@ -1,14 +1,9 @@
 ---
 layout: post
 title: Installing Debian 7 + Xfce 4.8 on ThinkPad X60
-#excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
+excerpt: "In this tutorial we will go through the installation of Debian 7 (Wheezy) + Xfce 4.8 environment on a ThinkPad X60 1709APC laptop."
 modified: 2014-04-20
 categories: resource
-#tags: [sample-post]
-#image:
-#  feature: so-simple-sample-image-1.jpg
-#  credit: WeGraphics
-#  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 comments: true
 share: true
 ---
