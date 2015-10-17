@@ -34,7 +34,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 # Site owner
 owner:
   name: Quan-Zhi Ye
-  avatar: bio-photo.jpg
+  avatar: bio.jpg
   email: qye22@uwo.ca
   disqus-shortname:
   twitter: Yeqzids
