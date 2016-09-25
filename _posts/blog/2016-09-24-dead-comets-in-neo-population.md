@@ -3,7 +3,7 @@ layout: post
 title: "Dormant comets in the NEO population"
 modified:
 categories: blog
-excerpt:
+excerpt: A new paper about dormant comets in the NEO population.
 tags: []
 image:
   feature:
