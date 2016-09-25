@@ -10,9 +10,9 @@ image:
 date: 2016-09-24T17:00:00-07:00
 ---
 
-NASA/ADS entry: [Ye et al. (2016), MNRAS, 462, 3511](http://adsabs.harvard.edu/abs/2016MNRAS.462.3511Y) | [Full-text](http://astro.caltech.edu/~qye/paper/MNRAS-2016-Ye-3511-27.pdf)
-
 ## In a Nutshell
+
+ [Ye et al. (2016), MNRAS, 462, 3511](http://astro.caltech.edu/~qye/paper/MNRAS-2016-Ye-3511-27.pdf)
 
 Comets have tails because they have volatile material such as water ice. When comets get close to the Sun, their water ice sublimate and bring dust into space, forming the tails. Once comets use up their water ice, they become dead and behave like asteroids (no tail). For years, people have been wondering how many such "dead comets" exist in the near-Earth region. Since dead comets behave like asteroids, it is difficult to find them.
 
