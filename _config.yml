@@ -54,3 +54,5 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
+
+remote_theme: "mmistakes/so-simple-theme"
