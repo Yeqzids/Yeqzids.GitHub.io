@@ -56,10 +56,10 @@ You can find a list of my publication on [NASA/ADS](http://adsabs.harvard.edu/cg
 
 ### My Name
 
-```
+`
 Different from the western naming order, Chinese names follow the surname-given name order. Hence, my name should be written as Ye Quanzhi, where Ye (pronounced as "Yeh") is my surname and Quanzhi (pronounced as Ch'üan Chih) is my given name.
 
 "Ye" means "leaf" in Chinese. The surname originated as a clan name after the [Duke of Ye](https://en.wikipedia.org/wiki/Duke_of_Ye), the Prime Minister of the State of Chu (today's lower Yangtze River area, including Shanghai) at about 500 BCE.
-```
+`
 
-###### <div style="text-align: right">Last update: 2018 September 4</div>
+###### Last update: 2018 September 4
