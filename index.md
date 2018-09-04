@@ -12,6 +12,8 @@ I use the [1.2-m Samuel Oschin telescope](http://www.astro.caltech.edu/palomar/a
 
 ###### Photo by Hung-Chin Lin
 
+<br>
+
 * * *
 
 ## Education and Professional Experience
@@ -22,6 +24,8 @@ I use the [1.2-m Samuel Oschin telescope](http://www.astro.caltech.edu/palomar/a
     * Dissertation: [Aging Comets and Their Meteor Showers](http://ir.lib.uwo.ca/etd/3903/)
 * M.Sc. in Astronomy, [University of Western Ontario](http://www.uwo.ca/), 2011 - 2013
 * B.Sc. in Atmospheric Sciences, [Sun Yat-sen University](http://www.sysu.edu.cn/), 2006 - 2010
+
+<br>
 
 * * *
 
@@ -34,6 +38,8 @@ I use the [1.2-m Samuel Oschin telescope](http://www.astro.caltech.edu/palomar/a
 * Ye et al. (2017): 1I/2017 U1 (`Oumuamua) is Hot: Imaging, Spectroscopy and Search of Meteor Activity.
 
 You can find a list of my publication on [NASA/ADS](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=Ye%27s+Refereed+Publication&libid=57e6ba2680), [Google Scholar](https://scholar.google.com/citations?user=F-w70dYAAAAJ&hl=en) or [Research Gate](https://www.researchgate.net/profile/Quan_Zhi_Ye).
+
+<br>
 
 * * *
 
@@ -50,6 +56,10 @@ You can find a list of my publication on [NASA/ADS](http://adsabs.harvard.edu/cg
 
 ### My Name
 
-> Different from the western naming order, Chinese names follow the surname-given name order. Hence, my name should be written as Ye Quanzhi, where Ye (pronounced as "Yeh") is my surname and Quanzhi (pronounced as Ch'üan Chih) is my given name.
+```
+Different from the western naming order, Chinese names follow the surname-given name order. Hence, my name should be written as Ye Quanzhi, where Ye (pronounced as "Yeh") is my surname and Quanzhi (pronounced as Ch'üan Chih) is my given name.
 
-> "Ye" means "leaf" in Chinese. The surname originated as a clan name after the [Duke of Ye](https://en.wikipedia.org/wiki/Duke_of_Ye), the Prime Minister of the State of Chu (today's lower Yangtze River area, including Shanghai) at about 500 BCE.
+"Ye" means "leaf" in Chinese. The surname originated as a clan name after the [Duke of Ye](https://en.wikipedia.org/wiki/Duke_of_Ye), the Prime Minister of the State of Chu (today's lower Yangtze River area, including Shanghai) at about 500 BCE.
+```
+
+###### <div style="text-align: right">Last update: 2018 September 4</div>
