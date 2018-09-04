@@ -26,13 +26,14 @@ body {
 }
 
 .container_header_main {
+  float: left;
   width: 50%;
   margin: 0 auto;
 }
 
 .container_header_logo {
   width: 50%;
-  align: right;
+  float: right;
   max-width: 1000px;
   margin: 0 auto;
 }
@@ -52,21 +53,21 @@ li {
 
 .container_footer_left {
   width: 33%;
-  align: left;
+  float: left;
   max-width: 300px;
   margin: 0 auto;
 }
 
 .container_footer_middle {
   width: 33%;
-  align: middle;
+  float: middle;
   max-width: 300px;
   margin: 0 auto;
 }
 
 .container_footer_right {
   width: 33%;
-  align: right;
+  float: right;
   max-width: 300px;
   margin: 0 auto;
 }
