@@ -15,7 +15,9 @@
       <div class="container">
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
-        <img src="caltech.png" style="float:right"><img src="ipac.png" style="float:right">
+        <section id="logo" style="float:right">
+          <img src="caltech.png"><img src="ipac.png">
+        </section>
 
         <section id="downloads">
           {% if site.show_downloads %}
