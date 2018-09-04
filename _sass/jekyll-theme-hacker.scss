@@ -25,13 +25,14 @@ body {
   margin: 0 auto;
 }
 
-.subcontainer_header_main {
-  float: left;
-  width: 50%;
+.container_header {
+  width: 90%;
+  max-width: 1000px;
+  margin: 0 auto;
 }
 
 .subcontainer_header_logo {
-  width: 40%;
+  width: 30%;
   float: right;
 }
 
