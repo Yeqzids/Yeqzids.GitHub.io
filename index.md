@@ -54,7 +54,7 @@ You can find a list of my publication on [NASA/ADS](http://adsabs.harvard.edu/cg
 * Guest blogs at the Planetary Society
 * Research webpage of Xingming Observatory
 
-##### My Name
+#### My Name
 
 > Different from the western naming order, Chinese names follow the surname-given name order. Hence, my name should be written as Ye Quanzhi, where Ye (pronounced as "Yeh") is my surname and Quanzhi (pronounced as Ch'üan Chih) is my given name.
 
