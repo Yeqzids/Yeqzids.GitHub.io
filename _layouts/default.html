@@ -15,10 +15,6 @@
       <div class="container">
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
-         <div class="logo">
-          <a href="http://www.caltech.edu"><img src="caltech.png"></a>
-          <a href="http://www.ipac.caltech.edu"><img src="ipac.png"></a>
-         </div>
 
         <section id="downloads">
           {% if site.show_downloads %}
@@ -27,6 +23,10 @@
             <a href="{{ site.github.repository_url }}" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
           {% endif %}
         </section>
+      </div>
+      <div class="logo">
+       <a href="http://www.caltech.edu"><img src="caltech.png"></a>
+       <a href="http://www.ipac.caltech.edu"><img src="ipac.png"></a>
       </div>
     </header>
 
@@ -49,15 +49,17 @@
     
     <footer>
       <div class="container" align="left">
-        Morrisroe Astrosciences Laboratory
-        770 South Wilson Avenue
-        Pasadena, CA 91125
+        <small>Morrisroe Astrosciences Laboratory<br>
+        770 South Wilson Avenue<br>
+        Pasadena, CA 91125</small>
       </div>
       <div class="container" align="center">
         Twitter
       </div>
       <div class="container" align="right">
-        Modified from GitHub Pages theme <a href="https://pages-themes.github.io/hacker/">Hacker</a>
+        <small>Modified from Jekyll theme 
+        <a href="https://pages-themes.github.io/hacker/">Hacker</a>
+        </small>
       </div>
     </footer>
   </body>
