@@ -25,13 +25,13 @@ body {
   margin: 0 auto;
 }
 
-.container_header_main {
+.subcontainer_header_main {
   float: left;
   width: 50%;
   margin: 0 auto;
 }
 
-.container_header_logo {
+.subcontainer_header_logo {
   width: 50%;
   float: right;
   max-width: 1000px;
@@ -51,21 +51,21 @@ li {
   line-height: 1.4 ;
 }
 
-.container_footer_left {
+.subcontainer_footer_left {
   width: 33%;
   float: left;
   max-width: 300px;
   margin: 0 auto;
 }
 
-.container_footer_middle {
+.subcontainer_footer_middle {
   width: 33%;
   float: middle;
   max-width: 300px;
   margin: 0 auto;
 }
 
-.container_footer_right {
+.subcontainer_footer_right {
   width: 33%;
   float: right;
   max-width: 300px;
