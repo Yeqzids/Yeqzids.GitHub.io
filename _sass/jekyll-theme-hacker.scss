@@ -25,6 +25,11 @@ body {
   margin: 0 auto;
 }
 
+.logo {
+  float: right
+  margin: 0 0 20px 0;
+}
+
 section {
   display: block;
   margin: 0 0 20px 0;
@@ -55,6 +60,7 @@ header {
 header h1 {
   font-size: 30px;
   line-height: 1.5;
+  margin: 0 0 0 0;
   font-weight: bold;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
   color: $conifer;//$header;
