@@ -12,7 +12,7 @@
   <body>
 
     <header>
-      <div class="container">
+      <div class="container_header_main">
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
 
@@ -24,7 +24,7 @@
           {% endif %}
         </section>
       </div>
-      <div class="logo">
+      <div class="container_header_logo">
        <a href="http://www.caltech.edu"><img src="caltech.png"></a>
        <a href="http://www.ipac.caltech.edu"><img src="ipac.png"></a>
       </div>
@@ -48,15 +48,15 @@
     {% endif %}
     
     <footer>
-      <div class="container" align="left">
-        <small>Morrisroe Astrosciences Laboratory<br>
+      <div class="container_footer_left">
+        <small><strong>Morrisroe Astrosciences Laboratory<br>
         770 South Wilson Avenue<br>
-        Pasadena, CA 91125</small>
+        Pasadena, CA 91125</strong></small>
       </div>
-      <div class="container" align="center">
+      <div class="container_footer_middle">
         Twitter
       </div>
-      <div class="container" align="right">
+      <div class="container_footer_right">
         <small>Modified from Jekyll theme 
         <a href="https://pages-themes.github.io/hacker/">Hacker</a>
         </small>

@@ -25,9 +25,16 @@ body {
   margin: 0 auto;
 }
 
-.logo {
+.container_header_main {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.container_header_logo {
+  width: 50%;
   align: right;
-  margin: 0 0 20px 0;
+  max-width: 1000px;
+  margin: 0 auto;
 }
 
 section {
@@ -41,6 +48,27 @@ h1, h2, h3, h4, h5, h6 {
 
 li {
   line-height: 1.4 ;
+}
+
+.container_footer_left {
+  width: 33%;
+  align: left;
+  max-width: 300px;
+  margin: 0 auto;
+}
+
+.container_footer_middle {
+  width: 33%;
+  align: middle;
+  max-width: 300px;
+  margin: 0 auto;
+}
+
+.container_footer_right {
+  width: 33%;
+  align: right;
+  max-width: 300px;
+  margin: 0 auto;
 }
 
 /* Header, <header>
