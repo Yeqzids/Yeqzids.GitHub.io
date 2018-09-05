@@ -10,15 +10,11 @@ layout: default
 
 For the most part of my work, I use the data collected by the [Zwicky Transient Facility (ZTF)](https://www.ztf.caltech.edu/) at [Palomar Observatory](http://www.astro.caltech.edu/palomar/homepage.html) to chase small asteroids that zip past our Earth, and to understand why and how comets get excited. I also use a range of worldwide facilities provided by the [GROWTH consortium](http://growth.caltech.edu/) to study these intriguing objects.
 
-Outside of my work, I enjoy going out for (non-for-work) stargazing. I also love playing violin/viola/cello in orchestras and chamber music groups.
+Outside of my work, I enjoy going out for (non-for-work) stargazing. I also love playing violin/viola/cello in music groups of variable sizes.
 
 ###### Photo by Hung-Chin Lin
 
-<br>
-
 * * *
-
-<br>
 
 ## Education and Work Experience
 
@@ -29,11 +25,7 @@ Outside of my work, I enjoy going out for (non-for-work) stargazing. I also love
 * M.Sc. in Astronomy, [University of Western Ontario](http://www.uwo.ca/), 2011 - 2013
 * B.Sc. in Atmospheric Sciences, [Sun Yat-sen University](http://www.sysu.edu.cn/), 2006 - 2010
 
-<br>
-
 * * *
-
-<br>
 
 ## Latest Research Works
 
@@ -45,36 +37,39 @@ Outside of my work, I enjoy going out for (non-for-work) stargazing. I also love
 
 You can find a list of my publication on [NASA/ADS](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=Ye%27s+Refereed+Publication&libid=57e6ba2680), [Google Scholar](https://scholar.google.com/citations?user=F-w70dYAAAAJ&hl=en) or [Research Gate](https://www.researchgate.net/profile/Quan_Zhi_Ye).
 
-<br>
-
 * * *
-
-<br>
 
 ## Outreach
 
-In addition to research, I also love doing public outreach. I have been writing for magazines, blogs and giving talks since high school, and still enjoy doing it after earning my Ph.D. Most of my outreach work was done in my home country (China). After I move to the 
+In addition to research, I also love doing outreach. I have written many articles for magazines/blogs and given talks since high school, and still enjoy reaching out to the general public after earning my Ph.D. Most of my outreach work was done in my home country (China). Unsurprisingly, doing outreach in western countries is hugely different from what I have done in China! But I have since found my niche on promoting the communication between China and the West.
 
-<br>
+Some of my recent outreach works with connection to English-speaking audience:
+
+* [Guest blogs at the Planetary Society, introducing recent Chinese space activities to the West](http://www.planetary.org/blogs/guest-blogs/?author_profile=325290428&topics=&dateType=firstPublicationDate&startDate=&endDate=)
+* Appearance on [Spacepod #103: meteor showers and "broom stars" with Dr. Ye](https://www.listentospacepod.com/episodes/2017/7/16/103-meteor-showers-and-broom-stars-with-dr-ye)
+* Appearance on [Astrotalk UK #75: China - back to the Moon with Chang'e 4](https://astrotalkuk.org/episode-75-china-back-to-the-moon-with-chang-e-4/)
+* Book translation projects (English to Mandarin):
+    * "Unraveling the Mysteries of The Big Bang Theory" by George Beahm [[Amazon China](https://www.amazon.cn/mn/detailApp/ref=asc_df_B00ADHNHU02320123/?asin=B00ADHNHU0&tag=douban-23&creative=2384&creativeASIN=B00ADHNHU0&linkCode=df0)]
+    * "Wonders of the Universe" by Brian Cox [[Amazon China](https://www.amazon.cn/mn/detailApp/ref=asc_df_B00O13NC2A2318401/?asin=B00O13NC2A&tag=douban-23&creative=2384&creativeASIN=B00O13NC2A&linkCode=df0)]
+    
+If you are curious on how much less awkward (?) I am on Mandarin-speaking podcasts, here you go:
+
+* [MounStar Talk Show #194: Geminid meteor shower](https://player.fm/series/series-106962/no194)
+* [MounStar Talk Show #196: interstellar asteroid `Oumuamua](https://player.fm/series/series-106962/no196-oumuamua)
+
+You can find me on [Twitter](https://twitter.com/Yeqzids) or [Weibo](https://www.weibo.com/1705147594) (Twitter-like service in China).
 
 * * *
-
-<br>
 
 ## Miscellaneous
 
 * I am really happy to receive the naming of asteroid [(10280) Yequanzhi](https://ssd.jpl.nasa.gov/sbdb.cgi?sstr=10280;old=0;orb=1;cov=0;log=0;cad=0#orb), courtesy of [Dr. Schelte J. "Bobby" Bus](https://www.ifa.hawaii.edu/users/sjb/default/bus.shtml)! Thank you Bobby!
-* I considered myself very fortunate to have co-discovered [comet C/2007 N3 (Lulin)](https://en.wikipedia.org/wiki/Comet_Lulin), the naked-eye comet in 2009, with highly acclaimed Taiwanese astrophotographer Mr. Chi Sheng Lin: [Spaceweather.com gallery](http://www.spaceweather.com/comets/gallery_lulin.htm).
-* A partial list of the asteroids that I have named
-* Books translation projects (English to Chinese):
-    * "Unraveling the Mysteries of The Big Bang Theory" by George Beahm [Amazon China]
-    * "Wonders of the Universe" by Brian Cox [Amazon China]
-* Guest blogs at the Planetary Society
-* Research webpage of Xingming Observatory
+* I was very fortunate to have co-discovered [comet C/2007 N3 (Lulin)](https://en.wikipedia.org/wiki/Comet_Lulin), the naked-eye comet in 2009, with highly acclaimed Taiwanese astrophotographer Mr. Chi Sheng Lin: [Spaceweather.com gallery](http://www.spaceweather.com/comets/gallery_lulin.htm).
+* [Research webpage of Xingming Observatory, an amateur-run remote observatory in China](http://www.astro.caltech.edu/~qye/xingming.html)
 
 #### My Name
 
-> Different from the western naming order, Chinese names follow the surname-given name order. Hence, my name should be written as Ye Quanzhi, where Ye (pronounced as "Yeh") is my surname and Quanzhi (pronounced as Ch'üan Chih) is my given name.
+> Chinese names are written in surname-first order, and strictly speaking, this rule also applies to the corresponding names in English (however) Hence, my name should really be written as Ye Quanzhi, where Ye (pronounced as "Yeh") is my surname and Quanzhi (pronounced as Ch'üan Chih) is my given name.
 
 > "Ye" means "leaf" in Chinese. The surname originated as a clan name after the [Duke of Ye](https://en.wikipedia.org/wiki/Duke_of_Ye), the Prime Minister of the State of Chu (today's lower Yangtze River area, including Shanghai) at about 500 BCE.
 
