@@ -6,9 +6,11 @@ layout: default
 
 ## Hi there!
 
-#### My name is Quanzhi, you can just call me QZ. I am a postdoctoral astronomer at [Caltech](http://www.caltech.edu/)/[IPAC](http://www.ipac.caltech.edu/). I am interested in the small bodies of the solar system, such as asteroids, comets and meteoroids.
+### My name is Quanzhi, you can just call me QZ<sub>[[What is my name then?](#my-name)]</sub>. I am an astronomer at [Caltech](http://www.caltech.edu/)/[IPAC](http://www.ipac.caltech.edu/). I am mostly interested in the small stuff in our Solar System, namely asteroids, comets and meteoroids (which fathered meteors).
 
-I use the [1.2-m Samuel Oschin telescope](http://www.astro.caltech.edu/palomar/about/telescopes/oschin.html) at [Palomar Observatory](http://www.astro.caltech.edu/palomar/homepage.html) as well as a range of worldwide facilities in the [GROWTH consortium](http://growth.caltech.edu/) to study the population of asteroids and comets in our solar system. Apart from my day (night) work, I am an avid stargazer and plays string instrument in orchestras and chamber music groups.
+For the most part of my work, I use the [1.2-m Samuel Oschin telescope](http://www.astro.caltech.edu/palomar/about/telescopes/oschin.html) at [Palomar Observatory](http://www.astro.caltech.edu/palomar/homepage.html) to chase small asteroids that zip past our Earth, and to understand why and how comets get excited. I also use a range of worldwide facilities provided by the [GROWTH consortium](http://growth.caltech.edu/) to study these intriguing objects.
+
+Outside my work, I enjoy going out for (non-work-related) stargazing. I also love play violin/viola/cello in orchestras and/or chamber music groups.
 
 ###### Photo by Hung-Chin Lin
 
@@ -16,18 +18,28 @@ I use the [1.2-m Samuel Oschin telescope](http://www.astro.caltech.edu/palomar/a
 
 * * *
 
-## Education and Professional Experience
+<br>
 
-* Postdoctoral Scholar ([GROWTH](http://growth.caltech.edu/) Fellow), [California Institute of Technology](http://www.caltech.edu/), 2016 - present
-* Ph.D. in Astronomy, [University of Western Ontario](http://www.uwo.ca/), 2013 - 2016
-    * Advisor: [Peter Brown](http://meteor.uwo.ca/~pbrown/)
-    * Dissertation: [Aging Comets and Their Meteor Showers](http://ir.lib.uwo.ca/etd/3903/)
-* M.Sc. in Astronomy, [University of Western Ontario](http://www.uwo.ca/), 2011 - 2013
-* B.Sc. in Atmospheric Sciences, [Sun Yat-sen University](http://www.sysu.edu.cn/), 2006 - 2010
+## Education and Work Experience
+
+<dl>
+<dt>Postdoctoral Scholar ([GROWTH](http://growth.caltech.edu/) Fellow), 2016 - present</dt>
+<dd>[California Institute of Technology](http://www.caltech.edu/)</dd>
+<dt>Ph.D. in Astronomy, 2016</dt>
+<dd>[University of Western Ontario](http://www.uwo.ca/)</dd>
+<dd>Advisor: [Peter Brown](http://meteor.uwo.ca/~pbrown/)</dd>
+<dd>Dissertation: [Aging Comets and Their Meteor Showers](http://ir.lib.uwo.ca/etd/3903/)</dd>
+<dt>M.Sc. in Astronomy (Planetary Science), 2013</dt>
+<dd>[University of Western Ontario](http://www.uwo.ca/)</dd>
+<dt>B.Sc. in Atmospheric Sciences, 2010</dt>
+<dd>[Sun Yat-sen University](http://www.sysu.edu.cn/)</dd>
+</dl>
 
 <br>
 
 * * *
+
+<br>
 
 ## Latest Papers
 
