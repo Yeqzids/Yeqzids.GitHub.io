@@ -14,6 +14,7 @@ Outside of my work, I enjoy going out for (non-for-work) stargazing. I also love
 
 ###### Photo by Hung-Chin Lin
 
+<br>
 * * *
 
 ## Education and Work Experience
@@ -25,6 +26,7 @@ Outside of my work, I enjoy going out for (non-for-work) stargazing. I also love
 * M.Sc. in Astronomy, [University of Western Ontario](http://www.uwo.ca/), 2011 - 2013
 * B.Sc. in Atmospheric Sciences, [Sun Yat-sen University](http://www.sysu.edu.cn/), 2006 - 2010
 
+<br>
 * * *
 
 ## Latest Research Works
@@ -37,6 +39,7 @@ Outside of my work, I enjoy going out for (non-for-work) stargazing. I also love
 
 You can find a list of my publication on [NASA/ADS](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=Ye%27s+Refereed+Publication&libid=57e6ba2680), [Google Scholar](https://scholar.google.com/citations?user=F-w70dYAAAAJ&hl=en) or [Research Gate](https://www.researchgate.net/profile/Quan_Zhi_Ye).
 
+<br>
 * * *
 
 ## Outreach
@@ -48,9 +51,6 @@ Some of my recent outreach works with connection to English-speaking audience:
 * [Guest blogs at the Planetary Society, introducing recent Chinese space activities to the West](http://www.planetary.org/blogs/guest-blogs/?author_profile=325290428&topics=&dateType=firstPublicationDate&startDate=&endDate=)
 * Appearance on [Spacepod #103: meteor showers and "broom stars" with Dr. Ye](https://www.listentospacepod.com/episodes/2017/7/16/103-meteor-showers-and-broom-stars-with-dr-ye)
 * Appearance on [Astrotalk UK #75: China - back to the Moon with Chang'e 4](https://astrotalkuk.org/episode-75-china-back-to-the-moon-with-chang-e-4/)
-* Book translation projects (English to Mandarin):
-    * "Unraveling the Mysteries of The Big Bang Theory" by George Beahm [[Amazon China](https://www.amazon.cn/mn/detailApp/ref=asc_df_B00ADHNHU02320123/?asin=B00ADHNHU0&tag=douban-23&creative=2384&creativeASIN=B00ADHNHU0&linkCode=df0)]
-    * "Wonders of the Universe" by Brian Cox [[Amazon China](https://www.amazon.cn/mn/detailApp/ref=asc_df_B00O13NC2A2318401/?asin=B00O13NC2A&tag=douban-23&creative=2384&creativeASIN=B00O13NC2A&linkCode=df0)]
     
 If you are curious on how much less awkward (?) I am on Mandarin-speaking podcasts, here you go:
 
@@ -59,6 +59,7 @@ If you are curious on how much less awkward (?) I am on Mandarin-speaking podcas
 
 You can find me on [Twitter](https://twitter.com/Yeqzids) or [Weibo](https://www.weibo.com/1705147594) (Twitter-like service in China).
 
+<br>
 * * *
 
 ## Miscellaneous
@@ -69,8 +70,8 @@ You can find me on [Twitter](https://twitter.com/Yeqzids) or [Weibo](https://www
 
 #### My Name
 
-> Chinese names are written in surname-first order, and strictly speaking, this rule also applies to the corresponding names in English (however) Hence, my name should really be written as Ye Quanzhi, where Ye (pronounced as "Yeh") is my surname and Quanzhi (pronounced as Ch'üan Chih) is my given name.
+> Chinese names are written in surname-first order, and strictly speaking, this rule also applies to their English counterparts ([in accordance to P.R. China Standard GB/T 28039-2011](http://www.moe.gov.cn/ewebeditor/uploadfile/2015/01/13/20150113091249368.pdf); however, apart from usage in legal documents and media reports, in daily practice this rule has not been strictly observed). Hence, my name should really be written as Ye Quanzhi, where Ye (pronounced as "Yeh") is my surname and Quanzhi (pronounced as Ch'üan Chih) is my given name.
 
-> "Ye" means "leaf" in Chinese. The surname originated as a clan name after the [Duke of Ye](https://en.wikipedia.org/wiki/Duke_of_Ye), the Prime Minister of the State of Chu (today's lower Yangtze River area, including Shanghai) at about 500 BCE.
+> "Ye" means "leaf" in Chinese. Ye is also romanized "Yeh", "Yip", "Ip", "Jip" in different spelling systems and variety of spoken Chinese (e.g. Cantonese). The surname originated as a clan name after the [Duke of Ye](https://en.wikipedia.org/wiki/Duke_of_Ye), the Prime Minister of the [State of Chu](https://en.wikipedia.org/wiki/Chu_(state)) (today's lower Yangtze River area, including Shanghai) at circa 500 BCE. Confucius visited the Duke of Ye in 489 BCE, and their conversations were recorded in [The Analects](https://ctext.org/analects/zi-lu) (note that the title of the Duke was spelled as the Duke of She in The Analects). 
 
-###### Last update: 2018 September 4
+###### Last update: 2018 September 5

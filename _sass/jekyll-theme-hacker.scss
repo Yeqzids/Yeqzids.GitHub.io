@@ -80,8 +80,7 @@ header h1 {
   line-height: 1.5;
   margin: 0 0 0 0;
   font-weight: bold;
-//  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-  font:14px/1.5 "OpenSansRegular", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
   color: $conifer;//$header;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
                0 0 5px rgba(181, 232, 83, 0.1),
@@ -91,7 +90,7 @@ header h1 {
 }
 
 header h1:before {
-  font-size: 60px;
+  font-size: 24px;
 }
 
 header h2 {
