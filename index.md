@@ -68,6 +68,7 @@ You can find me on [Twitter](https://twitter.com/Yeqzids) or [Weibo](https://www
 * I was very fortunate to have co-discovered [comet C/2007 N3 (Lulin)](https://en.wikipedia.org/wiki/Comet_Lulin), the naked-eye comet in 2009, with highly acclaimed Taiwanese astrophotographer Mr. Chi Sheng Lin: [Spaceweather.com gallery](http://www.spaceweather.com/comets/gallery_lulin.htm).
 * [Research webpage of Xingming Observatory, an amateur-run remote observatory in China](http://www.astro.caltech.edu/~qye/xingming.html)
 
+<br>
 #### My Name
 
 > Chinese names are written in surname-first order, and strictly speaking, this rule also applies to their English counterparts ([in accordance to P.R. China Standard GB/T 28039-2011](http://www.moe.gov.cn/ewebeditor/uploadfile/2015/01/13/20150113091249368.pdf); however, apart from usage in legal documents and media reports, in daily practice this rule has not been strictly observed). Hence, my name should really be written as Ye Quanzhi, where Ye (pronounced as "Yeh") is my surname and Quanzhi (pronounced as Ch'üan Chih) is my given name.
