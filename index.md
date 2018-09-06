@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img style="float: right;" src="me.jpg">
+<img style="float: right;" src="imgs/me.jpg">
 
 ## Hi there!
 
@@ -84,7 +84,7 @@ Some of my recent outreach works with connection to English-speaking audience:
 * Appearance on [Spacepod #103: meteor showers and "broom stars" with Dr. Ye](https://www.listentospacepod.com/episodes/2017/7/16/103-meteor-showers-and-broom-stars-with-dr-ye)
 * Appearance on [Astrotalk UK #75: China - back to the Moon with Chang'e 4](https://astrotalkuk.org/episode-75-china-back-to-the-moon-with-chang-e-4/)
     
-If you are curious on how much less awkward (?) I am on Mandarin-speaking podcasts, here you go:
+If you are curious on how much different I am on Mandarin-speaking podcasts, here you go:
 
 * [MounStar Talk Show #194: Geminid meteor shower](https://player.fm/series/series-106962/no194)
 * [MounStar Talk Show #196: interstellar asteroid `Oumuamua](https://player.fm/series/series-106962/no196-oumuamua)
@@ -96,7 +96,7 @@ You can find me on [Twitter](https://twitter.com/Yeqzids) or [Weibo](https://www
 
 ## Miscellaneous
 
-* I am really happy to receive the naming of asteroid [(10280) Yequanzhi](https://ssd.jpl.nasa.gov/sbdb.cgi?sstr=10280;old=0;orb=1;cov=0;log=0;cad=0#orb), courtesy of [Dr. Schelte J. "Bobby" Bus](https://www.ifa.hawaii.edu/users/sjb/default/bus.shtml)! Thank you Bobby!
+* I am really happy to receive the naming of asteroid [(10280) Yequanzhi](https://ssd.jpl.nasa.gov/sbdb.cgi?sstr=10280;old=0;orb=1;cov=0;log=0;cad=0#orb), courtesy of [Dr. Bobby Bus](https://www.ifa.hawaii.edu/users/sjb/default/bus.shtml)! Thank you Bobby!
 * I was very fortunate to have co-discovered [comet C/2007 N3 (Lulin)](https://en.wikipedia.org/wiki/Comet_Lulin), the naked-eye comet in 2009, with highly acclaimed Taiwanese astrophotographer Mr. Chi Sheng Lin: [Spaceweather.com gallery](http://www.spaceweather.com/comets/gallery_lulin.htm).
 * [Research webpage of Xingming Observatory, an amateur-run remote observatory in China](http://www.astro.caltech.edu/~qye/xingming.html)
 
