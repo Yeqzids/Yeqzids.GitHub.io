@@ -37,11 +37,15 @@ Near-Earth Asteroid (3200) Phaethon is a mysterious object: it is associated wit
 
 [Ye, Wiegert and Hui (2018), ApJL, 864, 9.](http://iopscience.iop.org/article/10.3847/2041-8213/aada46/meta)
 
+<br>
+
 <img style="float: left;" src="imgs/pss-review.png" width="150">
 
 I review the latest research regarding using meteor shower observations to enhance our understanding of active asteroids and dormant comets.
 
 [Ye (2018), P&SS in press.](https://www.sciencedirect.com/science/article/pii/S0032063317304518)
+
+<br>
 
 <img style="float: left;" src="imgs/lexell.png" width="150">
 
@@ -49,15 +53,19 @@ We target a 250-year-old unresolved mystery! Lexell's Comet was found in 1770 an
 
 [Ye, Wiegert and Hui (2018), AJ, 155, 163.](http://iopscience.iop.org/article/10.3847/1538-3881/aab1f6/meta). See also: [AAS Nova post](https://aasnova.org/2018/08/22/has-anyone-found-a-lost-comet/); [astrobites post](https://astrobites.org/2018/04/02/long-lost-comet/)
 
+<br>
+
 <img style="float: left;" src="imgs/shangri-la-bolide.png" width="150">
 
 It was the mid-autumn festival at the small city of Shangri-La in southwestern China, and people went outside for traditional moon-gazing event. Suddenly, a bright bolide appeared, loud booms were heard and the ground shaked for a couple seconds. It turned out that a small asteroid just collide with the Earth in the sky above Shangri-La. In this short research note, I briefly researched this event and calculated where surviving meteorites could have landed.
 
-[Ye (2018), E&PP, 1, 170.](http://www.eppcgs.org/article/id/6f94c7b1-15ec-4656-8c40-1d70a8b6d936?pageType=en)]
+[Ye (2018), E&PP, 1, 170.](http://www.eppcgs.org/article/id/6f94c7b1-15ec-4656-8c40-1d70a8b6d936?pageType=en)
+
+<br>
 
 <img style="float: left;" src="imgs/oumuamua.png" width="150">
 
-`Oumuamua, found in October 2017, is the first known interstellar object that visited our Solar System. We joined the party that greet `Oumuamua with observations and papers. We measured the behavior and color of `Oumuamua, and found that it is not a comet as people have predicted, but more closely resembles a rocky asteroid. We also tried to observe meteors originated from `Oumuamua as an independent test to see if `Oumuamua has recently been active, but also did not detect any.
+\`Oumuamua, found in October 2017, is the first known interstellar object that visited our Solar System. We joined the party that greet `Oumuamua with observations and papers. We measured the behavior and color of \`Oumuamua, and found that it is not a comet as people have predicted, but more closely resembles a rocky asteroid. We also tried to observe meteors originated from \`Oumuamua as an independent test to see if \`Oumuamua has recently been active, but also did not detect any.
 
 [Ye, Zhang, Kelley and Brown (2017), ApJL, 851, 5.](http://iopscience.iop.org/article/10.3847/2041-8213/aa9a34/meta)
 
