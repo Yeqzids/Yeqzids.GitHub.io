@@ -39,7 +39,7 @@ Near-Earth Asteroid (3200) Phaethon is a mysterious object: it is associated wit
 
 <br>
 
-<img style="float: left;" src="imgs/pss-review.png" width="150">
+<img style="float: left;" src="imgs/pss-review.png" width="150"><br>
 
 I review the latest research regarding using meteor shower observations to enhance our understanding of active asteroids and dormant comets.
 
@@ -69,7 +69,7 @@ It was the mid-autumn festival at the small city of Shangri-La in southwestern C
 
 [Ye, Zhang, Kelley and Brown (2017), ApJL, 851, 5.](http://iopscience.iop.org/article/10.3847/2041-8213/aa9a34/meta)
 
-You can find a list of my publication on [NASA/ADS](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=Ye%27s+Refereed+Publication&libid=57e6ba2680), [Google Scholar](https://scholar.google.com/citations?user=F-w70dYAAAAJ&hl=en) or [Research Gate](https://www.researchgate.net/profile/Quan_Zhi_Ye).
+<br>You can find a list of my publication on [NASA/ADS](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=Ye%27s+Refereed+Publication&libid=57e6ba2680), [Google Scholar](https://scholar.google.com/citations?user=F-w70dYAAAAJ&hl=en) or [Research Gate](https://www.researchgate.net/profile/Quan_Zhi_Ye).
 
 <br>
 * * *
