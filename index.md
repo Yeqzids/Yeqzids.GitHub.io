@@ -10,7 +10,7 @@ layout: default
 
 For the most part of my work, I use the data collected by the [Zwicky Transient Facility (ZTF)](https://www.ztf.caltech.edu/) at [Palomar Observatory](http://www.astro.caltech.edu/palomar/homepage.html) to chase small asteroids that zip past our Earth, and to understand why and how comets get excited. I also use a range of worldwide facilities provided by the [GROWTH consortium](http://growth.caltech.edu/) to study these intriguing objects.
 
-Outside of my work, I enjoy going out for (non-for-work) stargazing. I also love playing violin/viola/cello in music groups of variable sizes.
+Outside of my work, I enjoy going out for (non-for-work) stargazing. I also love playing violin/viola/cello in music groups of a variety of sizes.
 
 ###### Photo by Hung-Chin Lin
 
