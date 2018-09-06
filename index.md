@@ -65,7 +65,7 @@ It was the mid-autumn festival at the small city of Shangri-La in southwestern C
 
 <img style="float: left;" src="imgs/oumuamua.png" width="150">
 
-\`Oumuamua, found in October 2017, is the first known interstellar object that visited our Solar System. We joined the party that greet `Oumuamua with observations and papers. We measured the behavior and color of \`Oumuamua, and found that it is not a comet as people have predicted, but more closely resembles a rocky asteroid. We also tried to observe meteors originated from \`Oumuamua as an independent test to see if \`Oumuamua has recently been active, but also did not detect any.
+\`Oumuamua, found in October 2017, is the first known interstellar object that visited our Solar System. We joined the party that greet \`Oumuamua with observations and papers. We measured the behavior and color of \`Oumuamua, and found that it is not a comet as people have predicted, but more closely resembles a rocky asteroid. We also tried to observe meteors originated from \`Oumuamua as an independent test to see if \`Oumuamua has recently been active, but also did not detect any.
 
 [Ye, Zhang, Kelley and Brown (2017), ApJL, 851, 5.](http://iopscience.iop.org/article/10.3847/2041-8213/aa9a34/meta)
 
