@@ -37,7 +37,9 @@ Near-Earth Asteroid (3200) Phaethon is a mysterious object: it is associated wit
 
 [Ye, Wiegert and Hui (2018), ApJL, 864, 9.](http://iopscience.iop.org/article/10.3847/2041-8213/aada46/meta)
 
-<img style="float: left;" src="imgs/pss-review.png" width="150"><br>
+<br>
+
+<img style="float: left;" src="imgs/pss-review.png" width="150">
 
 I review the latest research regarding using meteor shower observations to enhance our understanding of active asteroids and dormant comets.
 
