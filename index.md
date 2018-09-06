@@ -37,8 +37,6 @@ Near-Earth Asteroid (3200) Phaethon is a mysterious object: it is associated wit
 
 [Ye, Wiegert and Hui (2018), ApJL, 864, 9.](http://iopscience.iop.org/article/10.3847/2041-8213/aada46/meta)
 
-<br>
-
 <img style="float: left;" src="imgs/pss-review.png" width="150"><br>
 
 I review the latest research regarding using meteor shower observations to enhance our understanding of active asteroids and dormant comets.
@@ -105,6 +103,6 @@ You can find me on [Twitter](https://twitter.com/Yeqzids) or [Weibo](https://www
 
 > Chinese names are written in surname-first order. Strictly speaking, this rule also applies to their English counterparts, even though in daily practice this rule has not been strictly observed. Hence, my name should really be written as Ye Quanzhi, where Ye (pronounced as "Yeh") is my surname and Quanzhi (pronounced as Ch'üan Chih) is my given name.
 
-> "Ye" means "leaf" in Chinese. Ye is also romanized "Yeh", "Yip", "Ip" in different spelling systems and variety of spoken Chinese (e.g. Cantonese), and "She" in ancient Chinese. The surname originated as a clan name after the [Duke of Ye](https://en.wikipedia.org/wiki/Duke_of_Ye), the Prime Minister of the [State of Chu](https://en.wikipedia.org/wiki/Chu_(state)) (today's lower Yangtze River area, including Shanghai) at circa 500 BCE. Confucius visited the Duke of Ye in 489 BCE, and their conversations were recorded in [The Analects](https://ctext.org/analects/zi-lu). 
+> "Ye" means "leaf" in Chinese. Ye is also romanized "Yeh", "Yip", "Ip" in different spelling systems and variety of spoken Chinese (e.g. Cantonese), and "She" in ancient Chinese. The surname originated as a clan name after the [Duke of Ye](https://en.wikipedia.org/wiki/Duke_of_Ye), the Prime Minister of the [State of Chu](https://en.wikipedia.org/wiki/Chu_(state)) at circa 500 BCE. Confucius visited the Duke of Ye in 489 BCE, and their conversations were recorded in [The Analects](https://ctext.org/analects/zi-lu). 
 
 ###### Last update: 2018 September 5
