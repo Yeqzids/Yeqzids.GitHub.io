@@ -31,11 +31,11 @@ Outside of my work, I enjoy going out for (non-for-work) stargazing. I also love
 
 ## Latest Research
 
-<img style="float: left;" src="imgs/gem-hst.png" width="200">
+<img style="float: left;" src="imgs/gem-hst.png" width="100">
 
 Near-Earth Asteroid (3200) Phaethon is a mysterious object: it is associated with the strong Geminid meteor shower, implying that it had been highly active in the past, yet decades of observation showed that it is largely inactive. We used the Hubble Space Telescope to search for small fragments recently ejected from Phaethon. Although we found nothing, we conclude that Phaethon has likely not been very active in the recent decades. We also showed how to take an ugly photo with Hubble!
 
-Ye, Wiegert and Hui (2018), ApJL, 864, 9. [[Original paper](http://iopscience.iop.org/article/10.3847/2041-8213/aada46/meta)][[arXiv access](https://arxiv.org/abs/1808.04564)]
+<small>Ye, Wiegert and Hui (2018), ApJL, 864, 9. [[Original paper](http://iopscience.iop.org/article/10.3847/2041-8213/aada46/meta)][[arXiv access](https://arxiv.org/abs/1808.04564)]</small>
 
 * Ye (2018): Meteor showers from active asteroids and dormant comets in near-Earth space: a review. [[Original paper](https://www.sciencedirect.com/science/article/pii/S0032063317304518)][[arXiv access](https://arxiv.org/abs/1804.07245)]
 * Ye, Wiegert and Hui (2018): Finding Long Lost Lexell's Comet: The Fate of the First Discovered Near-Earth Object. [[Original paper (free access)](http://iopscience.iop.org/article/10.3847/1538-3881/aab1f6/meta)][[AAS Nova post](https://aasnova.org/2018/08/22/has-anyone-found-a-lost-comet/)][[astrobites post](https://astrobites.org/2018/04/02/long-lost-comet/)]
