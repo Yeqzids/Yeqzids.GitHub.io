@@ -29,9 +29,14 @@ Outside of my work, I enjoy going out for (non-for-work) stargazing. I also love
 <br>
 * * *
 
-## Latest Research Works
+## Latest Research
 
-* Ye, Wiegert and Hui (2018): In Search of Recent Disruption of (3200) Phaethon: Model Implication and Hubble Space Telescope Search. [[Original paper](http://iopscience.iop.org/article/10.3847/2041-8213/aada46/meta)][[arXiv access](https://arxiv.org/abs/1808.04564)]
+<img style="float: left;" src="imgs/gem-hst.png" width="200">
+
+Near-Earth Asteroid (3200) Phaethon is a mysterious object: it is associated with the strong Geminid meteor shower, implying that it had been highly active in the past, yet decades of observation showed that it is largely inactive. We used the Hubble Space Telescope to search for small fragments recently ejected from Phaethon. Although we found nothing, we conclude that Phaethon has likely not been very active in the recent decades. We also showed how to take an ugly photo with Hubble!
+
+Ye, Wiegert and Hui (2018), ApJL, 864, 9. [[Original paper](http://iopscience.iop.org/article/10.3847/2041-8213/aada46/meta)][[arXiv access](https://arxiv.org/abs/1808.04564)]
+
 * Ye (2018): Meteor showers from active asteroids and dormant comets in near-Earth space: a review. [[Original paper](https://www.sciencedirect.com/science/article/pii/S0032063317304518)][[arXiv access](https://arxiv.org/abs/1804.07245)]
 * Ye, Wiegert and Hui (2018): Finding Long Lost Lexell's Comet: The Fate of the First Discovered Near-Earth Object. [[Original paper (free access)](http://iopscience.iop.org/article/10.3847/1538-3881/aab1f6/meta)][[AAS Nova post](https://aasnova.org/2018/08/22/has-anyone-found-a-lost-comet/)][[astrobites post](https://astrobites.org/2018/04/02/long-lost-comet/)]
 * Ye (2018): A Preliminary Analysis of the Shangri-La Bolide on 2017 Oct 4. [[Original paper (free access)](http://www.eppcgs.org/article/id/6f94c7b1-15ec-4656-8c40-1d70a8b6d936?pageType=en)]
@@ -71,8 +76,8 @@ You can find me on [Twitter](https://twitter.com/Yeqzids) or [Weibo](https://www
 <br>
 #### My Name
 
-> Chinese names are written in surname-first order, and strictly speaking, this rule also applies to their English counterparts ([in accordance to P.R. China Standard GB/T 28039-2011](http://www.moe.gov.cn/ewebeditor/uploadfile/2015/01/13/20150113091249368.pdf); however, apart from usage in legal documents and media reports, in daily practice this rule has not been strictly observed). Hence, my name should really be written as Ye Quanzhi, where Ye (pronounced as "Yeh") is my surname and Quanzhi (pronounced as Ch'üan Chih) is my given name.
+> Chinese names are written in surname-first order. Strictly speaking, this rule also applies to their English counterparts, even though in daily practice this rule has not been strictly observed. Hence, my name should really be written as Ye Quanzhi, where Ye (pronounced as "Yeh") is my surname and Quanzhi (pronounced as Ch'üan Chih) is my given name.
 
-> "Ye" means "leaf" in Chinese. Ye is also romanized "Yeh", "Yip", "Ip", "Jip" in different spelling systems and variety of spoken Chinese (e.g. Cantonese). The surname originated as a clan name after the [Duke of Ye](https://en.wikipedia.org/wiki/Duke_of_Ye), the Prime Minister of the [State of Chu](https://en.wikipedia.org/wiki/Chu_(state)) (today's lower Yangtze River area, including Shanghai) at circa 500 BCE. Confucius visited the Duke of Ye in 489 BCE, and their conversations were recorded in [The Analects](https://ctext.org/analects/zi-lu) (note that the title of the Duke was spelled as the Duke of She in The Analects). 
+> "Ye" means "leaf" in Chinese. Ye is also romanized "Yeh", "Yip", "Ip" in different spelling systems and variety of spoken Chinese (e.g. Cantonese), and "She" in ancient Chinese. The surname originated as a clan name after the [Duke of Ye](https://en.wikipedia.org/wiki/Duke_of_Ye), the Prime Minister of the [State of Chu](https://en.wikipedia.org/wiki/Chu_(state)) (today's lower Yangtze River area, including Shanghai) at circa 500 BCE. Confucius visited the Duke of Ye in 489 BCE, and their conversations were recorded in [The Analects](https://ctext.org/analects/zi-lu). 
 
 ###### Last update: 2018 September 5
