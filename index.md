@@ -34,6 +34,9 @@ Outside of my work, I enjoy going out for (non-for-work) stargazing. I also love
     * [ZTF](https://www.ztf.caltech.edu/) Solar System Science Working Group Co-Chair, 2016 - present
     * [ZTF](https://www.ztf.caltech.edu/) Near-Earth Object (NEO) Team Lead, 2016 - present
 * Member of the [Commission F1 WG Meteor Shower Nomenclature](https://www.iau.org/science/scientific_bodies/working_groups/276/members/), [International Astronomical Union](https://www.iau.org), 2019 - 2022
+* Graduate Teaching/Research Assistant, [University of Western Ontario](http://www.uwo.ca/), 2011 - 2016
+* Research Fellow, [Sun Yat-sen University](http://www.sysu.edu.cn/) Atmospheric Exploration Laboratory, 2007 - 2011
+* Project Lead, Lulin Sky Survey, 2006 - 2009
 
 <br>
 * * *
