@@ -17,14 +17,17 @@ Outside of my work, I enjoy going out for (non-for-work) stargazing. I also love
 <br>
 * * *
 
-## Education and Work Experience
+## Education and Professional Experience
 
 * Postdoctoral Scholar ([GROWTH](http://growth.caltech.edu/) Fellow), [California Institute of Technology](http://www.caltech.edu/), 2016 - present
-* Ph.D. in Astronomy, [University of Western Ontario](http://www.uwo.ca/), 2013 - 2016
+    * [ZTF](https://www.ztf.caltech.edu/) Solar System Science Working Group Co-Chair, 2016 - present
+    * [ZTF](https://www.ztf.caltech.edu/) Near-Earth Object (NEO) Team Lead, 2016 - present
+* Member of [Commission F1 WG Meteor Shower Nomenclature](https://www.iau.org/science/scientific_bodies/working_groups/276/members/), [International Astronomical Union](https://www.iau.org), 2019 - 2022
+* Ph.D. in Astronomy, [University of Western Ontario](http://www.uwo.ca/), 2016
     * Advisor: [Dr. Peter Brown](http://meteor.uwo.ca/~pbrown/)
-    * Dissertation: [Aging Comets and Their Meteor Showers](http://ir.lib.uwo.ca/etd/3903/)
-* M.Sc. in Astronomy, [University of Western Ontario](http://www.uwo.ca/), 2011 - 2013
-* B.Sc. in Atmospheric Sciences, [Sun Yat-sen University](http://www.sysu.edu.cn/), 2006 - 2010
+    * Thesis: [Aging Comets and Their Meteor Showers](http://ir.lib.uwo.ca/etd/3903/)
+* M.Sc. in Astronomy, [University of Western Ontario](http://www.uwo.ca/), 2013
+* B.Sc. in Atmospheric Sciences, [Sun Yat-sen University](http://www.sysu.edu.cn/), 2010
 
 <br>
 * * *
