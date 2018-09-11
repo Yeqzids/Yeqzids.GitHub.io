@@ -33,7 +33,7 @@ Outside of my work, I enjoy going out for (non-for-work) stargazing. I also love
 * Postdoctoral Scholar ([GROWTH](http://growth.caltech.edu/) Fellow), [California Institute of Technology](http://www.caltech.edu/), 2016 - present
     * [ZTF](https://www.ztf.caltech.edu/) Solar System Science Working Group Co-Chair, 2016 - present
     * [ZTF](https://www.ztf.caltech.edu/) Near-Earth Object (NEO) Team Lead, 2016 - present
-* Member of [Commission F1 WG Meteor Shower Nomenclature](https://www.iau.org/science/scientific_bodies/working_groups/276/members/), [International Astronomical Union](https://www.iau.org), 2019 - 2022
+* Member of the [Commission F1 WG Meteor Shower Nomenclature](https://www.iau.org/science/scientific_bodies/working_groups/276/members/), [International Astronomical Union](https://www.iau.org), 2019 - 2022
 
 <br>
 * * *
@@ -116,4 +116,4 @@ You can find me on [Twitter](https://twitter.com/Yeqzids) or [Weibo](https://www
 
 > "Ye" means "leaf" in Chinese. Ye is also romanized "Yeh", "Yip", "Ip" in different spelling systems and variety of spoken Chinese (e.g. Cantonese), and "She" in ancient Chinese. The surname originated as a clan name after the [Duke of Ye](https://en.wikipedia.org/wiki/Duke_of_Ye), the Prime Minister of the [State of Chu](https://en.wikipedia.org/wiki/Chu_(state)) at circa 500 BCE. Confucius visited the Duke of Ye in 489 BCE, and their conversations were recorded in [The Analects](https://ctext.org/analects/zi-lu). 
 
-###### Last update: 2018 September 5
+###### Last update: 2018 September 10
