@@ -6,9 +6,9 @@ layout: default
 
 ## Hi there!
 
-### My name is Quanzhi, you can just call me QZ. I am an astronomer at [Caltech](http://www.caltech.edu/)/[IPAC](http://www.ipac.caltech.edu/). I am mostly interested in the small stuff in our Solar System, namely asteroids, comets and meteoroids (which fathered meteors).
+### My name is Quanzhi, you can just call me QZ. I am an astronomer at [Caltech](http://www.caltech.edu/)/[IPAC](http://www.ipac.caltech.edu/). I am mostly interested in the small stuff in our Solar System, namely asteroids, comets and meteoroids (which produced meteors).
 
-For the most part of my work, I use the data collected by the [Zwicky Transient Facility (ZTF)](https://www.ztf.caltech.edu/) at [Palomar Observatory](http://www.astro.caltech.edu/palomar/homepage.html) to chase small asteroids that zip past our Earth, and to understand why and how comets get excited. I also use a range of worldwide facilities provided by the [GROWTH consortium](http://growth.caltech.edu/) to study these intriguing objects.
+For the most part of my work, I use the data collected by the [Zwicky Transient Facility (ZTF)](https://www.ztf.caltech.edu/) at [Palomar Observatory](http://www.astro.caltech.edu/palomar/homepage.html) to chase asteroids that zip past our Earth, and to understand why and how comets get excited. I also use a range of worldwide facilities provided by the [GROWTH consortium](http://growth.caltech.edu/) to study these intriguing objects.
 
 Outside of my work, I enjoy going out for (non-for-work) stargazing. I also love playing violin/viola/cello in music groups of a variety of sizes.
 
@@ -20,7 +20,7 @@ Outside of my work, I enjoy going out for (non-for-work) stargazing. I also love
 ## Education
 
 * Ph.D. in Astronomy, [University of Western Ontario](http://www.uwo.ca/), 2016
-    * Advisor: [Dr. Peter Brown](http://meteor.uwo.ca/~pbrown/)
+    * Advisor: [Peter Brown](http://meteor.uwo.ca/~pbrown/)
     * Thesis: [Aging Comets and Their Meteor Showers](http://ir.lib.uwo.ca/etd/3903/)
 * M.Sc. in Astronomy, [University of Western Ontario](http://www.uwo.ca/), 2013
 * B.Sc. in Atmospheric Sciences, [Sun Yat-sen University](http://www.sysu.edu.cn/), 2010
@@ -55,7 +55,7 @@ Near-Earth Asteroid (3200) Phaethon is a mysterious object: it is associated wit
 
 I review the latest research regarding using meteor shower observations to enhance our understanding of active asteroids and dormant comets.
 
-[Ye (2018), P&SS in press.](https://www.sciencedirect.com/science/article/pii/S0032063317304518)
+[Ye (2018), P&SS, 164, 7.](https://www.sciencedirect.com/science/article/pii/S0032063317304518)
 
 <br>
 
@@ -119,4 +119,4 @@ You can find me on [Twitter](https://twitter.com/Yeqzids) or [Weibo](https://www
 
 > "Ye" means "leaf" in Chinese. Ye is also romanized "Yeh", "Yip", "Ip" in different spelling systems and variety of spoken Chinese (e.g. Cantonese), and "She" in ancient Chinese. The surname originated as a clan name after the [Duke of Ye](https://en.wikipedia.org/wiki/Duke_of_Ye), the Prime Minister of the [State of Chu](https://en.wikipedia.org/wiki/Chu_(state)) at circa 500 BCE. Confucius visited the Duke of Ye in 489 BCE, and their conversations were recorded in [The Analects](https://ctext.org/analects/zi-lu). 
 
-###### Last update: 2018 September 10
+###### Last update: 2018 December 28
