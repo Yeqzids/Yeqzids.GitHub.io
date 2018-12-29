@@ -6,11 +6,11 @@ layout: default
 
 ## Hi there!
 
-### My name is Quanzhi, you can just call me QZ. I am an astronomer at [Caltech](http://www.caltech.edu/)/[IPAC](http://www.ipac.caltech.edu/). I am mostly interested in the small stuff in our Solar System, namely asteroids, comets and meteoroids (which produced meteors).
+### My name is Quanzhi, you can call me QZ. I am an astronomer at [Caltech](http://www.caltech.edu/)/[IPAC](http://www.ipac.caltech.edu/). I am interested in the small things in our Solar System, namely asteroids, comets and meteoroids (which produced meteors).
 
-For the most part of my work, I use the data collected by the [Zwicky Transient Facility (ZTF)](https://www.ztf.caltech.edu/) at [Palomar Observatory](http://www.astro.caltech.edu/palomar/homepage.html) to chase asteroids that zip past our Earth, and to understand why and how comets get excited. I also use a range of worldwide facilities provided by the [GROWTH consortium](http://growth.caltech.edu/) to study these intriguing objects.
+For the most part of my current work, I use the data collected by the [Zwicky Transient Facility (ZTF)](https://www.ztf.caltech.edu/) at [Palomar Observatory](http://www.astro.caltech.edu/palomar/homepage.html) to chase asteroids that zip past our Earth, and to understand why and how comets get excited. I also use a range of worldwide facilities provided by the [GROWTH consortium](http://growth.caltech.edu/) to study these intriguing objects.
 
-Outside of my work, I enjoy going out for (non-for-work) stargazing. I also love playing violin/viola/cello in music groups of a variety of sizes.
+Outside my working hours, I enjoy going out for (non-for-work) stargazing. I also love playing violin/viola/cello in music groups of various sizes.
 
 ###### Photo by Hung-Chin Lin
 
@@ -28,15 +28,12 @@ Outside of my work, I enjoy going out for (non-for-work) stargazing. I also love
 <br>
 * * *
 
-## Professional Experience
+## Professional Appointments
 
-* Postdoctoral Scholar ([GROWTH](http://growth.caltech.edu/) Fellow), [California Institute of Technology](http://www.caltech.edu/), 2016 - present
-    * [ZTF](https://www.ztf.caltech.edu/) Solar System Science Working Group Co-Chair, 2016 - present
-    * [ZTF](https://www.ztf.caltech.edu/) Near-Earth Object (NEO) Team Lead, 2016 - present
-* Member, [IAU Commission F1 Working Group of Meteor Shower Nomenclature](https://www.iau.org/science/scientific_bodies/working_groups/276/members/), 2019 - 2022
+* Postdoctoral Scholar in Astronomy ([GROWTH](http://growth.caltech.edu/) Fellow), [California Institute of Technology/Caltech](http://www.caltech.edu/), 2016 - present
+* Long-term Visiting Scholar, [Caltech/IPAC](http://www.ipac.caltech.edu/), 2016 - present
 * Graduate Teaching/Research Assistant, [University of Western Ontario](http://www.uwo.ca/), 2011 - 2016
 * Research Fellow, [Sun Yat-sen University](http://www.sysu.edu.cn/) Atmospheric Exploration Laboratory, 2007 - 2011
-* Project Lead, Lulin Sky Survey, 2006 - 2009
 
 <br>
 * * *
@@ -88,7 +85,7 @@ It was the mid-autumn festival at the small city of Shangri-La in southwestern C
 
 ## Outreach
 
-In addition to research, I also love doing outreach. I have written many articles for magazines/blogs and given talks since high school, and still enjoy reaching out to the general public after earning my Ph.D. Most of my outreach work was done in my home country (China). Unsurprisingly, doing outreach in western countries is hugely different from what I have done in China! But I have since found my niche on promoting the communication between China and the West.
+In addition to research, I also love doing outreach. I have written many articles for magazines/blogs and given talks since high school, and still enjoy reaching out to the general public after earning my Ph.D. Most of my outreach work was done in my home country (China). Unsurprisingly, I find doing outreach in western countries is hugely different from what I have done in China! But I have since found my niche on promoting the communication between China and the West.
 
 Some of my recent outreach works with connection to English-speaking audience:
 
@@ -96,10 +93,10 @@ Some of my recent outreach works with connection to English-speaking audience:
 * Appearance on [Spacepod #103: meteor showers and "broom stars" with Dr. Ye](https://www.listentospacepod.com/episodes/2017/7/16/103-meteor-showers-and-broom-stars-with-dr-ye)
 * Appearance on [Astrotalk UK #75: China - back to the Moon with Chang'e 4](https://astrotalkuk.org/episode-75-china-back-to-the-moon-with-chang-e-4/)
     
-If you are curious on how much different I am on Mandarin-speaking podcasts, here you go:
+If you are curious, here are some Mandarin-speaking podcasts that I have contributed:
 
-* [MounStar Talk Show #194: Geminid meteor shower](https://player.fm/series/series-106962/no194)
-* [MounStar Talk Show #196: interstellar asteroid `Oumuamua](https://player.fm/series/series-106962/no196-oumuamua)
+* [Mountain Star Talk Show #194: Geminid meteor shower](https://player.fm/series/series-106962/no194)
+* [Mountain Star Talk Show #196: interstellar asteroid `Oumuamua](https://player.fm/series/series-106962/no196-oumuamua)
 
 You can find me on [Twitter](https://twitter.com/Yeqzids) or [Weibo](https://www.weibo.com/1705147594) (Twitter-like service in China).
 
@@ -108,15 +105,15 @@ You can find me on [Twitter](https://twitter.com/Yeqzids) or [Weibo](https://www
 
 ## Miscellaneous
 
-* I am really happy to receive the naming of asteroid [(10280) Yequanzhi](https://ssd.jpl.nasa.gov/sbdb.cgi?sstr=10280;old=0;orb=1;cov=0;log=0;cad=0#orb), courtesy of [Dr. Bobby Bus](https://www.ifa.hawaii.edu/users/sjb/default/bus.shtml)! Thank you Bobby!
-* I was very fortunate to have co-discovered [comet C/2007 N3 (Lulin)](https://en.wikipedia.org/wiki/Comet_Lulin), the naked-eye comet in 2009, with highly acclaimed Taiwanese astrophotographer Mr. Chi Sheng Lin: [Spaceweather.com gallery](http://www.spaceweather.com/comets/gallery_lulin.htm).
+* I am honored to receive the naming of asteroid [(10280) Yequanzhi](https://ssd.jpl.nasa.gov/sbdb.cgi?sstr=10280;old=0;orb=1;cov=0;log=0;cad=0#orb), courtesy of [Bobby Bus](https://www.ifa.hawaii.edu/users/sjb/default/bus.shtml).
+* I was fortunate to have co-discovered [comet C/2007 N3 (Lulin)](https://en.wikipedia.org/wiki/Comet_Lulin), the naked-eye comet in 2009, with acclaimed Taiwanese astrophotographer Chi Sheng Lin: [Spaceweather.com gallery](http://www.spaceweather.com/comets/gallery_lulin.htm).
 * [Research webpage of Xingming Observatory, an amateur-run remote observatory in China](http://www.astro.caltech.edu/~qye/xingming.html)
 
 <br>
 #### My Name
 
-> Chinese names are written in surname-first order. Strictly speaking, this rule also applies to their English counterparts, even though in daily practice this rule has not been strictly observed. Hence, my name should really be written as Ye Quanzhi, where Ye (pronounced as "Yeh") is my surname and Quanzhi (pronounced as Ch'üan Chih) is my given name.
+> Chinese names are written in surname-first order. Strictly speaking, this rule also applies to their English counterparts, even though in daily practice this rule has not been strictly followed. Hence, my name should really be written as Ye Quanzhi, where Ye (pronounced as "Yeh") is my surname and Quanzhi (pronounced as Ch'üan Chih) is my given name.
 
-> "Ye" means "leaf" in Chinese. Ye is also romanized "Yeh", "Yip", "Ip" in different spelling systems and variety of spoken Chinese (e.g. Cantonese), and "She" in ancient Chinese. The surname originated as a clan name after the [Duke of Ye](https://en.wikipedia.org/wiki/Duke_of_Ye), the Prime Minister of the [State of Chu](https://en.wikipedia.org/wiki/Chu_(state)) at circa 500 BCE. Confucius visited the Duke of Ye in 489 BCE, and their conversations were recorded in [The Analects](https://ctext.org/analects/zi-lu). 
+> "Ye" means "leaf" in Chinese. Ye is also romanized "Yeh", "Yip", "Ip" in different spelling systems and variety of spoken Chinese (e.g. Cantonese), and "She" in ancient Chinese. The surname originated as a clan name after the [Duke of Ye](https://en.wikipedia.org/wiki/Duke_of_Ye), the Prime Minister of the [State of Chu](https://en.wikipedia.org/wiki/Chu_(state)) at circa 500 BCE. Confucius visited the Duke of Ye (She) in 489 BCE, and their conversations were recorded in [The Analects](https://ctext.org/analects/zi-lu).
 
 ###### Last update: 2018 December 28
