@@ -38,11 +38,13 @@ Outside my working hours, I enjoy going out for (non-for-work) stargazing. I als
 <br>
 * * *
 
-## Latest Research
+## Research
 
-You can find a list of my publication on [NASA/ADS](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=Ye%27s+Refereed+Publication&libid=57e6ba2680), [Google Scholar](https://scholar.google.com/citations?user=F-w70dYAAAAJ&hl=en) or [Research Gate](https://www.researchgate.net/profile/Quan_Zhi_Ye).
+<img style="float: left;" src="imgs/cloud-0000-0002-4838-7676.jpg" width="800">
 
-<br>
+The keyword cloud above is generated using [Scimeter](https://scimeter.org/). You can find a list of my publication on [NASA/ADS](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=Ye%27s+Refereed+Publication&libid=57e6ba2680) or [Google Scholar](https://scholar.google.com/citations?user=F-w70dYAAAAJ&hl=en).
+
+### Latest Research
 
 <img style="float: left;" src="imgs/gem-hst.png" width="150">
 
@@ -112,7 +114,7 @@ You can find me on [Twitter](https://twitter.com/Yeqzids) or [Weibo](https://www
 * [Research webpage of Xingming Observatory, an amateur-run remote observatory in China](http://www.astro.caltech.edu/~qye/xingming.html)
 
 <br>
-#### My Name
+### My Name
 
 > Chinese names are written in surname-first order. Strictly speaking, this rule also applies to their English counterparts, even though in daily practice this rule has not been strictly followed. Hence, my name should really be written as Ye Quanzhi, where Ye (pronounced as "Yeh") is my surname and Quanzhi (pronounced as Ch'üan Chih) is my given name.
 
