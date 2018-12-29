@@ -30,7 +30,7 @@ Outside my working hours, I enjoy going out for (non-for-work) stargazing. I als
 
 ## Professional Appointments
 
-* Postdoctoral Scholar in Astronomy ([GROWTH](http://growth.caltech.edu/) Fellow), [California Institute of Technology/Caltech](http://www.caltech.edu/), 2016 - present
+* Postdoctoral Scholar in Astronomy, [Caltech](http://www.caltech.edu/), 2016 - present
 * Long-term Visiting Scholar, [Caltech/IPAC](http://www.ipac.caltech.edu/), 2016 - present
 * Graduate Teaching/Research Assistant, [University of Western Ontario](http://www.uwo.ca/), 2011 - 2016
 * Research Fellow, [Sun Yat-sen University](http://www.sysu.edu.cn/) Atmospheric Exploration Laboratory, 2007 - 2011
