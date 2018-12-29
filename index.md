@@ -40,6 +40,10 @@ Outside my working hours, I enjoy going out for (non-for-work) stargazing. I als
 
 ## Latest Research
 
+You can find a list of my publication on [NASA/ADS](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=Ye%27s+Refereed+Publication&libid=57e6ba2680), [Google Scholar](https://scholar.google.com/citations?user=F-w70dYAAAAJ&hl=en) or [Research Gate](https://www.researchgate.net/profile/Quan_Zhi_Ye).
+
+<br>
+
 <img style="float: left;" src="imgs/gem-hst.png" width="150">
 
 Near-Earth Asteroid (3200) Phaethon is a mysterious object: it is associated with the strong Geminid meteor shower, implying that it had been highly active in the past, yet decades of observation showed that it is largely inactive. We used the Hubble Space Telescope to search for small fragments recently ejected from Phaethon. Although we found nothing, we concluded that Phaethon has likely not been very active in the recent decades. We also showed how to take an ugly photo with Hubble!
@@ -77,8 +81,6 @@ It was the mid-autumn festival at the small city of Shangri-La in southwestern C
 \`Oumuamua, found in October 2017, is the first known interstellar object that visited our Solar System. We joined the party that greet \`Oumuamua with observations and papers. We measured the behavior and color of \`Oumuamua, and found that it is not a comet as people have predicted, but more closely resembles a rocky asteroid. We also tried to observe meteors originated from \`Oumuamua as an independent test to see if \`Oumuamua has recently been active, but also did not detect any.
 
 [Ye, Zhang, Kelley and Brown (2017), ApJL, 851, 5.](http://iopscience.iop.org/article/10.3847/2041-8213/aa9a34/meta)
-
-<br>You can find a list of my publication on [NASA/ADS](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=Ye%27s+Refereed+Publication&libid=57e6ba2680), [Google Scholar](https://scholar.google.com/citations?user=F-w70dYAAAAJ&hl=en) or [Research Gate](https://www.researchgate.net/profile/Quan_Zhi_Ye).
 
 <br>
 * * *
