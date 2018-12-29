@@ -6,7 +6,7 @@ layout: default
 
 ## Hi there!
 
-### My name is Quanzhi, you can call me QZ. I am an astronomer at [Caltech](http://www.caltech.edu/)/[IPAC](http://www.ipac.caltech.edu/). I am interested in the small things in our Solar System, namely asteroids, comets and meteoroids (which produced meteors).
+### My name is Quanzhi, you can call me QZ. I am an astronomer at [Caltech](http://www.caltech.edu/)/[IPAC](http://www.ipac.caltech.edu/). I am interested in small bodies in the Solar System, namely asteroids, comets and meteoroids (which produced meteors).
 
 For the most part of my current work, I use the data collected by the [Zwicky Transient Facility (ZTF)](https://www.ztf.caltech.edu/) at [Palomar Observatory](http://www.astro.caltech.edu/palomar/homepage.html) to chase asteroids that zip past our Earth, and to understand why and how comets get excited. I also use a range of worldwide facilities provided by the [GROWTH consortium](http://growth.caltech.edu/) to study these intriguing objects.
 
