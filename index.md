@@ -44,6 +44,7 @@ Outside my working hours, I enjoy going out for (non-for-work) stargazing. I als
 
 The keyword cloud above is generated using [Scimeter](https://scimeter.org/). You can find a list of my publication on [NASA/ADS](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=Ye%27s+Refereed+Publication&libid=57e6ba2680) or [Google Scholar](https://scholar.google.com/citations?user=F-w70dYAAAAJ&hl=en).
 
+<br>
 ### Latest Research
 
 <img style="float: left;" src="imgs/gem-hst.png" width="150">
@@ -120,4 +121,4 @@ You can find me on [Twitter](https://twitter.com/Yeqzids) or [Weibo](https://www
 
 > "Ye" means "leaf" in Chinese. Ye is also romanized "Yeh", "Yip", "Ip" in different spelling systems and variety of spoken Chinese (e.g. Cantonese), and "She" in ancient Chinese. The surname originated as a clan name after the [Duke of Ye](https://en.wikipedia.org/wiki/Duke_of_Ye), the Prime Minister of the [State of Chu](https://en.wikipedia.org/wiki/Chu_(state)) at circa 500 BCE. Confucius visited the Duke of Ye (She) in 489 BCE, and their conversations were recorded in [The Analects](https://ctext.org/analects/zi-lu).
 
-###### Last update: 2018 December 28
+###### Last update: 2018 December 29
