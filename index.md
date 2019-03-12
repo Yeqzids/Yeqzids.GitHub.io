@@ -42,7 +42,7 @@ Outside my working hours, I enjoy going out for (non-for-work) stargazing. I als
 
 <img src="imgs/cloud-0000-0002-4838-7676.jpg" width="800">
 
-The keyword cloud above is generated using [Scimeter](https://scimeter.org/). You can find a list of my publication on [NASA/ADS](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=Ye%27s+Refereed+Publication&libid=57e6ba2680) or [Google Scholar](https://scholar.google.com/citations?user=F-w70dYAAAAJ&hl=en).
+The keyword cloud above is generated using [Scimeter](https://scimeter.org/). You can find a list of my publication on [NASA/ADS](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=Ye%27s+Refereed+Publication&libid=57e6ba2680) or [Google Scholar](https://scholar.google.com/citations?hl=en&user=q0EQUHQAAAAJ).
 
 <br>
 ### Latest Research
