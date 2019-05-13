@@ -6,11 +6,11 @@ layout: default
 
 ## Hi there!
 
-### My name is Quanzhi, you can call me QZ. I am an astronomer at [Caltech](http://www.caltech.edu/)/[IPAC](http://www.ipac.caltech.edu/). I am interested in small bodies in the Solar System, namely asteroids, comets and meteoroids (which produced meteors).
+### My name is Quanzhi, you can call me QZ. I am an astronomer at [Caltech](http://www.caltech.edu/)/[IPAC](http://www.ipac.caltech.edu/). I am mostly interested in small bodies in the Solar System -- namely asteroids, comets and meteoroids.
 
-For the most part of my current work, I use the data collected by the [Zwicky Transient Facility (ZTF)](https://www.ztf.caltech.edu/) at [Palomar Observatory](http://www.astro.caltech.edu/palomar/homepage.html) to chase asteroids that zip past our Earth, and to understand why and how comets get excited. I also use a range of worldwide facilities provided by the [GROWTH consortium](http://growth.caltech.edu/) to study these intriguing objects.
+For the most part of my current work, I use the data collected by the [Zwicky Transient Facility (ZTF) project](https://www.ztf.caltech.edu/) at [Palomar Observatory](http://www.astro.caltech.edu/palomar/homepage.html) to discover and characterize near-Earth asteroids, and to understand why and how comets get activated. I also use a range of worldwide facilities provided by the [GROWTH consortium](http://growth.caltech.edu/) to study these intriguing objects.
 
-Outside my working hours, I enjoy going out for (non-for-work) stargazing. I also love playing violin/viola/cello in music groups of various sizes.
+I was lured into astronomy by stars when I was a kid. Nowadays I still enjoy going out for stargazing in my spare time. I also have a passion for classical music and play viola and cello at Caltech's [Chamber Music program](http://chambermusic.caltech.edu/).
 
 ###### Photo by Hung-Chin Lin
 
@@ -31,7 +31,7 @@ Outside my working hours, I enjoy going out for (non-for-work) stargazing. I als
 ## Professional Appointments
 
 * Postdoctoral Scholar in Astronomy, [Caltech](http://www.caltech.edu/), 2016 - present
-* Long-term Visiting Scholar, [Caltech/IPAC](http://www.ipac.caltech.edu/), 2016 - present
+* Long-term Visitor, [Caltech/IPAC](http://www.ipac.caltech.edu/), 2016 - present
 * Graduate Teaching/Research Assistant, [University of Western Ontario](http://www.uwo.ca/), 2011 - 2016
 * Research Fellow, [Sun Yat-sen University](http://www.sysu.edu.cn/) Atmospheric Exploration Laboratory, 2007 - 2011
 
@@ -42,7 +42,7 @@ Outside my working hours, I enjoy going out for (non-for-work) stargazing. I als
 
 <img src="imgs/cloud-0000-0002-4838-7676.jpg" width="800">
 
-The keyword cloud above is generated using [Scimeter](https://scimeter.org/). You can find a list of my publication on [NASA/ADS](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=Ye%27s+Refereed+Publication&libid=57e6ba2680) or [Google Scholar](https://scholar.google.com/citations?hl=en&user=q0EQUHQAAAAJ).
+The keyword cloud above is generated using [Scimeter](https://scimeter.org/). You can find a list of my publication on [NASA/ADS](https://ui.adsabs.harvard.edu/search/__qid=124fd9103d907ddc8650fd418a589a8a&q=*%3A*&sort=date%20desc%2C%20bibcode%20desc) or [Google Scholar](https://scholar.google.com/citations?hl=en&user=q0EQUHQAAAAJ).
 
 <br>
 ### Latest Research
@@ -90,7 +90,7 @@ It was the mid-autumn festival at the small city of Shangri-La in southwestern C
 
 ## Outreach
 
-In addition to research, I also love doing outreach. I have written many articles for magazines/blogs and given talks since high school, and still enjoy reaching out to the general public after earning my Ph.D. Most of my outreach work was done in my home country (China). Unsurprisingly, I find doing outreach in western countries is hugely different from what I have done in China! But I have since found my niche on promoting the communication between China and the West.
+In addition to research, I also love doing outreach. I have written many articles for magazines/blogs and have delivered about 80 presentations since 2004. Most of my outreach work was done in my home country (China). Unsurprisingly, I find doing outreach in western countries hugely different from what I have done in China! But I have since found my niche on promoting the communication between China and the West.
 
 Some of my recent outreach works with connection to English-speaking audience:
 
@@ -101,7 +101,7 @@ Some of my recent outreach works with connection to English-speaking audience:
 If you are curious, here are some Mandarin-speaking podcasts that I have contributed:
 
 * [Mountain Star Talk Show #194: Geminid meteor shower](https://player.fm/series/series-106962/no194)
-* [Mountain Star Talk Show #196: interstellar asteroid `Oumuamua](https://player.fm/series/series-106962/no196-oumuamua)
+* [Mountain Star Talk Show #196: interstellar asteroid 'Oumuamua](https://player.fm/series/series-106962/no196-oumuamua)
 
 You can find me on [Twitter](https://twitter.com/Yeqzids) or [Weibo](https://www.weibo.com/1705147594) (Twitter-like service in China).
 
