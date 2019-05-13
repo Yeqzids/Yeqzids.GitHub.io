@@ -57,11 +57,11 @@ The keyword cloud above is generated using [Scimeter](https://scimeter.org/). Yo
 
 <img style="float: left;" src="imgs/apjab05baf4_lr.jpg" width="150">
 
-
-
-What happen to the asteroids that get too close to the Sun? Previously studies suggest that they explode -- but we don't know what such explosion looks like, because we have never seen one until now. But there are other ways to probe this process: the ill-fated asteroids produce dust streams on their orbits that, if they intersect Earth's orbit, could be visible as meteor showers. Here we use dynamical model and meteor observations to understand the explosion of near-Sun asteroids. We find that such "explosions" probably happen in slow-motion -- they may take a few thousand years to complete. We also made an educated guess that some of the near-Sun "comets" might in fact be exploding (or, to use a better word, "disintegrating") asteroids.
+What happen to the asteroids that get too close to the Sun? Previously studies suggest that they explode -- but we don't know how they explode, because we have never seen. But there are other ways to probe this process: the disrupted asteroids produce dust streams on their orbits that, if intersect the Earth's orbit, could be visible as meteor showers. Here we use dynamical model and meteor observations to study the explosion of near-Sun asteroids. We find that such "explosions" probably happen in slow-motion -- they may take a few thousand years to complete. We also made an educated guess that some of the near-Sun "comets" might, in fact, be exploding (or, to use a better word, "disintegrating") asteroids.
 
 [Ye and Granvik (2019), ApJ, 873, 104.](https://iopscience.iop.org/article/10.3847/1538-4357/ab05ba/meta)
+
+.
 
 <br>
 
