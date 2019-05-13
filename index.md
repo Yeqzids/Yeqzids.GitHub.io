@@ -57,7 +57,7 @@ The keyword cloud above is generated using [Scimeter](https://scimeter.org/). Yo
 
 <img style="float: left;" src="imgs/apjab05baf4_lr.jpg" width="150">
 
-What happen to the asteroids that get too close to the Sun? Previously studies suggest that they explode -- but we don't know what such explosion looks like, because we have never seen one until now. But there are other ways to probe this process. Here we use dynamical model and meteor observations to understand the explosion of near-Sun asteroids. We find that such "explosions" probably happen in slow-motion -- they may take a few thousand years to complete. We also made an educated guess that some of the near-Sun "comets" might in fact be exploding (or, to use a better word, "disintegrating") asteroids.
+What happen to the asteroids that get too close to the Sun? Previously studies suggest that they explode -- but we don't know what such explosion looks like, because we have never seen one until now. But there are other ways to probe this process: the ill-fated asteroids produce dust streams on their orbits that, if they intersect Earth's orbit, could be visible as meteor showers. Here we use dynamical model and meteor observations to understand the explosion of near-Sun asteroids. We find that such "explosions" probably happen in slow-motion -- they may take a few thousand years to complete. We also made an educated guess that some of the near-Sun "comets" might in fact be exploding (or, to use a better word, "disintegrating") asteroids.
 
 [Ye and Granvik (2019), ApJ, 873, 104.](https://iopscience.iop.org/article/10.3847/1538-4357/ab05ba/meta)
 
@@ -67,7 +67,7 @@ What happen to the asteroids that get too close to the Sun? Previously studies s
 
 A ZTF paper party! Here you will find all you need to know about ZTF: telescope, camera, data processing, survey strategy, as well as preliminary science results. For asteroid enthusiasts we have two back-to-back papers (on different journals though) describing our ongoing effort of detecting fast-moving objects (FMOs) using ZTF.
 
-[PASP - ZTF Special Issue](https://iopscience.iop.org/journal/1538-3873/page/Zwicky-Transient-Facility) | [Ye, Masci, Lin et al. (2019), PASP in press.](https://arxiv.org/abs/1904.09645) | [Duev, Mahabal, Ye et al. (2019), MNRAS, 486, 4158.](https://academic.oup.com/mnras/article-abstract/486/3/4158/5472913?redirectedFrom=fulltext)
+[PASP: ZTF Special Issue](https://iopscience.iop.org/journal/1538-3873/page/Zwicky-Transient-Facility) | [Ye, Masci, Lin et al. (2019), PASP in press.](https://arxiv.org/abs/1904.09645) | [Duev, Mahabal, Ye et al. (2019), MNRAS, 486, 4158.](https://academic.oup.com/mnras/article-abstract/486/3/4158/5472913?redirectedFrom=fulltext)
 
 <br>
 
