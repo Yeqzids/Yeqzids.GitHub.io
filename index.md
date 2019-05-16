@@ -6,11 +6,11 @@ layout: default
 
 ## Hi there!
 
-### My name is Quanzhi, you can call me QZ. I am an astronomer at [Caltech](http://www.caltech.edu/)/[IPAC](http://www.ipac.caltech.edu/). I am mostly interested in small bodies in the Solar System -- namely asteroids, comets and meteoroids.
+### My name is Quanzhi, you can call me QZ. I am a postdoctoral astronomer at [Caltech](http://www.caltech.edu/)/[IPAC](http://www.ipac.caltech.edu/). I am mostly interested in small bodies in the Solar System -- namely asteroids, comets and meteoroids.
 
 For the most part of my current work, I use the data collected by the [Zwicky Transient Facility (ZTF) project](https://www.ztf.caltech.edu/) at [Palomar Observatory](http://www.astro.caltech.edu/palomar/homepage.html) to discover and characterize near-Earth asteroids, and to understand why and how comets get activated. I also use a range of worldwide facilities provided by the [GROWTH consortium](http://growth.caltech.edu/) to study these intriguing objects.
 
-I was lured into astronomy by stars when I was a kid. Nowadays I still enjoy going out for stargazing in my spare time. I also have a passion for classical music and play viola and cello at Caltech's [Chamber Music program](http://chambermusic.caltech.edu/).
+I was lured into astronomy by the stars when I was a kid. Nowadays I still enjoy going out for stargazing during my spare time. I also have a passion for classical music and play viola and cello at Caltech's [Chamber Music program](http://chambermusic.caltech.edu/).
 
 ###### Photo by Hung-Chin Lin
 
@@ -59,7 +59,7 @@ The keyword cloud above is generated using [Scimeter](https://scimeter.org/). Yo
 
 .
 
-What happen to the asteroids that get too close to the Sun? Previously studies suggest that they explode -- but we don't know how they explode, because we have never seen. But there are other ways to probe this process: the disrupted asteroids produce dust streams on their orbits that, if intersect the Earth's orbit, could be visible as meteor showers. Here we use dynamical model and meteor observations to study the explosion of near-Sun asteroids. We find that such "explosions" probably happen in slow-motion -- they may take a few thousand years to complete. We also made an educated guess that some of the near-Sun "comets" might, in fact, be exploding (or, to use a better word, "disintegrating") asteroids.
+What happen to the asteroids that get too close to the Sun? Previous studies suggest that they explode -- but we don't know how they explode, because we have never seen one. But there are other ways to probe this process: the disrupted asteroids produce dust streams on their orbits that, if intersect the Earth's orbit, could be visible as meteor showers. Here we use dynamical model and meteor observations to study the explosion of near-Sun asteroids. We find that such "explosions" probably happen in slow-motion -- they may take a few thousand years to complete. We also made an educated guess that some of the near-Sun "comets" might, in fact, be exploding (or, to use a better word, "disintegrating") asteroids.
 
 [Ye and Granvik (2019), ApJ, 873, 104.](https://iopscience.iop.org/article/10.3847/1538-4357/ab05ba/meta)
 
@@ -123,4 +123,4 @@ You can find me on [Twitter](https://twitter.com/Yeqzids) or [Weibo](https://www
 
 > "Ye" means "leaf" in Chinese. Ye is also romanized "Yeh", "Yip", "Ip" in different spelling systems and variety of spoken Chinese (e.g. Cantonese), and "She" in ancient Chinese. The surname originated as a clan name after the [Duke of Ye](https://en.wikipedia.org/wiki/Duke_of_Ye), the Prime Minister of the [State of Chu](https://en.wikipedia.org/wiki/Chu_(state)) at circa 500 BCE. Confucius visited the Duke of Ye (She) in 489 BCE, and their conversations were recorded in [The Analects](https://ctext.org/analects/zi-lu).
 
-###### Last update: 2019 May 13
+###### Last update: 2019 May 15
