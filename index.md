@@ -10,7 +10,7 @@ layout: default
 
 For the most part of my current work, I use the data collected by the [Zwicky Transient Facility (ZTF) project](https://www.ztf.caltech.edu/) at [Palomar Observatory](http://www.astro.caltech.edu/palomar/homepage.html) to discover and characterize near-Earth asteroids, and to understand why and how comets get activated. I also use a range of worldwide facilities provided by the [GROWTH consortium](http://growth.caltech.edu/) to study these intriguing objects.
 
-I was lured into astronomy by the stars when I was a kid. Nowadays I still enjoy going out for stargazing during my spare time. I also have a passion for classical music and play viola and cello at Caltech's [Chamber Music program](http://chambermusic.caltech.edu/).
+I was lured into astronomy by the stars when I was a kid. Nowadays I still enjoy going out for stargazing during my spare time. I also have a passion for classical music and play viola and cello at [Caltech's Chamber Music program](http://chambermusic.caltech.edu/).
 
 ###### Photo by Hung-Chin Lin
 
