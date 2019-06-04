@@ -6,7 +6,7 @@ layout: default
 
 ## Hi there!
 
-### My name is Quanzhi, you can call me QZ. I am a postdoctoral astronomer at [Caltech](http://www.caltech.edu/)/[IPAC](http://www.ipac.caltech.edu/). I am mostly interested in small bodies in the Solar System -- namely asteroids, comets and meteoroids.
+### My name is Quanzhi, you can call me QZ. I am an astronomer at [Caltech](http://www.caltech.edu/)/[IPAC](http://www.ipac.caltech.edu/). I am mostly interested in small bodies in the Solar System -- namely asteroids, comets and meteoroids.
 
 For the most part of my current work, I use the data collected by the [Zwicky Transient Facility (ZTF) project](https://www.ztf.caltech.edu/) at [Palomar Observatory](http://www.astro.caltech.edu/palomar/homepage.html) to discover and characterize near-Earth asteroids, and to understand why and how comets get activated. I also use a range of worldwide facilities provided by the [GROWTH consortium](http://growth.caltech.edu/) to study these intriguing objects.
 
@@ -30,8 +30,7 @@ I was lured into astronomy by the stars when I was a kid. Nowadays I still enjoy
 
 ## Professional Appointments
 
-* Postdoctoral Scholar in Astronomy, [Caltech](http://www.caltech.edu/), 2016 - present
-* Long-term Visitor, [Caltech/IPAC](http://www.ipac.caltech.edu/), 2016 - present
+* Postdoctoral Scholar in Astronomy, [Caltech](http://www.caltech.edu/)/[IPAC](http://www.ipac.caltech.edu/), 2016 - present
 * Graduate Teaching/Research Assistant, [University of Western Ontario](http://www.uwo.ca/), 2011 - 2016
 * Research Fellow, [Sun Yat-sen University](http://www.sysu.edu.cn/) Atmospheric Exploration Laboratory, 2007 - 2011
 
@@ -112,7 +111,7 @@ You can find me on [Twitter](https://twitter.com/Yeqzids) or [Weibo](https://www
 
 ## Miscellaneous
 
-* I am honored to receive the naming of asteroid [(10280) Yequanzhi](https://ssd.jpl.nasa.gov/sbdb.cgi?sstr=10280;old=0;orb=1;cov=0;log=0;cad=0#orb), courtesy of [Bobby Bus](https://www.ifa.hawaii.edu/users/sjb/default/bus.shtml).
+* I am honored to receive the naming of asteroid [(10280) Yequanzhi](https://ssd.jpl.nasa.gov/sbdb.cgi?sstr=10280;old=0;orb=1;cov=0;log=0;cad=0#orb).
 * I was fortunate to have co-discovered [comet C/2007 N3 (Lulin)](https://en.wikipedia.org/wiki/Comet_Lulin), the naked-eye comet in 2009, with acclaimed Taiwanese astrophotographer Chi Sheng Lin: [Spaceweather.com gallery](http://www.spaceweather.com/comets/gallery_lulin.htm).
 * [Research webpage of Xingming Observatory, an amateur-run remote observatory in China](http://www.astro.caltech.edu/~qye/xingming.html)
 
@@ -123,4 +122,4 @@ You can find me on [Twitter](https://twitter.com/Yeqzids) or [Weibo](https://www
 
 > "Ye" means "leaf" in Chinese. Ye is also romanized "Yeh", "Yip", "Ip" in different spelling systems and variety of spoken Chinese (e.g. Cantonese), and "She" in ancient Chinese. The surname originated as a clan name after the [Duke of Ye](https://en.wikipedia.org/wiki/Duke_of_Ye), the Prime Minister of the [State of Chu](https://en.wikipedia.org/wiki/Chu_(state)) at circa 500 BCE. Confucius visited the Duke of Ye (She) in 489 BCE, and their conversations were recorded in [The Analects](https://ctext.org/analects/zi-lu).
 
-###### Last update: 2019 May 15
+###### Last update: 2019 May 31
