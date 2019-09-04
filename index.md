@@ -4,7 +4,7 @@ layout: default
 
 <img style="float: right;" src="imgs/me.jpg">
 
-> <strong>I am starting at the [Department of Astronomy](https://www.astro.umd.edu/) at the [University of Maryland](https://www.umd.edu/) on September 1, 2019 -- this page will soon be updated!</strong>
+> <strong>I am starting at the [Department of Astronomy](https://www.astro.umd.edu/) at the [University of Maryland](https://www.umd.edu/) in the fall of 2019 -- this page will soon be updated! -- QZ, September 4, 2019</strong>
 
 ## Hi there!
 
