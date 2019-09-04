@@ -4,6 +4,8 @@ layout: default
 
 <img style="float: right;" src="imgs/me.jpg">
 
+> <strong>I am starting at the [Department of Astronomy](https://www.astro.umd.edu/) at the [University of Maryland](https://www.umd.edu/) on September 1, 2019 -- this page will soon be updated!</strong>
+
 ## Hi there!
 
 ### My name is Quanzhi, you can call me QZ. I am an astronomer at [Caltech](http://www.caltech.edu/)/[IPAC](http://www.ipac.caltech.edu/). I am mostly interested in small bodies in the Solar System -- namely asteroids, comets and meteoroids.
@@ -122,4 +124,4 @@ You can find me on [Twitter](https://twitter.com/Yeqzids) or [Weibo](https://www
 
 > "Ye" means "leaf" in Chinese. Ye is also romanized "Yeh", "Yip", "Ip" in different spelling systems and variety of spoken Chinese (e.g. Cantonese), and "She" in ancient Chinese. The surname originated as a clan name after the [Duke of Ye](https://en.wikipedia.org/wiki/Duke_of_Ye), the Prime Minister of the [State of Chu](https://en.wikipedia.org/wiki/Chu_(state)) at circa 500 BCE. Confucius visited the Duke of Ye (She) in 489 BCE, and their conversations were recorded in [The Analects](https://ctext.org/analects/zi-lu).
 
-###### Last update: 2019 May 31
+###### Last update: 2019 September 4
