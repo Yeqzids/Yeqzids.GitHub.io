@@ -4,15 +4,13 @@ layout: default
 
 <img style="float: right;" src="imgs/me.jpg">
 
-> <strong>I am starting at the [Department of Astronomy](https://www.astro.umd.edu/) at the [University of Maryland](https://www.umd.edu/) in the fall of 2019 -- this page will soon be updated! -- QZ, September 4, 2019</strong>
-
 ## Hi there!
 
-### My name is Quanzhi, you can call me QZ. I am an astronomer at [Caltech](http://www.caltech.edu/)/[IPAC](http://www.ipac.caltech.edu/). I am mostly interested in small bodies in the Solar System -- namely asteroids, comets and meteoroids.
+### My name is Quanzhi, you can call me QZ. I am an astronomer at [University of Maryland](http://www.umd.edu/).
 
-For the most part of my current work, I use the data collected by the [Zwicky Transient Facility (ZTF) project](https://www.ztf.caltech.edu/) at [Palomar Observatory](http://www.astro.caltech.edu/palomar/homepage.html) to discover and characterize near-Earth asteroids, and to understand why and how comets get activated. I also use a range of worldwide facilities provided by the [GROWTH consortium](http://growth.caltech.edu/) to study these intriguing objects.
+I am primarily interested in the small bodies of the solar system -- namely asteroids, comets, and meteoroids. I use a wide range of techniques to study these intriguing bodies. I have used the [Canadian Meteor Orbit Radar](https://fireballs.ndc.nasa.gov/cmor-radiants/) to study meteor showers, as well as the [Zwicky Transient Facility (ZTF) project](https://www.ztf.caltech.edu/) at [Palomar Observatory](http://www.astro.caltech.edu/palomar/homepage.html) to find near-Earth asteroids.
 
-I was lured into astronomy by the stars when I was a kid. Nowadays I still enjoy going out for stargazing during my spare time. I also have a passion for classical music and play viola and cello at [Caltech's Chamber Music program](http://chambermusic.caltech.edu/).
+I was lured into astronomy by the stars when I was a kid. Nowadays I still enjoy going out for stargazing in my spare time. Besides stars, I also have a passion for classical music. I  and play viola and cello at [Caltech's Chamber Music program](http://chambermusic.caltech.edu/).
 
 ###### Photo by Hung-Chin Lin
 
@@ -32,7 +30,8 @@ I was lured into astronomy by the stars when I was a kid. Nowadays I still enjoy
 
 ## Professional Appointments
 
-* Postdoctoral Scholar in Astronomy, [Caltech](http://www.caltech.edu/)/[IPAC](http://www.ipac.caltech.edu/), 2016 - present
+* Visiting Assistant Research Scientist, [University of Maryland](http://www.umd.edu), 2019 - present
+* Postdoctoral Scholar, [Caltech](http://www.caltech.edu/)/[IPAC](http://www.ipac.caltech.edu/), 2016 - 2019
 * Graduate Teaching/Research Assistant, [University of Western Ontario](http://www.uwo.ca/), 2011 - 2016
 * Research Fellow, [Sun Yat-sen University](http://www.sysu.edu.cn/) Atmospheric Exploration Laboratory, 2007 - 2011
 
@@ -47,6 +46,22 @@ The keyword cloud above is generated using [Scimeter](https://scimeter.org/). Yo
 
 <br>
 ### Latest Research
+
+<img style="float: left;" src="imgs/289p.png" width="150">
+
+How can the smallest (known) comet generates one of the largest (known) comet outbursts? We are curious too. Here comes comet 289P/Blanpain, a comet that was lost shortly after its discovery in 1819, only to be rediscovered 200 years later as a weakly-active comet that is only 300-m in size, the smallest comet ever known. It suddenly brightened by a factor of 1,000 in 2013, with a broad, short tail. We found that its sudden reappearance in 2013 was caused by a mega-outburst that released 100 thousand tons of dust, that is (a bit surpisingly) only 1% of its total mass. We proposed that this outburst was triggered by the crystallization of amorphous water ice. Bonus: 289P is returning at the end of 2019! Whether it will reemerge as a healthy comet or disappear entirely is beyond anybody's guess.
+
+[Ye & Clark (2019), ApJL, 878, 2](https://iopscience.iop.org/article/10.3847/2041-8213/ab26bc/meta)
+
+<br>
+
+<img style="float: left;" src="imgs/gem-hst.png" width="150">
+
+Near-Earth Asteroid (3200) Phaethon is a mysterious object: it is associated with the strong Geminid meteor shower, implying that it had been highly active in the past, yet decades of observation showed that it is largely inactive. In the first paper, we used the Hubble Space Telescope to search for small fragments recently ejected from Phaethon. Although we found nothing, we concluded that Phaethon has likely not been very active in the recent decades. We also showed how to take an ugly photo with Hubble! In the second paper, my colleagues Maryam Tabeshian and company (myself included) used a fleet of telescopes to study Phaethon from different angles -- colors, phase curves, and activity.
+
+[Ye, Wiegert and Hui (2018), ApJL, 864, 9.](http://iopscience.iop.org/article/10.3847/2041-8213/aada46/meta) | [Tabeshian, Wiegert, Ye et al. (2019), AJ, 158, 30]()
+
+<br>
 
 <img style="float: left;" src="imgs/apjlab0f3cf5_lr.jpg" width="150">
 
@@ -74,21 +89,6 @@ A ZTF paper party! Here you will find all you need to know about ZTF: telescope,
 
 <br>
 
-<img style="float: left;" src="imgs/gem-hst.png" width="150">
-
-Near-Earth Asteroid (3200) Phaethon is a mysterious object: it is associated with the strong Geminid meteor shower, implying that it had been highly active in the past, yet decades of observation showed that it is largely inactive. We used the Hubble Space Telescope to search for small fragments recently ejected from Phaethon. Although we found nothing, we concluded that Phaethon has likely not been very active in the recent decades. We also showed how to take an ugly photo with Hubble!
-
-[Ye, Wiegert and Hui (2018), ApJL, 864, 9.](http://iopscience.iop.org/article/10.3847/2041-8213/aada46/meta)
-
-<br>
-
-<img style="float: left;" src="imgs/lexell.png" width="150">
-
-We target a 250-year-old unresolved mystery! Lexell's Comet was found in 1770 and was then subsequently lost, where could it be? We used a wide range of 21th century techniques -- state-of-the-art orbit determination, computer simulation, as well as modern day astronomical observation to try to solve this puzzle. Well, even though we still don't know where Lexell's Comet is, we uncovered a number of interesting clues that help you decide how to put your money (in case you want to bet). Bottom line: this could be one of the largest Near-Earth Objects that we know, and chances are good that it is still around!
-
-[Ye, Wiegert and Hui (2018), AJ, 155, 163.](http://iopscience.iop.org/article/10.3847/1538-3881/aab1f6/meta). See also: [AAS Nova post](https://aasnova.org/2018/08/22/has-anyone-found-a-lost-comet/); [astrobites post](https://astrobites.org/2018/04/02/long-lost-comet/)
-
-<br>
 * * *
 
 ## Outreach
@@ -124,4 +124,4 @@ You can find me on [Twitter](https://twitter.com/Yeqzids) or [Weibo](https://www
 
 > "Ye" means "leaf" in Chinese. Ye is also romanized "Yeh", "Yip", "Ip" in different spelling systems and variety of spoken Chinese (e.g. Cantonese), and "She" in ancient Chinese. The surname originated as a clan name after the [Duke of Ye](https://en.wikipedia.org/wiki/Duke_of_Ye), the Prime Minister of the [State of Chu](https://en.wikipedia.org/wiki/Chu_(state)) at circa 500 BCE. Confucius visited the Duke of Ye (She) in 489 BCE, and their conversations were recorded in [The Analects](https://ctext.org/analects/zi-lu).
 
-###### Last update: 2019 September 4
+###### Last update: 2019 September 19
