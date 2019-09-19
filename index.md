@@ -10,7 +10,7 @@ layout: default
 
 I am primarily interested in the small bodies of the solar system -- namely asteroids, comets, and meteoroids. I use a wide range of techniques to study these intriguing bodies. I have used the [Canadian Meteor Orbit Radar](https://fireballs.ndc.nasa.gov/cmor-radiants/) to study meteor showers, as well as the [Zwicky Transient Facility (ZTF) project](https://www.ztf.caltech.edu/) at [Palomar Observatory](http://www.astro.caltech.edu/palomar/homepage.html) to find near-Earth asteroids.
 
-I was lured into astronomy by the stars when I was a kid. Nowadays I still enjoy going out for stargazing in my spare time. Besides stars, I also have a passion for classical music. I  and play viola and cello at [Caltech's Chamber Music program](http://chambermusic.caltech.edu/).
+I was lured into astronomy by the stars when I was a kid. Nowadays I still enjoy going out for stargazing in my spare time. Besides stars, I also have a passion for classical music. I have played violin, viola and cello in various orchestras and string ensembles as I moved from China to Canada and then the US. Most recently, I played viola and cello at [Caltech's Chamber Music program](http://chambermusic.caltech.edu/).
 
 ###### Photo by Hung-Chin Lin
 
@@ -51,7 +51,7 @@ The keyword cloud above is generated using [Scimeter](https://scimeter.org/). Yo
 
 How can the smallest (known) comet generates one of the largest (known) comet outbursts? We are curious too. Here comes comet 289P/Blanpain, a comet that was lost shortly after its discovery in 1819, only to be rediscovered 200 years later as a weakly-active comet that is only 300-m in size, the smallest comet ever known. It suddenly brightened by a factor of 1,000 in 2013, with a broad, short tail. We found that its sudden reappearance in 2013 was caused by a mega-outburst that released 100 thousand tons of dust, that is (a bit surpisingly) only 1% of its total mass. We proposed that this outburst was triggered by the crystallization of amorphous water ice. Bonus: 289P is returning at the end of 2019! Whether it will reemerge as a healthy comet or disappear entirely is beyond anybody's guess.
 
-[Ye & Clark (2019), ApJL, 878, 2](https://iopscience.iop.org/article/10.3847/2041-8213/ab26bc/meta)
+[Ye and Clark (2019), ApJL, 878, 2](https://iopscience.iop.org/article/10.3847/2041-8213/ab26bc/meta)
 
 <br>
 
