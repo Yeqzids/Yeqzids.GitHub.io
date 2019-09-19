@@ -6,7 +6,7 @@ layout: default
 
 ## Hi there!
 
-### My name is Quanzhi, you can call me QZ. I am an astronomer at [University of Maryland](http://www.umd.edu/).
+### My name is Quanzhi, you can call me QZ. I am an astronomer at the [University of Maryland](http://www.umd.edu/).
 
 I am primarily interested in the small bodies of the solar system -- namely asteroids, comets, and meteoroids. I use a wide range of techniques to study these intriguing bodies. I have used the [Canadian Meteor Orbit Radar](https://fireballs.ndc.nasa.gov/cmor-radiants/) to study meteor showers, as well as the [Zwicky Transient Facility (ZTF) project](https://www.ztf.caltech.edu/) at [Palomar Observatory](http://www.astro.caltech.edu/palomar/homepage.html) to find near-Earth asteroids.
 
@@ -57,9 +57,9 @@ How can the smallest (known) comet generates one of the largest (known) comet ou
 
 <img style="float: left;" src="imgs/gem-hst.png" width="150">
 
-Near-Earth Asteroid (3200) Phaethon is a mysterious object: it is associated with the strong Geminid meteor shower, implying that it had been highly active in the past, yet decades of observation showed that it is largely inactive. In the first paper, we used the Hubble Space Telescope to search for small fragments recently ejected from Phaethon. Although we found nothing, we concluded that Phaethon has likely not been very active in the recent decades. We also showed how to take an ugly photo with Hubble! In the second paper, my colleagues Maryam Tabeshian and company (myself included) used a fleet of telescopes to study Phaethon from different angles -- colors, phase curves, and activity.
+(3200) Phaethon is a mysterious object: it is associated with the strong Geminid meteor shower, implying that it had been highly active in the past, yet decades of observation showed that it is largely inactive. In the first paper, we used the Hubble Space Telescope to search for small fragments recently ejected from Phaethon. Although we found nothing, we concluded that Phaethon has likely not been very active in the recent decades. In the second paper, my colleagues Maryam Tabeshian and company (myself included) used a fleet of telescopes to study Phaethon from different angles -- colors, phase curves, and activity.
 
-[Ye, Wiegert and Hui (2018), ApJL, 864, 9.](http://iopscience.iop.org/article/10.3847/2041-8213/aada46/meta) | [Tabeshian, Wiegert, Ye et al. (2019), AJ, 158, 30]()
+[Ye, Wiegert and Hui (2018), ApJL, 864, 9.](http://iopscience.iop.org/article/10.3847/2041-8213/aada46/meta) | [Tabeshian, Wiegert, Ye et al. (2019), AJ, 158, 30](https://iopscience.iop.org/article/10.3847/1538-3881/ab245d)
 
 <br>
 
