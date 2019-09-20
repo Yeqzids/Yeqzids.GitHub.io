@@ -8,9 +8,9 @@ layout: default
 
 ### My name is Quanzhi, you can call me QZ. I am an astronomer at the [University of Maryland](http://www.umd.edu/).
 
-I am primarily interested in the small bodies of the solar system -- namely asteroids, comets, and meteoroids. I use a wide range of techniques to study these intriguing bodies. I have used the [Canadian Meteor Orbit Radar](https://fireballs.ndc.nasa.gov/cmor-radiants/) to study meteor showers, as well as the [Zwicky Transient Facility (ZTF) project](https://www.ztf.caltech.edu/) at [Palomar Observatory](http://www.astro.caltech.edu/palomar/homepage.html) to find near-Earth asteroids.
+I am primarily interested in the small bodies of the solar system -- namely asteroids, comets, and meteoroids. I use a wide range of techniques to study these intriguing bodies. I have used the [Canadian Meteor Orbit Radar](https://fireballs.ndc.nasa.gov/cmor-radiants/) to study meteor showers, as well as the [Zwicky Transient Facility (ZTF) project](https://www.ztf.caltech.edu/) at [Palomar Observatory](http://www.astro.caltech.edu/palomar/homepage.html) to find near-Earth asteroids. Currently I am also working on the [Small Body Node of the NASA Planetary Data System](https://pds-smallbodies.astro.umd.edu/).
 
-I was lured into astronomy by the stars when I was a kid. Nowadays I still enjoy going out for stargazing in my spare time. Besides stars, I also have a passion for classical music. I have played violin, viola and cello in various orchestras and string ensembles as I moved from China to Canada and then the US. Most recently, I played viola and cello at [Caltech's Chamber Music program](http://chambermusic.caltech.edu/).
+I was lured into astronomy by the stars when I was a kid. Nowadays I still enjoy going out for stargazing in my spare time. Besides stars, I also have a passion for classical music. I have played violin, viola and cello in various orchestras and string ensembles as I moved from China to Canada and then the US. Most recently, I played viola and cello in [Caltech's Chamber Music program](http://chambermusic.caltech.edu/).
 
 ###### Photo by Hung-Chin Lin
 
@@ -86,14 +86,6 @@ How can the smallest (known) comet generates one of the largest (known) comet ou
 What happen to the asteroids that get too close to the Sun? Previous studies suggest that they explode -- but we don't know how they explode, because we have never seen one. But there are other ways to probe this process: the disrupted asteroids produce dust streams on their orbits that, if intersect the Earth's orbit, could be visible as meteor showers. Here we use dynamical model and meteor observations to study the explosion of near-Sun asteroids. We find that such "explosions" probably happen in slow-motion -- they may take a few thousand years to complete. We also made an educated guess that some of the near-Sun "comets" might, in fact, be exploding (or, to use a better word, "disintegrating") asteroids.
 
 [Ye and Granvik (2019), ApJ, 873, 104](https://iopscience.iop.org/article/10.3847/1538-4357/ab05ba/meta)
-
-<br>
-
-<img style="float: left;" src="imgs/ztf20171114d.jpg" width="150">
-
-A ZTF paper party! Here you will find all you need to know about ZTF: telescope, camera, data processing, survey strategy, as well as preliminary science results. For asteroid enthusiasts we have two back-to-back papers (on different journals though) describing our ongoing effort of detecting fast-moving objects (FMOs) using ZTF.
-
-[PASP ZTF Special Issue](https://iopscience.iop.org/journal/1538-3873/page/Zwicky-Transient-Facility) : [Ye, Masci, Lin et al. (2019), PASP in press](https://arxiv.org/abs/1904.09645) : [Duev, Mahabal, Ye et al. (2019), MNRAS, 486, 4158](https://academic.oup.com/mnras/article-abstract/486/3/4158/5472913?redirectedFrom=fulltext)
 
 <br>
 
