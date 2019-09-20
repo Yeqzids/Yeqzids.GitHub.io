@@ -55,6 +55,14 @@ How can the smallest (known) comet generates one of the largest (known) comet ou
 
 <br>
 
+<img style="float: left;" src="imgs/oumuamua.png" width="150">
+
+\`Oumuamua, found in October 2017, is the first known interstellar object that visited our Solar System. In the 2017 paper, my collaborators and I studied the behavior and color of \`Oumuamua, and found that it is not a comet as people have predicted, but more closely resembles a rocky asteroid. We also tried to observe meteors originated from \`Oumuamua as an independent test to see if \`Oumuamua has recently been active, but also did not detect any. Later, I joined other \`Oumuamua enthusiasts and formed the [\`Oumuamua ISSI Team](http://www.issibern.ch/teams/1ioumuamua/), we wrote a review about what we knew about \`Oumuamua so far. Bonus: just before our second meeting in September 2019, [the second interstellar object was discovered](https://www.nationalgeographic.com/science/2019/09/bizarre-interstellar-comet-from-another-star-system-just-spotted/)!
+
+[Ye, Zhang, Kelley and Brown (2017), ApJL, 851, 5](http://iopscience.iop.org/article/10.3847/2041-8213/aa9a34/meta) : [The \`Oumuamua ISSI Team (2019), Nature Astronomy, 3, 592](https://www.nature.com/articles/s41550-019-0816-x)
+
+<br>
+
 <img style="float: left;" src="imgs/gem-hst.png" width="150">
 
 (3200) Phaethon is a mysterious object: it is associated with the strong Geminid meteor shower, implying that it had been highly active in the past, yet decades of observation showed that it is largely inactive. In the first paper, we used the Hubble Space Telescope to search for small fragments recently ejected from Phaethon. Although we found nothing, we concluded that Phaethon has likely not been very active in the recent decades. In the second paper, my colleagues Maryam Tabeshian and company (myself included) used a fleet of telescopes to study Phaethon from different angles -- colors, phase curves, and activity.
@@ -122,6 +130,6 @@ You can find me on [Twitter](https://twitter.com/Yeqzids) or [Weibo](https://www
 
 > Chinese names are written in surname-first order. Strictly speaking, this rule also applies to their English counterparts, even though in daily practice this rule has not been strictly followed. Hence, my name should really be written as Ye Quanzhi, where Ye (pronounced as "Yeh") is my surname and Quanzhi (pronounced as Ch'üan Chih) is my given name.
 
-> "Ye" means "leaf" in Chinese. Ye is also romanized "Yeh", "Yip", "Ip" in different spelling systems and variety of spoken Chinese (e.g. Cantonese), and "She" in ancient Chinese. The surname originated as a clan name after the [Duke of Ye](https://en.wikipedia.org/wiki/Duke_of_Ye), the Prime Minister of the [State of Chu](https://en.wikipedia.org/wiki/Chu_(state)) at circa 500 BCE. Confucius visited the Duke of Ye (She) in 489 BCE, and their conversations were recorded in [The Analects](https://ctext.org/analects/zi-lu).
+> "Ye" (叶 in simplified Chinese, 葉 in traditional Chinese) means "leaf" in Chinese. Ye is also romanized "Yeh", "Yip", "Ip" in different spelling systems and variety of spoken Chinese (e.g. Cantonese), and "She" in ancient Chinese. The surname originated as a clan name after the [Duke of Ye](https://en.wikipedia.org/wiki/Duke_of_Ye), the Prime Minister of the [State of Chu](https://en.wikipedia.org/wiki/Chu_(state)) at circa 500 BCE. Confucius visited the Duke of Ye (She) in 489 BCE, and their conversations were recorded in [The Analects](https://ctext.org/analects/zi-lu). Since you asked, "Quan"/泉 means spring (source of water), and "Zhi"/志 means aspiration, so my first name means something along the lines of a source of ample aspiration that runs like spring water, with some reference to my surname since leaves need water.
 
-###### Last update: 2019 September 19
+###### Last update: 2019 September 20
