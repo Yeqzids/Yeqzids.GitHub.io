@@ -59,7 +59,7 @@ How can the smallest (known) comet generates one of the largest (known) comet ou
 
 (3200) Phaethon is a mysterious object: it is associated with the strong Geminid meteor shower, implying that it had been highly active in the past, yet decades of observation showed that it is largely inactive. In the first paper, we used the Hubble Space Telescope to search for small fragments recently ejected from Phaethon. Although we found nothing, we concluded that Phaethon has likely not been very active in the recent decades. In the second paper, my colleagues Maryam Tabeshian and company (myself included) used a fleet of telescopes to study Phaethon from different angles -- colors, phase curves, and activity.
 
-[Ye, Wiegert and Hui (2018), ApJL, 864, 9.](http://iopscience.iop.org/article/10.3847/2041-8213/aada46/meta) | [Tabeshian, Wiegert, Ye et al. (2019), AJ, 158, 30](https://iopscience.iop.org/article/10.3847/1538-3881/ab245d)
+[Ye, Wiegert and Hui (2018), ApJL, 864, 9](http://iopscience.iop.org/article/10.3847/2041-8213/aada46/meta) : [Tabeshian, Wiegert, Ye et al. (2019), AJ, 158, 30](https://iopscience.iop.org/article/10.3847/1538-3881/ab245d)
 
 <br>
 
@@ -77,7 +77,7 @@ How can the smallest (known) comet generates one of the largest (known) comet ou
 
 What happen to the asteroids that get too close to the Sun? Previous studies suggest that they explode -- but we don't know how they explode, because we have never seen one. But there are other ways to probe this process: the disrupted asteroids produce dust streams on their orbits that, if intersect the Earth's orbit, could be visible as meteor showers. Here we use dynamical model and meteor observations to study the explosion of near-Sun asteroids. We find that such "explosions" probably happen in slow-motion -- they may take a few thousand years to complete. We also made an educated guess that some of the near-Sun "comets" might, in fact, be exploding (or, to use a better word, "disintegrating") asteroids.
 
-[Ye and Granvik (2019), ApJ, 873, 104.](https://iopscience.iop.org/article/10.3847/1538-4357/ab05ba/meta)
+[Ye and Granvik (2019), ApJ, 873, 104](https://iopscience.iop.org/article/10.3847/1538-4357/ab05ba/meta)
 
 <br>
 
@@ -85,7 +85,7 @@ What happen to the asteroids that get too close to the Sun? Previous studies sug
 
 A ZTF paper party! Here you will find all you need to know about ZTF: telescope, camera, data processing, survey strategy, as well as preliminary science results. For asteroid enthusiasts we have two back-to-back papers (on different journals though) describing our ongoing effort of detecting fast-moving objects (FMOs) using ZTF.
 
-[PASP ZTF Special Issue](https://iopscience.iop.org/journal/1538-3873/page/Zwicky-Transient-Facility) : [Ye, Masci, Lin et al. (2019), PASP in press.](https://arxiv.org/abs/1904.09645) : [Duev, Mahabal, Ye et al. (2019), MNRAS, 486, 4158.](https://academic.oup.com/mnras/article-abstract/486/3/4158/5472913?redirectedFrom=fulltext)
+[PASP ZTF Special Issue](https://iopscience.iop.org/journal/1538-3873/page/Zwicky-Transient-Facility) : [Ye, Masci, Lin et al. (2019), PASP in press](https://arxiv.org/abs/1904.09645) : [Duev, Mahabal, Ye et al. (2019), MNRAS, 486, 4158](https://academic.oup.com/mnras/article-abstract/486/3/4158/5472913?redirectedFrom=fulltext)
 
 <br>
 
