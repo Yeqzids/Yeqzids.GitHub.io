@@ -42,32 +42,32 @@ I was lured into astronomy by the stars when I was a kid. Nowadays I still enjoy
 
 <img src="imgs/cloud-0000-0002-4838-7676.jpg" width="800">
 
-The keyword cloud above is generated using [Scimeter](https://scimeter.org/). You can find a list of my publication on [NASA/ADS](https://ui.adsabs.harvard.edu/search/__qid=124fd9103d907ddc8650fd418a589a8a&q=*%3A*&sort=date%20desc%2C%20bibcode%20desc) or [Google Scholar](https://scholar.google.com/citations?hl=en&user=q0EQUHQAAAAJ).
+The keyword cloud above is generated using [Scimeter](https://scimeter.org/) on 2019 December 20. You can find a list of my publication on [NASA/ADS](https://ui.adsabs.harvard.edu/public-libraries/uWrrUyxARqG0pdFiOw3adg) or [Google Scholar](https://scholar.google.com/citations?user=do9dkJYAAAAJ).
 
 <br>
 ### Latest Research
+
+<img style="float: left;" src="imgs/ztf-ts.png" width="150">
+
+"Don't aim your telescope near the Sun," they say, but at Zwicky Transient Facility we gave it a try. Not during daytime of course, but during the brief twilight hours. The goal? Explore the innermost region in the solar system. By going about 10 degrees closer to the Sun than other surveys (and, of course, have to endure brighter background and sub-par image quality), we found two km-sized (large!) Interior-Earth Objects during our 7-month survey. We also unsuccessfully looked for Earth and Venus co-orbital asteroids, asteroids that share the same orbit with Earth/Venus.
+
+[Ye, Masci, Ip et al., AJ in press](https://arxiv.org/abs/1912.06109)
+
+<br>
+
+<img style="float: left;" src="imgs/2i-ztf.png" width="150">
+
+As the second anniversary of the discovery of 'Oumuamua was approaching, Ukrainian astronomer Gennadiy Borisov found the second interstellar object, and this time -- unlike 'Oumuamua -- it is an unambiguous comet. Unlike the faint 'Oumuamua, comet 2I/Borisov was quite bright, and will be visible for many months to come. Here we take another direction in time and search for pre-discovery detections of 2I using the data from Zwicky Transient Facility and other surveys. We found not one -- not two -- but pre-discovery detections over six different epochs, with the earliest being almost 9 months before the discovery of 2I! These detections allow us to say something about the composition of 2I.
+
+[Ye, Kelley, Bolin et al., AJ in press](https://arxiv.org/abs/1911.05902)
+
+<br>
 
 <img style="float: left;" src="imgs/289p.png" width="150">
 
 How can the smallest (known) comet generates one of the largest (known) comet outbursts? We are curious too. Here comes comet 289P/Blanpain, a comet that was lost shortly after its discovery in 1819, only to be rediscovered 200 years later as a weakly-active comet that is only 300-m in size, the smallest comet ever known. It suddenly brightened by a factor of 1,000 in 2013, with a broad, short tail. We found that its sudden reappearance in 2013 was caused by a mega-outburst that released 100 thousand tons of dust, that is (a bit surpisingly) only 1% of its total mass. We proposed that this outburst was triggered by the crystallization of amorphous water ice. Bonus: 289P is returning at the end of 2019! Whether it will reemerge as a healthy comet or disappear entirely is beyond anybody's guess.
 
 [Ye and Clark (2019), ApJL, 878, 2](https://iopscience.iop.org/article/10.3847/2041-8213/ab26bc/meta)
-
-<br>
-
-<img style="float: left;" src="imgs/oumuamua.png" width="150">
-
-\`Oumuamua, found in October 2017, is the first known interstellar object that visited our Solar System. In the 2017 paper, my collaborators and I studied the behavior and color of \`Oumuamua, and found that it is not a comet as people have predicted, but more closely resembles a rocky asteroid. We also tried to observe meteors originated from \`Oumuamua as an independent test to see if \`Oumuamua has recently been active, but also did not detect any. Later, I joined other \`Oumuamua enthusiasts and formed the [\`Oumuamua ISSI Team](http://www.issibern.ch/teams/1ioumuamua/), we wrote a review about what we knew about \`Oumuamua so far. Bonus: just before our second meeting in September 2019, [the second interstellar object was discovered](https://www.nationalgeographic.com/science/2019/09/bizarre-interstellar-comet-from-another-star-system-just-spotted/)!
-
-[Ye, Zhang, Kelley and Brown (2017), ApJL, 851, 5](http://iopscience.iop.org/article/10.3847/2041-8213/aa9a34/meta) : [The \`Oumuamua ISSI Team (2019), Nature Astronomy, 3, 592](https://www.nature.com/articles/s41550-019-0816-x)
-
-<br>
-
-<img style="float: left;" src="imgs/gem-hst.png" width="150">
-
-(3200) Phaethon is a mysterious object: it is associated with the strong Geminid meteor shower, implying that it had been highly active in the past, yet decades of observation showed that it is largely inactive. In the first paper, we used the Hubble Space Telescope to search for small fragments recently ejected from Phaethon. Although we found nothing, we concluded that Phaethon has likely not been very active in the recent decades. In the second paper, my colleagues Maryam Tabeshian and company (myself included) used a fleet of telescopes to study Phaethon from different angles -- colors, phase curves, and activity.
-
-[Ye, Wiegert and Hui (2018), ApJL, 864, 9](http://iopscience.iop.org/article/10.3847/2041-8213/aada46/meta) : [Tabeshian, Wiegert, Ye et al. (2019), AJ, 158, 30](https://iopscience.iop.org/article/10.3847/1538-3881/ab245d)
 
 <br>
 
