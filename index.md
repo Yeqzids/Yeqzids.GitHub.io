@@ -57,7 +57,7 @@ The keyword cloud above is generated using [Scimeter](https://scimeter.org/) on 
 
 <img style="float: left;" src="imgs/2i-ztf.png" width="150">
 
-As the second anniversary of the discovery of 'Oumuamua was approaching, Ukrainian astronomer Gennadiy Borisov found the second interstellar object, and this time -- unlike 'Oumuamua -- it is an unambiguous comet. Unlike the faint 'Oumuamua, comet 2I/Borisov was quite bright, and will be visible for many months to come. Here we take another direction in time and search for pre-discovery detections of 2I. We found not one -- not two -- but pre-discovery detections over six different epochs, with the earliest being almost 9 months before the discovery of 2I! These detections allow us to say something about the composition of 2I.
+As the second anniversary of the discovery of 'Oumuamua was approaching, Ukrainian astronomer Gennadiy Borisov found the second interstellar object, and this time -- unlike 'Oumuamua -- it is an unambiguous comet. We look back in time and search for pre-discovery detections of 2I. We found not one -- not two -- but pre-discovery detections over six different epochs, with the earliest being almost 9 months before the discovery of 2I! These detections allow us to say something about the composition of 2I.
 
 [Ye, Kelley, Bolin et al., AJ in press](https://arxiv.org/abs/1911.05902)
 
