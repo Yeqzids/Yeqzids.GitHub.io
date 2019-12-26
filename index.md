@@ -2,17 +2,15 @@
 layout: default
 ---
 
-<img style="float: right;" src="imgs/me.jpg">
+<img style="float: right;" src="imgs/me.JPG">
 
 ## Hi there!
 
 ### My name is Quanzhi, you can call me QZ. I am an astronomer at the [University of Maryland](http://www.umd.edu/).
 
-I am primarily interested in the small bodies of the solar system -- namely asteroids, comets, and meteoroids. I use a wide range of techniques to study these intriguing bodies. I have used the [Canadian Meteor Orbit Radar](https://fireballs.ndc.nasa.gov/cmor-radiants/) to study meteor showers, as well as the [Zwicky Transient Facility (ZTF) project](https://www.ztf.caltech.edu/) at [Palomar Observatory](http://www.astro.caltech.edu/palomar/homepage.html) to find near-Earth asteroids. Currently I am also working on the [Small Body Node of the NASA Planetary Data System](https://pds-smallbodies.astro.umd.edu/).
+I am primarily interested in the small bodies of the solar system -- namely asteroids, comets, and meteoroids. I use a wide range of techniques to study these intriguing bodies. I have used the [Canadian Meteor Orbit Radar](https://fireballs.ndc.nasa.gov/cmor-radiants/) to study meteor showers, as well as the [Zwicky Transient Facility (ZTF) project](https://www.ztf.caltech.edu/) at [Palomar Observatory](http://www.astro.caltech.edu/palomar/homepage.html) to find near-Earth asteroids and comets. I also help maintain the [Small Body Node of the NASA Planetary Data System](https://pds-smallbodies.astro.umd.edu/).
 
-I was lured into astronomy by the stars when I was a kid. Nowadays I still enjoy going out for stargazing in my spare time. Besides stars, I also have a passion for classical music. I have played violin, viola and cello in various orchestras and string ensembles as I moved from China to Canada and then the US. Most recently, I played viola and cello in [Caltech's Chamber Music program](http://chambermusic.caltech.edu/).
-
-###### Photo by Hung-Chin Lin
+I was captivated by the stars when I was a kid. Nowadays I still enjoy going out for stargazing in my spare time. Besides stars, I also have a passion for music. I have played violin, viola and cello in various orchestras and string ensembles as I moved from China to Canada and then the US. Most recently, I played viola and cello in Caltech's wonderful [Chamber Music program](http://chambermusic.caltech.edu/).
 
 <br>
 * * *
@@ -93,7 +91,7 @@ What happen to the asteroids that get too close to the Sun? Previous studies sug
 
 ## Outreach
 
-In addition to research, I also love doing outreach. I have written many articles for magazines/blogs and have delivered about 80 presentations since 2004. Most of my outreach work was done in my home country (China). Unsurprisingly, I find doing outreach in western countries hugely different from what I have done in China! But I have since found my niche on promoting the communication between China and the West.
+In addition to research, I also love doing outreach. I have written many articles for magazines/blogs and have delivered over 80 talks since 2004. Most of my outreach work was done in my home country (China). Unsurprisingly, I find doing outreach in western countries hugely different from what I have done in China! But I have since found my niche on bridging the science-loving communities between China and the West.
 
 Some of my recent outreach works with connection to English-speaking audience:
 
@@ -113,8 +111,8 @@ You can find me on [Twitter](https://twitter.com/Yeqzids) or [Weibo](https://www
 
 ## Miscellaneous
 
-* I am honored to receive the naming of asteroid [(10280) Yequanzhi](https://ssd.jpl.nasa.gov/sbdb.cgi?sstr=10280;old=0;orb=1;cov=0;log=0;cad=0#orb).
-* I was fortunate to have co-discovered [comet C/2007 N3 (Lulin)](https://en.wikipedia.org/wiki/Comet_Lulin), the naked-eye comet in 2009, with acclaimed Taiwanese astrophotographer Chi Sheng Lin: [Spaceweather.com gallery](http://www.spaceweather.com/comets/gallery_lulin.htm).
+* I am honored to be named after minor planet [(10280) Yequanzhi](https://ssd.jpl.nasa.gov/sbdb.cgi?sstr=10280;old=0;orb=1;cov=0;log=0;cad=0#orb).
+* I was fortunate to have co-discovered [comet C/2007 N3 (Lulin)](https://en.wikipedia.org/wiki/Comet_Lulin), the naked-eye comet in 2009, with acclaimed Taiwanese astrophotographer Chi Sheng Lin: [Spaceweather.com gallery](http://www.spaceweather.com/comets/gallery_lulin.htm). I have since discovered two more comets, C/2019 J2 (Palomar) and C/2019 K4 (Ye).
 
 <br>
 ### My Name
