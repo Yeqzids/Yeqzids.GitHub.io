@@ -115,7 +115,6 @@ You can find me on [Twitter](https://twitter.com/Yeqzids) or [Weibo](https://www
 
 * I am honored to receive the naming of asteroid [(10280) Yequanzhi](https://ssd.jpl.nasa.gov/sbdb.cgi?sstr=10280;old=0;orb=1;cov=0;log=0;cad=0#orb).
 * I was fortunate to have co-discovered [comet C/2007 N3 (Lulin)](https://en.wikipedia.org/wiki/Comet_Lulin), the naked-eye comet in 2009, with acclaimed Taiwanese astrophotographer Chi Sheng Lin: [Spaceweather.com gallery](http://www.spaceweather.com/comets/gallery_lulin.htm).
-* [Research webpage of Xingming Observatory, an amateur-run remote observatory in China](http://www.astro.caltech.edu/~qye/xingming.html)
 
 <br>
 ### My Name
@@ -124,4 +123,4 @@ You can find me on [Twitter](https://twitter.com/Yeqzids) or [Weibo](https://www
 
 > "Ye" (叶 in simplified Chinese, 葉 in traditional Chinese) means "leaf" in Chinese. Ye is also romanized "Yeh", "Yip", "Ip" in different spelling systems and variety of spoken Chinese (e.g. Cantonese), and "She" in ancient Chinese. The surname originated as a clan name after the [Duke of Ye](https://en.wikipedia.org/wiki/Duke_of_Ye), the Prime Minister of the [State of Chu](https://en.wikipedia.org/wiki/Chu_(state)) at circa 500 BCE. Confucius visited the Duke of Ye (She) in 489 BCE, and their conversations were recorded in [The Analects](https://ctext.org/analects/zi-lu). Since you asked, "Quan"/泉 means spring (source of water), and "Zhi"/志 means aspiration, so my first name means something along the lines of a source of ample aspiration that runs like spring water, with some reference to my surname since leaves need water.
 
-###### Last update: 2019 September 20
+###### Last update: 2019 December 20
