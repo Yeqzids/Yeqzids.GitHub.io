@@ -45,19 +45,19 @@ The keyword cloud above is generated using [Scimeter](https://scimeter.org/) on 
 <br>
 ### Latest Research
 
-<img style="float: left;" src="imgs/ztf-ts.png" width="150">
-
-"Don't aim your telescope near the Sun," they say, but at Zwicky Transient Facility we gave it a try. Not during daytime of course, but during the brief twilight hours. The goal? Explore the innermost region in the solar system. By going about 10 degrees closer to the Sun than other surveys (and, of course, have to endure brighter background and sub-par image quality), we found two km-sized (large!) Interior-Earth Objects during our 7-month survey. We also unsuccessfully looked for Earth and Venus co-orbital asteroids, asteroids that share the same orbit with Earth/Venus.
-
-[Ye, Masci, Ip et al. (2020), 159, 70](https://iopscience.iop.org/article/10.3847/1538-3881/ab629c)
-
-<br>
-
 <img style="float: left;" src="imgs/2i-ztf.png" width="150">
 
 As the second anniversary of the discovery of 'Oumuamua was approaching, Ukrainian astronomer Gennadiy Borisov found the second interstellar object, and this time -- unlike 'Oumuamua -- it is an unambiguous comet. We look back in time and search for pre-discovery detections of 2I. We found not one -- not two -- but pre-discovery detections over six different epochs, with the earliest being almost 9 months before the discovery of 2I! These detections allow us to say something about the composition of 2I.
 
-[Ye, Kelley, Bolin et al. (2020), 159, 77](https://iopscience.iop.org/article/10.3847/1538-3881/ab659b)
+[Ye, Kelley, Bolin et al. (2020), AJ, 159, 77](https://iopscience.iop.org/article/10.3847/1538-3881/ab659b)
+
+<br>
+
+<img style="float: left;" src="imgs/ztf-ts.png" width="150">
+
+"Don't aim your telescope near the Sun," they say, but at Zwicky Transient Facility we gave it a try. Not during daytime of course, but during the brief twilight hours. The goal? Explore the innermost region in the solar system. By going about 10 degrees closer to the Sun than other surveys (and, of course, have to endure brighter background and sub-par image quality), we found two km-sized (large!) Interior-Earth Objects during our 7-month survey. We also unsuccessfully looked for Earth and Venus co-orbital asteroids, asteroids that share the same orbit with Earth/Venus.
+
+[Ye, Masci, Ip et al. (2020), AJ, 159, 70](https://iopscience.iop.org/article/10.3847/1538-3881/ab629c)
 
 <br>
 
