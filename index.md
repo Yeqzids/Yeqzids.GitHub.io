@@ -6,11 +6,11 @@ layout: default
 
 ## Hi there!
 
-### My name is Quanzhi, you can call me QZ. I am an astronomer at the [University of Maryland](http://www.umd.edu/).
+### My name is Quanzhi Ye. I go by Quanzhi or QZ for short. I am a planetary astronomer at the [University of Maryland](http://www.umd.edu/).
 
-I am primarily interested in the small bodies of the solar system -- namely asteroids, comets, and meteoroids. I use a wide range of techniques to study these intriguing bodies. I have used the [Canadian Meteor Orbit Radar](https://fireballs.ndc.nasa.gov/cmor-radiants/) to study meteor showers, as well as the [Zwicky Transient Facility (ZTF) project](https://www.ztf.caltech.edu/) at [Palomar Observatory](http://www.astro.caltech.edu/palomar/homepage.html) to find near-Earth asteroids and comets. I also help maintain the [Small Body Node of the NASA Planetary Data System](https://pds-smallbodies.astro.umd.edu/).
+I am primarily interested in the small bodies of the solar system -- namely asteroids, comets, and meteoroids. I use a wide range of techniques to study these intriguing bodies. I have used the [Canadian Meteor Orbit Radar](https://fireballs.ndc.nasa.gov/cmor-radiants/) to study meteor showers, as well as the [Zwicky Transient Facility (ZTF) project](https://www.ztf.caltech.edu/) at [Palomar Observatory](http://www.astro.caltech.edu/palomar/homepage.html) to find near-Earth asteroids and comets. I also help maintain the [NASA Planetary Data System Small Bodies Node](https://pds-smallbodies.astro.umd.edu/).
 
-I was captivated by the stars when I was a kid. Nowadays I still enjoy going out for stargazing in my spare time. Besides stars, I also have a passion for music. I have played violin, viola and cello in various orchestras and string ensembles as I moved from China to Canada and then the US. Most recently, I played viola and cello in Caltech's wonderful [Chamber Music program](http://chambermusic.caltech.edu/).
+I was captivated by the stars when I was a child. Nowadays I still enjoy going out for stargazing every once in a while. Besides stars, I also like music. I play violin, viola and cello in various orchestras and string ensembles as I move from China to Canada and then the US. Most recently, I played viola and cello in Caltech's wonderful [Chamber Music program](http://chambermusic.caltech.edu/).
 
 <br>
 * * *
@@ -40,10 +40,16 @@ I was captivated by the stars when I was a kid. Nowadays I still enjoy going out
 
 <img src="imgs/cloud-0000-0002-4838-7676.jpg" width="800">
 
-The keyword cloud above is generated using [Scimeter](https://scimeter.org/) on 2019 December 20. You can find a list of my publication on [NASA/ADS](https://ui.adsabs.harvard.edu/public-libraries/uWrrUyxARqG0pdFiOw3adg) or [Google Scholar](https://scholar.google.com/citations?user=do9dkJYAAAAJ).
+The keyword cloud above is generated using [Scimeter](https://scimeter.org/) on 2021 April 19. You can find a list of my publication on [NASA/ADS](https://ui.adsabs.harvard.edu/public-libraries/uWrrUyxARqG0pdFiOw3adg) or [Google Scholar](https://scholar.google.com/citations?user=do9dkJYAAAAJ).
 
 <br>
 ### Latest Research
+
+<img style="float: left;" src="imgs/phaethon-ldt.jpg" width="150">
+
+(3200) Phaethon is a mysterious object: it is associated with the strong Geminid meteor shower, implying that it had been highly active in the past, yet decades of observation showed that it is largely inactive. Using the mighty [Lowell Discovery Telescope](https://lowell.edu/research/research-facilities/4-3-meter-ldt/), we conducted one of the deepest searches for signs of Phaethon's activity. Although we did not find anything, we placed a stringent constraint on the upper limit of Phaethon's activity, which may help the forthcoming [DESTINY+ mission](https://destiny.isas.jaxa.jp/), set to launch to Phaethon in 2028. In a different paper, we also used the Hubble Space Telescope to search for small fragments recently ejected from Phaethon.
+
+[Ye, Knight, Kelley et al. (2021), PSJ, 2, 23](https://iopscience.iop.org/article/10.3847/PSJ/abcc71) | [Ye, Wiegert and Hui (2018), ApJL, 864, 9](http://iopscience.iop.org/article/10.3847/2041-8213/aada46/meta)
 
 <img style="float: left;" src="imgs/2i-ztf.png" width="150">
 
@@ -69,14 +75,6 @@ How can the smallest (known) comet generates one of the largest (known) comet ou
 
 <br>
 
-<img style="float: left;" src="imgs/apjlab0f3cf5_lr.jpg" width="150">
-
-(6478) Gault, a main-belt asteroid, suddenly sprouted two tails in late 2018 to early 2019. Of course we immediately went into action! Using ZTF data we were able to determine the exact date of the onset of the activity as well as the amount and properties of material that it released (make sure you check out the time lapse of Gault made using ZTF data). Based on available evidence, we concluded that the activity of Gault was probably caused by rotational instability or binary merging -- that is, either Gault was spinning so fast that dust on its surface was thrown into space, or Gault had two components that were rubbing against each other.
-
-[Ye, Kelley, Bodewits et al. (2019), ApJL, 874, 16](https://iopscience.iop.org/journal/1538-3873/page/Zwicky-Transient-Facility)
-
-<br>
-
 <img style="float: left;" src="imgs/apjab05baf4_lr.jpg" width="150">
 
 .
@@ -91,34 +89,42 @@ What happen to the asteroids that get too close to the Sun? Previous studies sug
 
 ## Outreach
 
-In addition to research, I also love doing outreach. I have written many articles for magazines/blogs and have delivered over 80 talks since 2004. Most of my outreach work was done in my home country (China). Unsurprisingly, I find doing outreach in western countries hugely different from what I have done in China! But I have since found my niche on bridging the science-loving communities between China and the West.
+I enjoy talking to the public about my research. I have written over 50 articles for popular science and have given over 80 public talks since 2004. Most of my outreach work was done in China and/or in Chinese/Mandarin. But whenever I got a chance, I make an effort of going out of my comfort zone and speak to the audience/journalists in the US!
 
-Some of my recent outreach works with connection to English-speaking audience:
+Some of my recent outreach work in English:
 
 * [Guest blogs at the Planetary Society, introducing recent Chinese space activities to the West](http://www.planetary.org/blogs/guest-blogs/?author_profile=325290428&topics=&dateType=firstPublicationDate&startDate=&endDate=)
 * Appearance on [Spacepod #103: meteor showers and "broom stars" with Dr. Ye](https://www.listentospacepod.com/episodes/2017/7/16/103-meteor-showers-and-broom-stars-with-dr-ye)
 * Appearance on [Astrotalk UK #75: China - back to the Moon with Chang'e 4](https://astrotalkuk.org/episode-75-china-back-to-the-moon-with-chang-e-4/)
     
-If you are curious, here are some Mandarin-speaking podcasts that I have contributed:
+If you are curious, here are some of my Mandarin-speaking podcasts:
 
 * [Mountain Star Talk Show #194: Geminid meteor shower](https://player.fm/series/series-106962/no194)
 * [Mountain Star Talk Show #196: interstellar asteroid 'Oumuamua](https://player.fm/series/series-106962/no196-oumuamua)
+* [Astronomy on Tap (Mandarin) #1: Killer asteroids](https://www.caltech.edu/campus-life-events/master-calendar/astronomy-on-tap-90098)
 
 You can find me on [Twitter](https://twitter.com/Yeqzids) or [Weibo](https://www.weibo.com/1705147594) (Twitter-like service in China).
 
 <br>
 * * *
 
+## Tools
+
+* [7Timer!](https://www.7timer.info) -- a service that provides astronomy-oriented weather forecast for the next a couple of days.
+
+<br>
+* * *
+
 ## Miscellaneous
 
-* I am honored to be named after minor planet [(10280) Yequanzhi](https://ssd.jpl.nasa.gov/sbdb.cgi?sstr=10280;old=0;orb=1;cov=0;log=0;cad=0#orb).
-* I was fortunate to have co-discovered [comet C/2007 N3 (Lulin)](https://en.wikipedia.org/wiki/Comet_Lulin), the naked-eye comet in 2009, with acclaimed Taiwanese astrophotographer Chi Sheng Lin: [Spaceweather.com gallery](http://www.spaceweather.com/comets/gallery_lulin.htm). I have since discovered two more comets, C/2019 J2 (Palomar) and C/2019 K4 (Ye).
+* I am priviledged to be named after asteroid [(10280) Yequanzhi](https://ssd.jpl.nasa.gov/sbdb.cgi?sstr=10280;old=0;orb=1;cov=0;log=0;cad=0#orb).
+* I have co-discovered [comet C/2007 N3 (Lulin)](https://en.wikipedia.org/wiki/Comet_Lulin), the naked-eye comet in 2009, with acclaimed Taiwanese astrophotographer Chi Sheng Lin: [Spaceweather.com gallery](http://www.spaceweather.com/comets/gallery_lulin.htm). I have since discovered three more comets, C/2019 J2 (Palomar), C/2019 K4 (Ye) and P/2019 LM4 (Palomar). I have also found 11 comets in the [images taken by SOHO spacecraft](https://sungrazer.nrl.navy.mil/) back in 2005--2006.
 
 <br>
 ### My Name
 
-> Chinese names are written in surname-first order. Strictly speaking, this rule also applies to their English counterparts, even though in daily practice this rule has not been strictly followed. Hence, my name should really be written as Ye Quanzhi, where Ye (pronounced as "Yeh") is my surname and Quanzhi (pronounced as Ch'üan Chih) is my given name.
+> Chinese names start with the family name followed by the first name, though most Chinese in the West follow the general Western order and put their first name first. This includes the author list in most publication. Hence, even though my name is listed as Quanzhi Ye in most of my papers, it should really be spelled as Ye Quanzhi, where Ye (pronounced as "Yeh") is my family name and Quanzhi (pronounced as Ch'üan Chih, but I am okay with whatever pronounciation convenient to people) is my given name.
 
-> "Ye" (叶 in simplified Chinese, 葉 in traditional Chinese) means "leaf" in Chinese. Ye is also romanized "Yeh", "Yip", "Ip" in different spelling systems and variety of spoken Chinese (e.g. Cantonese), and "She" in ancient Chinese. The surname originated as a clan name after the [Duke of Ye](https://en.wikipedia.org/wiki/Duke_of_Ye), the Prime Minister of the [State of Chu](https://en.wikipedia.org/wiki/Chu_(state)) at circa 500 BCE. Confucius visited the Duke of Ye (She) in 489 BCE, and their conversations were recorded in [The Analects](https://ctext.org/analects/zi-lu). Since you asked, "Quan"/泉 means spring (source of water), and "Zhi"/志 means aspiration, so my first name means something along the lines of a source of ample aspiration that runs like spring water, with some reference to my surname since leaves need water.
+> "Ye" (叶 in simplified Chinese, 葉 in traditional Chinese) means "leaf" in Chinese. Ye is also romanized "Yeh", "Yip", "Ip" in different spelling systems and variety of spoken Chinese (e.g. Cantonese), and "She" in ancient Chinese. The surname originated as a clan name after the [Duke of Ye](https://en.wikipedia.org/wiki/Duke_of_Ye), the Prime Minister of the [State of Chu](https://en.wikipedia.org/wiki/Chu_(state)) at circa 500 BCE. Confucius visited the Duke of Ye (She) in 489 BCE, and their conversations were recorded in [The Analects](https://ctext.org/analects/zi-lu). If you wonder, "Quan"/泉 means spring (source of water), and "Zhi"/志 means aspiration, so my first name means something along the lines of a source of ample aspiration that runs like spring water, with some reference to my surname since leaves need water.
 
-###### Last update: 2019 December 20
+###### Last update: 2021 April 19
