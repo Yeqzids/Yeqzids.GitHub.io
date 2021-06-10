@@ -28,7 +28,7 @@ I was captivated by the stars when I was a child. Nowadays I still enjoy going o
 
 ## Professional Appointments
 
-* Visiting Assistant Research Scientist, [University of Maryland](http://www.umd.edu), 2019 - present
+* Assistant Research Scientist, [University of Maryland](http://www.umd.edu), 2019 - present
 * Postdoctoral Scholar, [Caltech](http://www.caltech.edu/)/[IPAC](http://www.ipac.caltech.edu/), 2016 - 2019
 * Graduate Teaching/Research Assistant, [University of Western Ontario](http://www.uwo.ca/), 2011 - 2016
 * Research Fellow, [Sun Yat-sen University](http://www.sysu.edu.cn/) Atmospheric Exploration Laboratory, 2007 - 2011
@@ -44,6 +44,12 @@ The keyword cloud above is generated using [Scimeter](https://scimeter.org/) on 
 
 <br>
 ### Latest Research
+
+<img style="float: left;" src="imgs/2019y4.png" width="150">
+
+Comet C/2019 Y4 (ATLAS) generated quite a bit of excitement when it once held the potential to be the "Comet of the Century" but eventually disrupted two months before reaching perihelion. Despite so, it is still an exciting object as it is the first member of a long-period comet group observed to disintegrate well before perihelion. We used the mighty [Hubble Space Telescope](https://www.nasa.gov/mission_pages/hubble/main/index.html) to observe the comet as it fell apart and found direct evidence of a non-uniform nucleus: one part of the comet is more fragile than the other; and additionally, the comet supposedly passed extremely close to the Sun during its last return but failed more than 4 times farther away from the Sun this time, which is very intriguing. In an earlier work, we discussed and confirmed the sibling relationship of C/2019 Y4 and a bright comet that appeared in the year of 1844.
+
+[Ye, Jewitt, Hui et al. (2021), AJ, in press](https://arxiv.org/abs/2105.02269) | [Hui and Ye (2020), AJ, 160, 91](https://iopscience.iop.org/article/10.3847/1538-3881/ab9d81/meta)
 
 <img style="float: left;" src="imgs/phaethon-ldt.jpg" width="150">
 
@@ -127,4 +133,4 @@ You can find me on [Twitter](https://twitter.com/Yeqzids) or [Weibo](https://www
 
 > "Ye" (叶 in simplified Chinese, 葉 in traditional Chinese) means "leaf" in Chinese. Ye is also romanized "Yeh", "Yip", "Ip" in different spelling systems and variety of spoken Chinese (e.g. Cantonese), and "She" in ancient Chinese. The surname originated as a clan name after the [Duke of Ye](https://en.wikipedia.org/wiki/Duke_of_Ye), the Prime Minister of the [State of Chu](https://en.wikipedia.org/wiki/Chu_(state)) at circa 500 BCE. Confucius visited the Duke of Ye (She) in 489 BCE, and their conversations were recorded in [The Analects](https://ctext.org/analects/zi-lu). If you wonder, "Quan"/泉 means spring (source of water), and "Zhi"/志 means aspiration, so my first name means something along the lines of a source of ample aspiration that runs like spring water, with some reference to my surname since leaves need water.
 
-###### Last update: 2021 April 19
+###### Last update: 2021 June 10
