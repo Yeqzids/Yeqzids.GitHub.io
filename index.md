@@ -6,7 +6,7 @@ layout: default
 
 ## Hi there!
 
-### My name is Quanzhi Ye. I go by Quanzhi or QZ for short. I am a planetary astronomer at the [University of Maryland](http://www.umd.edu/).
+### My name is Quanzhi Ye. I go by Quanzhi or QZ for short. I am a planetary astronomer at the [University of Maryland](http://www.umd.edu/) and [Boston University](http://www.bu.edu).
 
 I am primarily interested in the small bodies of the solar system -- namely asteroids, comets, and meteoroids. I use a wide range of techniques to study these intriguing bodies. I have used the [Canadian Meteor Orbit Radar](https://fireballs.ndc.nasa.gov/cmor-radiants/) to study meteor showers, as well as the [Zwicky Transient Facility (ZTF) project](https://www.ztf.caltech.edu/) at [Palomar Observatory](http://www.astro.caltech.edu/palomar/homepage.html) to find near-Earth asteroids and comets. I also help maintain the [NASA Planetary Data System Small Bodies Node](https://pds-smallbodies.astro.umd.edu/).
 
@@ -28,10 +28,11 @@ I was captivated by the stars when I was a child. Nowadays I still enjoy going o
 
 ## Professional Appointments
 
-* Assistant Research Scientist, [University of Maryland](http://www.umd.edu), 2019 - present
+* Assistant Research Scientist, [Department of Astronomy](https://www.astro.umd.edu), [University of Maryland](http://www.umd.edu), 2019 - present
+* Visiting Researcher, [Center for Space Physics](https://www.bu.edu/csp/), [Boston University](https://www.bu.edu/), 2022 - present
 * Postdoctoral Scholar, [Caltech](http://www.caltech.edu/)/[IPAC](http://www.ipac.caltech.edu/), 2016 - 2019
-* Graduate Teaching/Research Assistant, [University of Western Ontario](http://www.uwo.ca/), 2011 - 2016
-* Research Fellow, [Sun Yat-sen University](http://www.sysu.edu.cn/) Atmospheric Exploration Laboratory, 2007 - 2011
+* Graduate Teaching/Research Assistant, [Department of Physics and Astronomy](https://physics.uwo.ca), [University of Western Ontario](http://www.uwo.ca/), 2011 - 2016
+* Research Fellow, Atmospheric Exploration Laboratory, [Sun Yat-sen University](http://www.sysu.edu.cn/), 2007 - 2011
 
 <br>
 * * *
@@ -58,30 +59,7 @@ Comet C/2019 Y4 (ATLAS) generated quite a bit of excitement when it once held th
 (3200) Phaethon is a mysterious object: it is associated with the strong Geminid meteor shower, implying that it had been highly active in the past, yet decades of observation showed that it is largely inactive. Using the mighty [Lowell Discovery Telescope](https://lowell.edu/research/research-facilities/4-3-meter-ldt/), we conducted one of the deepest searches for signs of Phaethon's activity. Although we did not find anything, we placed a stringent constraint on the upper limit of Phaethon's activity, which may help the forthcoming [DESTINY+ mission](https://destiny.isas.jaxa.jp/), set to launch to Phaethon in 2028. In a different paper, we also used the Hubble Space Telescope to search for small fragments recently ejected from Phaethon.
 
 [Ye, Knight, Kelley et al. (2021), PSJ, 2, 23](https://iopscience.iop.org/article/10.3847/PSJ/abcc71) .. [Ye, Wiegert and Hui (2018), ApJL, 864, 9](http://iopscience.iop.org/article/10.3847/2041-8213/aada46/meta)
-
-<br>
-
-<img style="float: left;" src="imgs/2i-ztf.png" width="150">
-
-As the second anniversary of the discovery of 'Oumuamua was approaching, Ukrainian astronomer Gennadiy Borisov found the second interstellar object, and this time -- unlike 'Oumuamua -- it is an unambiguous comet. We look back in time and search for pre-discovery detections of 2I. We found not one -- not two -- but pre-discovery detections over six different epochs, with the earliest being almost 9 months before the discovery of 2I! These detections allow us to say something about the composition of 2I.
-
-[Ye, Kelley, Bolin et al. (2020), AJ, 159, 77](https://iopscience.iop.org/article/10.3847/1538-3881/ab659b)
-
-<br>
-
-<img style="float: left;" src="imgs/ztf-ts.png" width="150">
-
-"Don't aim your telescope near the Sun," they say, but at Zwicky Transient Facility we gave it a try. Not during daytime of course, but during the brief twilight hours. The goal? Explore the innermost region in the solar system. By going about 10 degrees closer to the Sun than other surveys (and, of course, have to endure brighter background and sub-par image quality), we found two km-sized (large!) Interior-Earth Objects during our 7-month survey. We also unsuccessfully looked for Earth and Venus co-orbital asteroids, asteroids that share the same orbit with Earth/Venus.
-
-[Ye, Masci, Ip et al. (2020), AJ, 159, 70](https://iopscience.iop.org/article/10.3847/1538-3881/ab629c)
-
-<br>
-
-<img style="float: left;" src="imgs/289p.png" width="150">
-
-How can the smallest (known) comet generates one of the largest (known) comet outbursts? We are curious too. Here comes comet 289P/Blanpain, a comet that was lost shortly after its discovery in 1819, only to be rediscovered 200 years later as a weakly-active comet that is only 300-m in size, the smallest comet ever known. It suddenly brightened by a factor of 1,000 in 2013, with a broad, short tail. We found that its sudden reappearance in 2013 was caused by a mega-outburst that released 100 thousand tons of dust, that is (a bit surpisingly) only 1% of its total mass. We proposed that this outburst was triggered by the crystallization of amorphous water ice. Bonus: 289P is returning at the end of 2019! Whether it will reemerge as a healthy comet or disappear entirely is beyond anybody's guess.
-
-[Ye and Clark (2019), ApJL, 878, 2](https://iopscience.iop.org/article/10.3847/2041-8213/ab26bc/meta)
+[Ye, Knight, Kelley et al. (2021), PSJ, 2, 23](https://iopscience.iop.org/article/10.3847/PSJ/abcc71) .. [Ye, Wiegert and Hui (2018), ApJL, 864, 9](http://iopscience.iop.org/article/10.3847/2041-8213/aada46/meta)
 
 <br>
 
@@ -127,4 +105,4 @@ You can find me on [Twitter](https://twitter.com/Yeqzids) or [Weibo](https://www
 
 > "Ye" (叶 in simplified Chinese, 葉 in traditional Chinese) means "leaf" in Chinese. Ye is also romanized "Yeh", "Yip", "Ip" in different spelling systems and variety of spoken Chinese (e.g. Cantonese), and "She" in ancient Chinese. The surname originated as a clan name after the [Duke of Ye](https://en.wikipedia.org/wiki/Duke_of_Ye), the Prime Minister of the [State of Chu](https://en.wikipedia.org/wiki/Chu_(state)) at circa 500 BCE. Confucius visited the Duke of Ye (She) in 489 BCE, and their conversations were recorded in [The Analects](https://ctext.org/analects/zi-lu). If you wonder, "Quan"/泉 means spring (source of water), and "Zhi"/志 means aspiration, so my first name means something along the lines of a source of ample aspiration that runs like spring water, with some reference to my surname since leaves need water.
 
-###### Last update: 2021 June 10
+###### Last update: 2022 January 24
