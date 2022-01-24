@@ -6,7 +6,7 @@ layout: default
 
 ## Hi there!
 
-### My name is Quanzhi Ye. I go by Quanzhi or QZ for short. I am a planetary astronomer based at the [University of Maryland](http://www.umd.edu/) with a visiting appointment at [Boston University](http://www.bu.edu).
+### My name is Quanzhi Ye. I go by Quanzhi or QZ for short. I am a planetary astronomer at the [University of Maryland](http://www.umd.edu/). Currently I am also holding a Visiting Researcher appointment at [Boston University](http://www.bu.edu).
 
 I am primarily interested in the small bodies of the solar system -- namely asteroids, comets, and meteoroids. I use a wide range of techniques to study these intriguing bodies. I have used the [Canadian Meteor Orbit Radar](https://fireballs.ndc.nasa.gov/cmor-radiants/) to study meteor showers, as well as the [Zwicky Transient Facility (ZTF) project](https://www.ztf.caltech.edu/) at [Palomar Observatory](http://www.astro.caltech.edu/palomar/homepage.html) to find near-Earth asteroids and comets. I also help maintain the [NASA Planetary Data System Small Bodies Node](https://pds-smallbodies.astro.umd.edu/).
 
