@@ -62,6 +62,28 @@ Comet C/2019 Y4 (ATLAS) generated quite a bit of excitement when it once held th
 
 <br>
 
+<img style="float: left;" src="imgs/2i-ztf.png" width="150">
+
+As the second anniversary of the discovery of 'Oumuamua was approaching, Ukrainian astronomer Gennadiy Borisov found the second interstellar object, and this time -- unlike 'Oumuamua -- it is an unambiguous comet. We look back in time and search for pre-discovery detections of 2I. We found not one -- not two -- but pre-discovery detections over six different epochs, with the earliest being almost 9 months before the discovery of 2I! These detections allow us to say something about the composition of 2I.
+
+[Ye, Kelley, Bolin et al. (2020), AJ, 159, 77](https://iopscience.iop.org/article/10.3847/1538-3881/ab659b)
+
+<br>
+
+<img style="float: left;" src="imgs/ztf-ts.png" width="150">
+
+"Don't aim your telescope near the Sun," they say, but at Zwicky Transient Facility we gave it a try. Not during daytime of course, but during the brief twilight hours. The goal? Explore the innermost region in the solar system. By going about 10 degrees closer to the Sun than other surveys (and, of course, have to endure brighter background and sub-par image quality), we found two km-sized (large!) Interior-Earth Objects during our 7-month survey. We also unsuccessfully looked for Earth and Venus co-orbital asteroids, asteroids that share the same orbit with Earth/Venus.
+
+[Ye, Masci, Ip et al. (2020), AJ, 159, 70](https://iopscience.iop.org/article/10.3847/1538-3881/ab629c)
+
+<br>
+
+<img style="float: left;" src="imgs/289p.png" width="150">
+
+How can the smallest (known) comet generates one of the largest (known) comet outbursts? We are curious too. Here comes comet 289P/Blanpain, a comet that was lost shortly after its discovery in 1819, only to be rediscovered 200 years later as a weakly-active comet that is only 300-m in size, the smallest comet ever known. It suddenly brightened by a factor of 1,000 in 2013, with a broad, short tail. We found that its sudden reappearance in 2013 was caused by a mega-outburst that released 100 thousand tons of dust, that is (a bit surpisingly) only 1% of its total mass. We proposed that this outburst was triggered by the crystallization of amorphous water ice. Bonus: 289P is returning at the end of 2019! Whether it will reemerge as a healthy comet or disappear entirely is beyond anybody's guess.
+
+[Ye and Clark (2019), ApJL, 878, 2](https://iopscience.iop.org/article/10.3847/2041-8213/ab26bc/meta)
+
 * * *
 
 ## Outreach
