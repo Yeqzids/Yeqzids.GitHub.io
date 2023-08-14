@@ -6,7 +6,7 @@ layout: default
 
 ## Hi there!
 
-I am an astronomer at the [University of Maryland](http://www.umd.edu/) and [Boston University](http://www.bu.edu).
+I am an astronomer at the [University of Maryland](http://www.umd.edu/). Currently I am also a long-term visitor at [Boston University](http://www.bu.edu).
 
 I am primarily interested in the small bodies of the Solar System -- asteroids, comets, and meteoroids. These objects are pristine remnants from the early times of Solar System and can help us understand planetary formation, migration, and evolution. Studying these objects can also helps us understand the origins of life on Earth as well as the threat they might pose to Earth. Additionally, they offer a window into the broader context of planetary systems beyond our own. 
 
@@ -14,7 +14,7 @@ I use a wide range of techniques to study these objects, from ground-based and s
 
 I was captivated by the stars when I was a child. I still enjoy going out for (non-work-related) stargazing every once in a while. Besides stars, I also have a passion for music. I have played violin, viola and cello in various orchestras and string ensembles as I move from China to Canada and then the US. Most recently, I played viola and cello in Caltech's wonderful [Chamber Music program](http://chambermusic.caltech.edu/).
 
-[How to pronounce my name?](#-my-name)
+[How to pronounce my name?](#my-name)
 
 <br>
 * * *
@@ -47,6 +47,7 @@ I was captivated by the stars when I was a child. I still enjoy going out for (n
 * 2022 NASA Silver Group Award (Planetary Data System Team)
 * 2017 Minor planet [(10280) Yequanzhi](https://ssd.jpl.nasa.gov/sbdb.cgi?sstr=10280;old=0;orb=1;cov=0;log=0;cad=0#orb)
 * 2007 China Youth Science and Technology Innovation Award
+
 <br>
 * * *
 
