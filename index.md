@@ -6,11 +6,15 @@ layout: default
 
 ## Hi there!
 
-### My name is Quanzhi Ye. I go by Quanzhi or QZ for short. I am a planetary astronomer at the [University of Maryland](http://www.umd.edu/). Currently I am also holding a Visiting Researcher appointment at [Boston University](http://www.bu.edu).
+I am an astronomer at the [University of Maryland](http://www.umd.edu/) and [Boston University](http://www.bu.edu).
 
-I am primarily interested in the small bodies of the solar system -- namely asteroids, comets, and meteoroids. I use a wide range of techniques to study these intriguing bodies. I have used the [Canadian Meteor Orbit Radar](https://fireballs.ndc.nasa.gov/cmor-radiants/) to study meteor showers, as well as the [Zwicky Transient Facility (ZTF) project](https://www.ztf.caltech.edu/) at [Palomar Observatory](http://www.astro.caltech.edu/palomar/homepage.html) to find near-Earth asteroids and comets. I also help maintain the [NASA Planetary Data System Small Bodies Node](https://pds-smallbodies.astro.umd.edu/).
+I am primarily interested in the small bodies of the Solar System -- asteroids, comets, and meteoroids. These objects are pristine remnants from the early times of Solar System and can help us understand planetary formation, migration, and evolution. Studying these objects can also helps us understand the origins of life on Earth as well as the threat they might pose to Earth. Additionally, they offer a window into the broader context of planetary systems beyond our own. 
 
-I was captivated by the stars when I was a child. Nowadays I still enjoy going out for stargazing every once in a while. Besides stars, I also like music. I play violin, viola and cello in various orchestras and string ensembles as I move from China to Canada and then the US. Most recently, I played viola and cello in Caltech's wonderful [Chamber Music program](http://chambermusic.caltech.edu/).
+I use a wide range of techniques to study these objects, from ground-based and space-based telescopes in ultraviolet, optical, infrared, and radio wavelengths, to wide-field cameras and radars that capture the light and debris of meteors, and to large-scale numerical simulations running on supercomputers. I am also a member of the [NASA Planetary Data System Small Bodies Node](https://pds-smallbodies.astro.umd.edu/).
+
+I was captivated by the stars when I was a child. I still enjoy going out for (non-work-related) stargazing every once in a while. Besides stars, I also have a passion for music. I have played violin, viola and cello in various orchestras and string ensembles as I move from China to Canada and then the US. Most recently, I played viola and cello in Caltech's wonderful [Chamber Music program](http://chambermusic.caltech.edu/).
+
+[How to pronounce my name?](#-my-name)
 
 <br>
 * * *
@@ -34,6 +38,15 @@ I was captivated by the stars when I was a child. Nowadays I still enjoy going o
 * Graduate Teaching/Research Assistant, [Department of Physics and Astronomy](https://physics.uwo.ca), [University of Western Ontario](http://www.uwo.ca/), 2011 - 2016
 * Research Fellow, Atmospheric Exploration Laboratory, [Sun Yat-sen University](http://www.sysu.edu.cn/), 2007 - 2011
 
+<br>
+* * *
+
+## Honors and Awards
+
+* 2023 [Harold C. Urey Prize in Planetary Science](https://dps.aas.org/prizes/urey)
+* 2022 NASA Silver Group Award (Planetary Data System Team)
+* 2017 Minor planet [(10280) Yequanzhi](https://ssd.jpl.nasa.gov/sbdb.cgi?sstr=10280;old=0;orb=1;cov=0;log=0;cad=0#orb)
+* 2007 China Youth Science and Technology Innovation Award
 <br>
 * * *
 
@@ -109,22 +122,15 @@ You can find me on [Twitter](https://twitter.com/Yeqzids) or [Weibo](https://www
 
 ## Tools
 
+* [MPEC Watch](https://sbnmpc.astro.umd.edu/mpecwatch/) -- statistical metrics and plots derived from Minor Planet Center's Minor Planet Electronic Circular service.
 * [MPC Asteroid Name/Citation Search](https://sbnmpc.astro.umd.edu/mpcitations/index.shtml) -- a simple tool to search the naming citations of named minor planets.
 * [7Timer!](https://www.7timer.info) -- a service that provides astronomy-oriented weather forecast for the next a couple of days.
 
 <br>
-* * *
-
-## Miscellaneous
-
-* I am priviledged to be named after asteroid [(10280) Yequanzhi](https://ssd.jpl.nasa.gov/sbdb.cgi?sstr=10280;old=0;orb=1;cov=0;log=0;cad=0#orb).
-* I have co-discovered [comet C/2007 N3 (Lulin)](https://en.wikipedia.org/wiki/Comet_Lulin), the naked-eye comet in 2009, with acclaimed Taiwanese astrophotographer Chi Sheng Lin: [Spaceweather.com gallery](http://www.spaceweather.com/comets/gallery_lulin.htm). I have since discovered three more comets, C/2019 J2 (Palomar), C/2019 K4 (Ye) and P/2019 LM4 (Palomar). I have also found 11 comets in the [images taken by SOHO spacecraft](https://sungrazer.nrl.navy.mil/) back in 2005--2006.
-
-<br>
 ### My Name
 
-> Chinese names start with the family name followed by the first name, though most Chinese in the West follow the general Western order and put their first name first. This includes the author list in most publication. Hence, even though my name is listed as Quanzhi Ye in most of my papers, it should really be spelled as Ye Quanzhi, where Ye (pronounced as "Yeh") is my family name and Quanzhi (pronounced as Ch'üan Chih, but I am okay with whatever pronounciation convenient to people) is my given name.
+> The most accurate pronounciation of my name is **Yeh Ch'üan Chih**, but I wouldn't mind if you want to call me Ch'üan Chih, Qwuaan-Zee, or just simply "QZ". Note that in the Chinese naming convention, the surname typically comes before the given name, therefore "Ye" is my surname and "Quanzhi" is my given name, though in publications I usually follow the Western convention and list my name is Quanzhi Ye.
 
-> "Ye" (叶 in simplified Chinese, 葉 in traditional Chinese) means "leaf" in Chinese. Ye is also romanized "Yeh", "Yip", "Ip" in different spelling systems and variety of spoken Chinese (e.g. Cantonese), and "She" in ancient Chinese. The surname originated as a clan name after the [Duke of Ye](https://en.wikipedia.org/wiki/Duke_of_Ye), the Prime Minister of the [State of Chu](https://en.wikipedia.org/wiki/Chu_(state)) at circa 500 BCE. Confucius visited the Duke of Ye (She) in 489 BCE, and their conversations were recorded in [The Analects](https://ctext.org/analects/zi-lu). If you wonder, "Quan"/泉 means spring (source of water), and "Zhi"/志 means aspiration, so my first name means something along the lines of a source of ample aspiration that runs like spring water, with some reference to my surname since leaves need water.
+> Chinese names often carry special meanings. "Ye" (叶 in simplified Chinese, 葉 in traditional Chinese) means "leaf" in Chinese. Ye is also romanized "Yeh", "Yip", "Ip" in different spelling systems and variety of spoken Chinese (e.g. Cantonese), and "She" in ancient Chinese. The surname originated as a clan name after the [Duke of Ye](https://en.wikipedia.org/wiki/Duke_of_Ye), the Prime Minister of the [State of Chu](https://en.wikipedia.org/wiki/Chu_(state)) in the 5th century BC. Confucius visited the Duke of Ye (She) in 489 BCE, and their conversations were recorded in [The Analects](https://ctext.org/analects/zi-lu). "Quan"/泉 means spring (source of water), and "Zhi"/志 means aspiration, so my given name means something along the lines of a source of ample aspiration that runs like spring water, with reference to my surname since leaves need water.
 
-###### Last update: 2022 January 24
+###### Last update: 2023 August 13
