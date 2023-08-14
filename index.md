@@ -76,6 +76,14 @@ What do you want to know about the relationship between comets and meteor shower
 
 <br>
 
+<img style="float: left;" src="imgs/73p_tau.png" width="150">
+
+Near-Earth comet 73P/Schwassmann-Wachmann 3 suffered a major breakup in 1995, an event that seems to have triggered a long-term "cascading" break-ups that last to now. Calculations have shown that Earth might run into the material released in the 1995 breakup. Here we present a closer examination of the encounter -- as well as a quick post-event analysis, which suggests that the material must have been ejected about 4 to 5 times faster than calculated by traditional water-ice sublimation model.
+
+[Ye and Vaubaillon (2022), MNRAS, 515, L45](https://academic.oup.com/mnrasl/article-abstract/515/1/L45/6632977)
+
+<br>
+
 <img style="float: left;" src="imgs/2019y4.png" width="150">
 
 Comet C/2019 Y4 (ATLAS) generated quite a bit of excitement when it once held the potential to be the "Comet of the Century" but eventually disrupted two months before reaching perihelion. Despite so, it is still an exciting object as it is the first member of a long-period comet group observed to disintegrate well before perihelion. We used the mighty [Hubble Space Telescope](https://www.nasa.gov/mission_pages/hubble/main/index.html) to observe the comet as it fell apart and found direct evidence of a non-uniform nucleus: one part of the comet is more fragile than the other; and additionally, the comet supposedly passed extremely close to the Sun during its last return but failed more than 4 times farther away from the Sun this time, which is very intriguing. In an earlier work, we discussed and confirmed the sibling relationship of C/2019 Y4 and a bright comet that appeared in the year of 1844.
@@ -84,9 +92,9 @@ Comet C/2019 Y4 (ATLAS) generated quite a bit of excitement when it once held th
 
 <br>
 
-<img style="float: left;" src="imgs/phaethon-sodium.jpg" width="150">
+<img style="float: left;" src="imgs/phaethon_sodium.png" width="150">
 
-(3200) Phaethon is a mysterious object: it is associated with the strong Geminid meteor shower, implying that it had been highly active in the past, yet decades of observation showed that it is largely inactive. Using the mighty [Lowell Discovery Telescope](https://lowell.edu/research/research-facilities/4-3-meter-ldt/), we conducted one of the deepest searches for signs of Phaethon's activity. Although we did not find anything, we placed a stringent constraint on the upper limit of Phaethon's activity, which may help the forthcoming [DESTINY+ mission](https://destiny.isas.jaxa.jp/), set to launch to Phaethon in 2028. In a different paper, we also used the Hubble Space Telescope to search for small fragments recently ejected from Phaethon.
+(3200) Phaethon is a mysterious object: it is associated with the strong Geminid meteor shower, implying that it had been highly active in the past, yet decades of observation showed that it is largely inactive. Lead by my colleague [Qicheng Zhang](https://near.earth/qz/), we analyze 25 years of data collected by the Solar and Heliospheric Observatory (SOHO), a veteran spacecraft that can observe the near-Sun sky, and find that Phaethon's near-Sun activity is actually caused by sodium emission. In separate works, we used the mighty [Lowell Discovery Telescope](https://lowell.edu/research/research-facilities/4-3-meter-ldt/) to conduct one of the deepest searches for signs of Phaethon's activity as well as the Hubble Space Telescope to search for small fragments recently ejected from Phaethon.
 
 [Zhang, Battams, Ye et al. (2023), PSJ, 4, 70](https://iopscience.iop.org/article/10.3847/PSJ/acc866) .. [Ye, Knight, Kelley et al. (2021), PSJ, 2, 23](https://iopscience.iop.org/article/10.3847/PSJ/abcc71) .. [Ye, Wiegert and Hui (2018), ApJL, 864, 9](http://iopscience.iop.org/article/10.3847/2041-8213/aada46/meta)
 
