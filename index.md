@@ -110,21 +110,19 @@ Comet C/2019 Y4 (ATLAS) generated quite a bit of excitement when it once held th
 
 ## Outreach
 
-I enjoy talking to the public about my research. I have written over 50 articles for popular science and have given over 80 public talks since 2004. Most of my outreach work was done in China and/or in Chinese/Mandarin. But whenever I got a chance, I make an effort of going out of my comfort zone and speak to the audience/journalists in the US!
+I enjoy talking to the media and public about my research and have been frequently doing so in both Mandarin Chinese and English.
 
-Some of my recent outreach work in English:
+Some of my recent outreach works in English:
 
 * [Guest blogs at the Planetary Society, introducing recent Chinese space activities to the West](http://www.planetary.org/blogs/guest-blogs/?author_profile=325290428&topics=&dateType=firstPublicationDate&startDate=&endDate=)
 * Appearance on [Spacepod #103: meteor showers and "broom stars" with Dr. Ye](https://www.listentospacepod.com/episodes/2017/7/16/103-meteor-showers-and-broom-stars-with-dr-ye)
 * Appearance on [Astrotalk UK #75: China - back to the Moon with Chang'e 4](https://astrotalkuk.org/episode-75-china-back-to-the-moon-with-chang-e-4/)
     
-If you are curious, here are some of my Mandarin-speaking podcasts:
+...and in Mandarin Chinese:
 
 * [Mountain Star Talk Show #194: Geminid meteor shower](https://player.fm/series/series-106962/no194)
 * [Mountain Star Talk Show #196: interstellar asteroid 'Oumuamua](https://player.fm/series/series-106962/no196-oumuamua)
-* [Astronomy on Tap (Mandarin) #1: Killer asteroids](https://www.caltech.edu/campus-life-events/master-calendar/astronomy-on-tap-90098)
-
-You can find me on [Twitter](https://twitter.com/Yeqzids) or [Weibo](https://www.weibo.com/1705147594) (Twitter-like service in China).
+* [Los Angeles Astronomy on Tap #65: Killer asteroids](https://youtu.be/Lne2-5EW7dI)
 
 <br>
 * * *
