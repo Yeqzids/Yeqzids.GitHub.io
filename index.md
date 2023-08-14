@@ -55,10 +55,26 @@ I was captivated by the stars when I was a child. I still enjoy going out for (n
 
 <img src="imgs/cloud-0000-0002-4838-7676.jpg" width="800">
 
-The keyword cloud above is generated using [Scimeter](https://scimeter.org/) on 2021 April 19. You can find a list of my publication on [NASA/ADS](https://ui.adsabs.harvard.edu/public-libraries/uWrrUyxARqG0pdFiOw3adg) or [Google Scholar](https://scholar.google.com/citations?user=do9dkJYAAAAJ).
+The keyword cloud above is generated using [Scimeter](https://scimeter.org/). You can find a list of my publication on [NASA/ADS](https://ui.adsabs.harvard.edu/public-libraries/uWrrUyxARqG0pdFiOw3adg) or [Google Scholar](https://scholar.google.com/citations?user=do9dkJYAAAAJ).
 
 <br>
 ### Latest Research
+
+<img style="float: left;" src="imgs/2021hs.png" width="150">
+
+Jupiter-family comet P/2021 HS (PANSTARRS) only exhibits a coma a few weeks of its perihelion passage at 0.8 astronomical units, which is atypical for a comet. Did it undergo a brief outburst that coincides with the perihelion, or does it have an activity mechanism that somehow only operate relatively close to the Sun? Neither. We find that the detection of the activity is caused by an extremely faint coma being enhanced by the forward scattering effect owing to the comet reaching a fortuitous spot -- almost right between the Sun and the Earth. As a result, it becomes one of the few most weakly active comets ever detected. By combining its measured physical and dynamical properties, we speculate that it probably had been in the inner Solar System for quite a while.
+
+[Ye, Kelley, Bauer et al. (2023), PSJ, 4, 47](https://iopscience.iop.org/article/10.3847/PSJ/acbfbb)
+
+<br>
+
+<img style="float: left;" src="imgs/cometiii.png" width="150">
+
+What do you want to know about the relationship between comets and meteor showers? In this review article, we talk about the development and current state of affairs of meteor science -- with a focus on its role as a tool to study comets. We also review the established parent body -- meteor shower linkages.
+
+[Ye and Jenniskens (2023), Comets III, in press](https://arxiv.org/abs/2209.10654)
+
+<br>
 
 <img style="float: left;" src="imgs/2019y4.png" width="150">
 
@@ -76,27 +92,11 @@ Comet C/2019 Y4 (ATLAS) generated quite a bit of excitement when it once held th
 
 <br>
 
-<img style="float: left;" src="imgs/2i-ztf.png" width="150">
-
-As the second anniversary of the discovery of 'Oumuamua was approaching, Ukrainian astronomer Gennadiy Borisov found the second interstellar object, and this time -- unlike 'Oumuamua -- it is an unambiguous comet. We look back in time and search for pre-discovery detections of 2I. We found not one -- not two -- but pre-discovery detections over six different epochs, with the earliest being almost 9 months before the discovery of 2I! These detections allow us to say something about the composition of 2I.
-
-[Ye, Kelley, Bolin et al. (2020), AJ, 159, 77](https://iopscience.iop.org/article/10.3847/1538-3881/ab659b)
-
-<br>
-
 <img style="float: left;" src="imgs/ztf-ts.png" width="150">
 
-"Don't aim your telescope near the Sun," they say, but at Zwicky Transient Facility we gave it a try. Not during daytime of course, but during the brief twilight hours. The goal? Explore the innermost region in the solar system. By going about 10 degrees closer to the Sun than other surveys (and, of course, have to endure brighter background and sub-par image quality), we found two km-sized (large!) Interior-Earth Objects during our 7-month survey. We also unsuccessfully looked for Earth and Venus co-orbital asteroids, asteroids that share the same orbit with Earth/Venus.
+"Don't aim your telescope near the Sun," they say, but at Zwicky Transient Facility we gave it a try. Not during daytime of course, but during the brief twilight hours. The goal? Explore the innermost region in the solar system. By going about 10 degrees closer to the Sun than other surveys (and, of course, have to endure brighter background and sub-par image quality), we have increased the number of known Atiras -- the asteroids whose orbits are entirely confined within Earth's orbit -- by 30 per-cent. Our discoveries include (594913) ꞌAylóꞌchaxnim, the first (and so far the only) asteroid discovered to have an orbit completely within Venus's orbit.
 
-[Ye, Masci, Ip et al. (2020), AJ, 159, 70](https://iopscience.iop.org/article/10.3847/1538-3881/ab629c)
-
-<br>
-
-<img style="float: left;" src="imgs/289p.png" width="150">
-
-How can the smallest (known) comet generates one of the largest (known) comet outbursts? We are curious too. Here comes comet 289P/Blanpain, a comet that was lost shortly after its discovery in 1819, only to be rediscovered 200 years later as a weakly-active comet that is only 300-m in size, the smallest comet ever known. It suddenly brightened by a factor of 1,000 in 2013, with a broad, short tail. We found that its sudden reappearance in 2013 was caused by a mega-outburst that released 100 thousand tons of dust, that is (a bit surpisingly) only 1% of its total mass. We proposed that this outburst was triggered by the crystallization of amorphous water ice. Bonus: 289P is returning at the end of 2019! Whether it will reemerge as a healthy comet or disappear entirely is beyond anybody's guess.
-
-[Ye and Clark (2019), ApJL, 878, 2](https://iopscience.iop.org/article/10.3847/2041-8213/ab26bc/meta)
+[Ip, Masci, Ye et al. (2022), ApJL, 935, 6](https://iopscience.iop.org/article/10.3847/2041-8213/ac8470) .. [Ye, Masci, Ip et al. (2020), AJ, 159, 70](https://iopscience.iop.org/article/10.3847/1538-3881/ab629c)
 
 * * *
 
