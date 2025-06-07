@@ -4,17 +4,17 @@ layout: default
 
 <img style="float: right;" src="imgs/me.JPG">
 
-## Hi there!
+## Hi! I am Quanzhi (Ch'üan Chih).
 
-I am an astronomer at the [University of Maryland](http://www.umd.edu/). Currently I am also a long-term visitor at [Boston University](http://www.bu.edu).
+I am a research faculty at the [Department of Astronomy](https://www.astro.umd.edu) of [University of Maryland](http://www.umd.edu/). Currently I live in the Boston area and am also a long-term visitor at the [Center for Space Physics](https://www.bu.edu/csp/) of [Boston University](http://www.bu.edu).
 
 I am primarily interested in the small bodies of the Solar System -- asteroids, comets, and meteoroids. These objects are pristine remnants from the early times of Solar System and can help us understand planetary formation, migration, and evolution. Studying these objects can also helps us understand the origins of life on Earth as well as the threat they might pose to Earth. Additionally, they offer a window into the broader context of planetary systems beyond our own. 
 
-I use a wide range of techniques to study these objects, from ground-based and space-based telescopes in ultraviolet, optical, infrared, and radio wavelengths, to wide-field cameras and radars that capture the light and debris of meteors, and to large-scale numerical simulations running on supercomputers. I am also a member of the [NASA Planetary Data System Small Bodies Node](https://pds-smallbodies.astro.umd.edu/).
+I use a wide range of techniques to study these objects, from ground-based and space-based telescopes in ultraviolet, optical, infrared, and radio wavelengths, to wide-field cameras and radars that capture the light and debris of meteors, and to large-scale numerical simulations running on supercomputers. Most recently, I have been working on the data obtained by the [Zwicky Transient Facility](https://www.ztf.caltech.edu/) to study asteroids and comets in our cosmic neighborhood. I am also a member of the [NASA Planetary Data System Small Bodies Node](https://pds-smallbodies.astro.umd.edu/), helping on archiving and curating the data obtained by various near-Earth object surveys as well as the Minor Planet Center.
 
 I was captivated by the stars when I was a child. I still enjoy going out for (non-work-related) stargazing every once in a while. Besides stars, I also have a passion for music. I have played violin, viola and cello in various orchestras and string ensembles as I move from China to Canada and then the US. Most recently, I played viola and cello in Caltech's wonderful [Chamber Music program](http://chambermusic.caltech.edu/).
 
-[How to pronounce my name?](#my-name)
+[What's in my name?](#my-name)
 
 <br>
 * * *
@@ -32,11 +32,9 @@ I was captivated by the stars when I was a child. I still enjoy going out for (n
 
 ## Professional Appointments
 
-* Assistant Research Scientist, [Department of Astronomy](https://www.astro.umd.edu), [University of Maryland](http://www.umd.edu), 2019 - present
+* Research Scientist, [Department of Astronomy](https://www.astro.umd.edu), [University of Maryland](http://www.umd.edu), 2019 - 2024 (Assistant); 2024 - present (Associate)
 * Visiting Researcher, [Center for Space Physics](https://www.bu.edu/csp/), [Boston University](https://www.bu.edu/), 2022 - present
 * Postdoctoral Scholar, [Caltech](http://www.caltech.edu/)/[IPAC](http://www.ipac.caltech.edu/), 2016 - 2019
-* Graduate Teaching/Research Assistant, [Department of Physics and Astronomy](https://physics.uwo.ca), [University of Western Ontario](http://www.uwo.ca/), 2011 - 2016
-* Research Fellow, Atmospheric Exploration Laboratory, [Sun Yat-sen University](http://www.sysu.edu.cn/), 2007 - 2011
 
 <br>
 * * *
@@ -44,27 +42,36 @@ I was captivated by the stars when I was a child. I still enjoy going out for (n
 ## Honors and Awards
 
 * 2023 [Harold C. Urey Prize in Planetary Science](https://dps.aas.org/prizes/urey)
-* 2022 NASA Silver Group Award (Planetary Data System Team)
 * 2017 Minor planet [(10280) Yequanzhi](https://ssd.jpl.nasa.gov/sbdb.cgi?sstr=10280;old=0;orb=1;cov=0;log=0;cad=0#orb)
-* 2007 China Youth Science and Technology Innovation Award
+* 2007 Youth Science and Technology Innovation Award (China)
 
 <br>
 * * *
 
 ## Research
 
-<img src="imgs/cloud-0000-0002-4838-7676.jpg" width="800">
+<object data="imgs/wordcloud.svg" type="image/svg+xml">
+  <img src="imgs/wordcloud.png" width="800"/>
+</object>
 
-The keyword cloud above is generated using [Scimeter](https://scimeter.org/). You can find a list of my publication on [NASA/ADS](https://ui.adsabs.harvard.edu/public-libraries/uWrrUyxARqG0pdFiOw3adg) or [Google Scholar](https://scholar.google.com/citations?user=do9dkJYAAAAJ).
+Keyword cloud generated using [NASA/ADS](https://ui.adsabs.harvard.edu/public-libraries/uWrrUyxARqG0pdFiOw3adg). For a list of my publications, please see [NASA/ADS](https://ui.adsabs.harvard.edu/public-libraries/uWrrUyxARqG0pdFiOw3adg) or [Google Scholar](https://scholar.google.com/citations?user=do9dkJYAAAAJ).
 
 <br>
 ### Latest Research
 
-<img style="float: left;" src="imgs/2021hs.png" width="150">
+<img style="float: left;" src="imgs/trs2022.png" width="150">
 
-Jupiter-family comet P/2021 HS (PANSTARRS) only exhibits a coma a few weeks of its perihelion passage at 0.8 astronomical units, which is atypical for a comet. Did it undergo a brief outburst that coincides with the perihelion, or does it have an activity mechanism that somehow only operate relatively close to the Sun? Neither. We find that the detection of the activity is caused by an extremely faint coma being enhanced by the forward scattering effect owing to the comet reaching a fortuitous spot -- almost right between the Sun and the Earth. As a result, it becomes one of the few most weakly active comets ever detected. By combining its measured physical and dynamical properties, we speculate that it probably had been in the inner Solar System for quite a while.
+The Encke-Taurid Complex, comprising of Encke's Comet and the Taurid meteoroid stream, is thought to be the relics of a large-scale cometary breakup and may harbor a swarm of potentially Earth-threatening asteroids. The existence of this swarm, however, is uncertain due to the lack of observations. We used the mighty [Zwicky Transient Facility](https://www.ztf.caltech.edu/) to conduct a targeted search of such asteroids during their predicted close encounter to Earth in 2022. The analysis, led by Poolesville High School student Jasmine Li, showed that there are no more than 9 to 14 hundred-meter-class asteroids in this swarm, suggesting that the impact risk from these asteroids is relatively low and that Encke's Comet's progenitor was about 10 km in size, smaller than some earlier estimates.
 
-[Ye, Kelley, Bauer et al. (2023), PSJ, 4, 47](https://iopscience.iop.org/article/10.3847/PSJ/acbfbb)
+[Li, Ye, Vida et al. (2025), PSJ, 6, 94](https://iopscience.iop.org/article/10.3847/PSJ/adbe74) .. [Press Release](https://cmns.umd.edu/news-events/news/new-study-eases-concerns-over-possible-doomsday-asteroid-swarm)
+
+<br>
+
+<img style="float: left;" src="imgs/sssb.png" width="150">
+
+This chapter, entitled ``Minor planets, asteroids, comets and interplanetary dust within 30 au'', provides an up-to-date (as of late 2024) review of the research of small Solar System bodies (including meteoroids and interplanetary dust) within roughly the orbit of Neptune. The chapter is part of the <i>Encyclopedia of Astrophysics, 1st Edition</i> which aims to provide the first entry point for undergraduate and graduate students as well as early career researchers to the field. I try to include as much as nice and useful figures as I could!
+
+[Ye (2025), Encyclopedia of Astrophysics (in press)](https://shop.elsevier.com/books/encyclopedia-of-astrophysics/mandel/978-0-443-21439-4) | [preprint](https://arxiv.org/pdf/2409.09540)
 
 <br>
 
@@ -72,15 +79,7 @@ Jupiter-family comet P/2021 HS (PANSTARRS) only exhibits a coma a few weeks of i
 
 What do you want to know about the relationship between comets and meteor showers? In this review article, we talk about the development and current state of affairs of meteor science -- with a focus on its role as a tool to study comets. We also review the established parent body -- meteor shower linkages.
 
-[Ye and Jenniskens (2023), Comets III, in press](https://arxiv.org/abs/2209.10654)
-
-<br>
-
-<img style="float: left;" src="imgs/73p_tau.png" width="150">
-
-Near-Earth comet 73P/Schwassmann-Wachmann 3 suffered a major breakup in 1995, an event that seems to have triggered a long-term "cascading" break-ups that last to now. Calculations have shown that Earth might run into the material released in the 1995 breakup. Here we present a closer examination of the encounter -- as well as a quick post-event analysis, which suggests that the material must have been ejected about 4 to 5 times faster than calculated by traditional water-ice sublimation model.
-
-[Ye and Vaubaillon (2022), MNRAS, 515, L45](https://academic.oup.com/mnrasl/article-abstract/515/1/L45/6632977)
+[Ye and Jenniskens (2024), Comets III, p. 799](https://uapress.arizona.edu/book/comets-iii) | [preprint](https://arxiv.org/abs/2209.10654)
 
 <br>
 
@@ -97,14 +96,6 @@ Comet C/2019 Y4 (ATLAS) generated quite a bit of excitement when it once held th
 (3200) Phaethon is a mysterious object: it is associated with the strong Geminid meteor shower, implying that it had been highly active in the past, yet decades of observation showed that it is largely inactive. Lead by my colleague [Qicheng Zhang](https://near.earth/qz/), we analyze 25 years of data collected by the Solar and Heliospheric Observatory (SOHO), a veteran spacecraft that can observe the near-Sun sky, and find that Phaethon's near-Sun activity is actually caused by sodium emission. In separate works, we used the mighty [Lowell Discovery Telescope](https://lowell.edu/research/research-facilities/4-3-meter-ldt/) to conduct one of the deepest searches for signs of Phaethon's activity as well as the Hubble Space Telescope to search for small fragments recently ejected from Phaethon.
 
 [Zhang, Battams, Ye et al. (2023), PSJ, 4, 70](https://iopscience.iop.org/article/10.3847/PSJ/acc866) .. [Ye, Knight, Kelley et al. (2021), PSJ, 2, 23](https://iopscience.iop.org/article/10.3847/PSJ/abcc71) .. [Ye, Wiegert and Hui (2018), ApJL, 864, 9](http://iopscience.iop.org/article/10.3847/2041-8213/aada46/meta)
-
-<br>
-
-<img style="float: left;" src="imgs/ztf-ts.png" width="150">
-
-"Don't aim your telescope near the Sun," they say, but at Zwicky Transient Facility we gave it a try. Not during daytime of course, but during the brief twilight hours. The goal? Explore the innermost region in the solar system. By going about 10 degrees closer to the Sun than other surveys (and, of course, have to endure brighter background and sub-par image quality), we have increased the number of known Atiras -- the asteroids whose orbits are entirely confined within Earth's orbit -- by 30 per-cent. Our discoveries include (594913) ꞌAylóꞌchaxnim, the first (and so far the only) asteroid discovered to have an orbit completely within Venus's orbit.
-
-[Ip, Masci, Ye et al. (2022), ApJL, 935, 6](https://iopscience.iop.org/article/10.3847/2041-8213/ac8470) .. [Ye, Masci, Ip et al. (2020), AJ, 159, 70](https://iopscience.iop.org/article/10.3847/1538-3881/ab629c)
 
 * * *
 
@@ -140,4 +131,4 @@ Some of my recent outreach works in English:
 
 > Chinese names often carry special meanings. "Ye" (叶 in simplified Chinese, 葉 in traditional Chinese) means "leaf" in Chinese. Ye is also romanized "Yeh", "Yip", "Ip" in different spelling systems and variety of spoken Chinese (e.g. Cantonese), and "She" in ancient Chinese. The surname originated as a clan name after the [Duke of Ye](https://en.wikipedia.org/wiki/Duke_of_Ye), the Prime Minister of the [State of Chu](https://en.wikipedia.org/wiki/Chu_(state)) in the 5th century BC. Confucius visited the Duke of Ye (She) in 489 BC, and their conversations were recorded in [The Analects](https://ctext.org/analects/zi-lu). "Quan"/泉 means spring (source of water), and "Zhi"/志 means aspiration, so my given name means something along the lines of a source of ample aspiration that runs like spring water, with reference to my surname since leaves need water.
 
-###### Last update: 2023 August 13
+###### Last update: 2025 June 7
