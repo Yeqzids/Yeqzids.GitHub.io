@@ -6,13 +6,15 @@ layout: default
 
 ## Hi! I am Quanzhi (Ch'üan Chih).
 
-I am a research faculty at the [Department of Astronomy](https://www.astro.umd.edu) of [University of Maryland](http://www.umd.edu/). Currently I live in the Boston area and am also a long-term visitor at the [Center for Space Physics](https://www.bu.edu/csp/) of [Boston University](http://www.bu.edu).
+I am a taff scientist of [NASA](https://www.nasa.gov/)'s [Near-Earth Object (NEO) Surveyor](https://science.nasa.gov/mission/neo-surveyor/) mission at the [Department of Earth, Planetary, and Space Sciences](https://epss.ucla.edu/) of [University of California, Los Angeles (UCLA)](https://www.ucla.edu/). Currently I am also an adjunct research scientist at the [Department of Astronomy](https://www.astro.umd.edu/) at [University of Maryland](https://www.umd.edu/) and a visiting researcher at the [Center for Space Physics](https://www.bu.edu/csp/) of [Boston University](http://www.bu.edu).
 
-I am primarily interested in the small bodies of the Solar System -- asteroids, comets, and meteoroids. These objects are pristine remnants from the early times of Solar System and can help us understand planetary formation, migration, and evolution. Studying these objects can also helps us understand the origins of life on Earth as well as the threat they might pose to Earth. Additionally, they offer a window into the broader context of planetary systems beyond our own. 
+My research focuses on the small bodies of the Solar System -- asteroids, comets, meteoroids (interplanetary dust). These objects are primitive remnants of the Solar System's formation and preserve invaluable clues about the processes that shaped the planets. By studying them, we can better understand the formation and evolution of planetary systems, the delivery of water and organic materials to Earth, and the hazards posed by near-Earth objects (NEOs). They also provide important context for interpreting planetary systems around other stars.
 
-I use a wide range of techniques to study these objects, from ground-based and space-based telescopes in ultraviolet, optical, infrared, and radio wavelengths, to wide-field cameras and radars that capture the light and debris of meteors, and to large-scale numerical simulations running on supercomputers. Most recently, I have been working on the data obtained by the [Zwicky Transient Facility](https://www.ztf.caltech.edu/) to study asteroids and comets in our cosmic neighborhood. I am also a member of the [NASA Planetary Data System Small Bodies Node](https://pds-smallbodies.astro.umd.edu/), helping on archiving and curating the data obtained by various near-Earth object surveys as well as the Minor Planet Center.
+My research combines observational, computational, and data-driven approaches. Much of my current research focuses on data from the [Zwicky Transient Facility](https://www.ztf.caltech.edu/), an optical sky survey program operated at the [Palomar Observatory](https://sites.astro.caltech.edu/palomar/homepage.html) in California, using its unprecedented sky coverage to study asteroids and comets in cosmic neighborhood. As part of the NEO Surveyor mission, I contribute across a broad range of scientific and technical efforts to help maximize the mission's scientific return.
 
 I was captivated by the stars when I was a child. I still enjoy going out for (non-work-related) stargazing every once in a while. Besides stars, I also have a passion for music. I have played violin, viola and cello in various orchestras and string ensembles as I move from China to Canada and then the US. Most recently, I played viola and cello in Caltech's wonderful [Chamber Music program](http://chambermusic.caltech.edu/).
+
+My fascination with the night sky began in childhood and continues today. Outside of work, I still enjoy spending an occasional evening doing stargazing. I also have a longstanding passion for music, and I play the violin, viola, and cello. Outside astronomy, I can often be found playing chamber music with friends. One of my favorite memories where these two passions joined was (casually) playing Bach's *Cello Suites* beneath the historic 200-inch Hale Telescope at Palomar Observatory.
 
 [What's in my name?](#my-name)
 
@@ -32,7 +34,8 @@ I was captivated by the stars when I was a child. I still enjoy going out for (n
 
 ## Professional Appointments
 
-* Research Scientist, [Department of Astronomy](https://www.astro.umd.edu), [University of Maryland](http://www.umd.edu), 2019 - 2024 (Assistant); 2024 - present (Associate)
+* Staff Scientist, [Department of Earth, Planetary, and Space Sciences](https://epss.ucla.edu/), [UCLA](https://www.ucla.edu/), 2026 - present
+* Research Scientist, [Department of Astronomy](https://www.astro.umd.edu), [University of Maryland](http://www.umd.edu), 2019 - 2024 (Assistant); 2024 - 2026 (Associate); 2026 - present (Associate/adjunct)
 * Visiting Researcher, [Center for Space Physics](https://www.bu.edu/csp/), [Boston University](https://www.bu.edu/), 2022 - present
 * Postdoctoral Scholar, [Caltech](http://www.caltech.edu/)/[IPAC](http://www.ipac.caltech.edu/), 2016 - 2019
 
@@ -54,16 +57,16 @@ I was captivated by the stars when I was a child. I still enjoy going out for (n
   <img src="imgs/wordcloud.png" width="800"/>
 </object>
 
-Keyword cloud generated using [NASA/ADS](https://ui.adsabs.harvard.edu/public-libraries/uWrrUyxARqG0pdFiOw3adg). For a list of my publications, please see [NASA/ADS](https://ui.adsabs.harvard.edu/public-libraries/uWrrUyxARqG0pdFiOw3adg) or [Google Scholar](https://scholar.google.com/citations?user=do9dkJYAAAAJ).
+Keyword cloud generated using [SciX](https://ui.adsabs.harvard.edu/public-libraries/uWrrUyxARqG0pdFiOw3adg). For a list of my publications, please see [SciX](https://scixplorer.org/user/libraries/uWrrUyxARqG0pdFiOw3adg) or [Google Scholar](https://scholar.google.com/citations?user=do9dkJYAAAAJ).
 
 <br>
-### Latest Research
+### Recent Research
 
 <img style="float: left;" src="imgs/trs2022.png" width="150">
 
-The Encke-Taurid Complex, comprising of Encke's Comet and the Taurid meteoroid stream, is thought to be the relics of a large-scale cometary breakup and may harbor a swarm of potentially Earth-threatening asteroids. The existence of this swarm, however, is uncertain due to the lack of observations. We used the mighty [Zwicky Transient Facility](https://www.ztf.caltech.edu/) to conduct a targeted search of such asteroids during their predicted close encounter to Earth in 2022. The analysis, led by Poolesville High School student Jasmine Li, showed that there are no more than 9 to 14 hundred-meter-class asteroids in this swarm, suggesting that the impact risk from these asteroids is relatively low and that Encke's Comet's progenitor was about 10 km in size, smaller than some earlier estimates.
+The Encke-Taurid Complex, comprising of Encke's Comet and the Taurid meteoroid stream, is thought to be the relics of a large-scale cometary breakup and may harbor a swarm of potentially Earth-threatening asteroids. The extent of this swarm, however, is uncertain due to the lack of observations. We used the mighty [Zwicky Transient Facility](https://www.ztf.caltech.edu/) to conduct a targeted search of such asteroids during their predicted close encounter to Earth in 2022. The analysis showed that there are no more than 9 to 14 hundred-meter-class asteroids in this swarm, or 10<sup2></sup> Tunguska-sized objects, suggesting that the impact risk from these asteroids is relatively low and that Encke's Comet's progenitor was about 10 km in size, smaller than some earlier estimates.
 
-[Li, Ye, Vida et al. (2025), PSJ, 6, 94](https://iopscience.iop.org/article/10.3847/PSJ/adbe74) .. [Press Release](https://cmns.umd.edu/news-events/news/new-study-eases-concerns-over-possible-doomsday-asteroid-swarm)
+[Li, Ye, Vida et al. (2025), PSJ, 6, 94](https://iopscience.iop.org/article/10.3847/PSJ/adbe74) .. [Press Release](https://cmns.umd.edu/news-events/news/new-study-eases-concerns-over-possible-doomsday-asteroid-swarm) | [Ye, Li, Vida et al. (2026), Acta Astronautica, 238, 285](https://scixplorer.org/abs/2026AcAau.238..285Y/abstract)
 
 <br>
 
@@ -71,7 +74,7 @@ The Encke-Taurid Complex, comprising of Encke's Comet and the Taurid meteoroid s
 
 This chapter, entitled ``Minor planets, asteroids, comets and interplanetary dust within 30 au'', provides an up-to-date (as of late 2024) review of the research of small Solar System bodies (including meteoroids and interplanetary dust) within roughly the orbit of Neptune. The chapter is part of the <i>Encyclopedia of Astrophysics, 1st Edition</i> which aims to provide the first entry point for undergraduate and graduate students as well as early career researchers to the field. I try to include as much as nice and useful figures as I could!
 
-[Ye (2025), Encyclopedia of Astrophysics (in press)](https://shop.elsevier.com/books/encyclopedia-of-astrophysics/mandel/978-0-443-21439-4) | [preprint](https://arxiv.org/pdf/2409.09540)
+[Ye (2025), Encyclopedia of Astrophysics](https://shop.elsevier.com/books/encyclopedia-of-astrophysics/mandel/978-0-443-21439-4) | [preprint](https://arxiv.org/pdf/2409.09540)
 
 <br>
 
@@ -80,14 +83,6 @@ This chapter, entitled ``Minor planets, asteroids, comets and interplanetary dus
 What do you want to know about the relationship between comets and meteor showers? In this review article, we talk about the development and current state of affairs of meteor science -- with a focus on its role as a tool to study comets. We also review the established parent body -- meteor shower linkages.
 
 [Ye and Jenniskens (2024), Comets III, p. 799](https://uapress.arizona.edu/book/comets-iii) | [preprint](https://arxiv.org/abs/2209.10654)
-
-<br>
-
-<img style="float: left;" src="imgs/2019y4.png" width="150">
-
-Comet C/2019 Y4 (ATLAS) generated quite a bit of excitement when it once held the potential to be the "Comet of the Century" but eventually disrupted two months before reaching perihelion. Despite so, it is still an exciting object as it is the first member of a long-period comet group observed to disintegrate well before perihelion. We used the mighty [Hubble Space Telescope](https://www.nasa.gov/mission_pages/hubble/main/index.html) to observe the comet as it fell apart and found direct evidence of a non-uniform nucleus: one part of the comet is more fragile than the other; and additionally, the comet supposedly passed extremely close to the Sun during its last return but failed more than 4 times farther away from the Sun this time, which is very intriguing. In an earlier work, we discussed and confirmed the sibling relationship of C/2019 Y4 and a bright comet that appeared in the year of 1844.
-
-[Ye, Jewitt, Hui et al. (2021), AJ, 162, 70](https://iopscience.iop.org/article/10.3847/1538-3881/abfec3) .. [Hui and Ye (2020), AJ, 160, 91](https://iopscience.iop.org/article/10.3847/1538-3881/ab9d81/meta)
 
 <br>
 
@@ -101,7 +96,7 @@ Comet C/2019 Y4 (ATLAS) generated quite a bit of excitement when it once held th
 
 ## Outreach
 
-I enjoy talking to the media and public about my research and have been frequently doing so in both Mandarin Chinese and English.
+I enjoy talking to the media and public about my research and have been occasionally doing so in both Mandarin Chinese and English.
 
 Some of my recent outreach works in English:
 
@@ -127,8 +122,8 @@ Some of my recent outreach works in English:
 <br>
 ### My Name
 
-> The most accurate pronunciation of my name is **Yeh Ch'üan Chih**, but I wouldn't mind if you want to call me Ch'üan Chih, Qwuaan-Zee, or just simply "QZ". Note that in the Chinese naming convention, the surname typically comes before the given name, therefore "Ye" is my surname and "Quanzhi" is my given name, though in publications I usually follow the Western convention and list my name is Quanzhi Ye.
+> The closest pronunciation of my name in English is **Yeh Ch'üan Chih**, though I won't mind if you call me Ch'üan Chih, "Qwuaan-Zee," or simply QZ. In the Chinese naming convention, the family name comes before the given name, so Ye is my family name and Quanzhi is my given name. In publications, however, I usually follow the Western convention and write my name as Quanzhi Ye.
 
-> Chinese names often carry special meanings. "Ye" (叶 in simplified Chinese, 葉 in traditional Chinese) means "leaf" in Chinese. Ye is also romanized "Yeh", "Yip", "Ip" in different spelling systems and variety of spoken Chinese (e.g. Cantonese), and "She" in ancient Chinese. The surname originated as a clan name after the [Duke of Ye](https://en.wikipedia.org/wiki/Duke_of_Ye), the Prime Minister of the [State of Chu](https://en.wikipedia.org/wiki/Chu_(state)) in the 5th century BC. Confucius visited the Duke of Ye (She) in 489 BC, and their conversations were recorded in [The Analects](https://ctext.org/analects/zi-lu). "Quan"/泉 means spring (source of water), and "Zhi"/志 means aspiration, so my given name means something along the lines of a source of ample aspiration that runs like spring water, with reference to my surname since leaves need water.
+> Chinese names often carry special meanings. My family name, Ye (叶 in simplified Chinese, 葉 in traditional Chinese), means "leaf." Depending on the romanization system or Chinese variety, it may also be spelled Yeh, Yip, or Ip, and in ancient Chinese it was pronounced She. The surname originated as the name of the ancient city of Ye and became associated with the descendants of the [Duke of Ye](https://en.wikipedia.org/wiki/Duke_of_Ye), a prominent statesman of the [State of Chu](https://en.wikipedia.org/wiki/Chu_(state)) during the 5th century BC. Confucius visited the Duke of Ye in 489 BC, and their conversation is recorded in [The Analects](https://ctext.org/analects/zi-lu). My given name is composed of Quan (泉), meaning "spring" or "source of water," and Zhi (志), meaning "aspiration" or "ambition." Together, the name conveys the idea of aspirations flowing continuously like spring water -- a subtle nod to my family name, since leaves, after all, need water.
 
-###### Last update: 2025 June 7
+###### Last update: 2026 July 22
