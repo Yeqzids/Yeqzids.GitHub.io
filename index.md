@@ -12,8 +12,6 @@ My research focuses on the small bodies of the Solar System -- asteroids, comets
 
 My research combines observational, computational, and data-driven approaches. Much of my current research focuses on data from the [Zwicky Transient Facility](https://www.ztf.caltech.edu/), an optical sky survey program operated at the [Palomar Observatory](https://sites.astro.caltech.edu/palomar/homepage.html) in California, using its unprecedented sky coverage to study asteroids and comets in cosmic neighborhood. As part of the NEO Surveyor mission, I contribute across a broad range of scientific and technical efforts to help maximize the mission's scientific return.
 
-I was captivated by the stars when I was a child. I still enjoy going out for (non-work-related) stargazing every once in a while. Besides stars, I also have a passion for music. I have played violin, viola and cello in various orchestras and string ensembles as I move from China to Canada and then the US. Most recently, I played viola and cello in Caltech's wonderful [Chamber Music program](http://chambermusic.caltech.edu/).
-
 My fascination with the night sky began in childhood and continues today. Outside of work, I still enjoy spending an occasional evening doing stargazing. I also have a longstanding passion for music, and I play the violin, viola, and cello. Outside astronomy, I can often be found playing chamber music with friends. One of my favorite memories where these two passions joined was (casually) playing Bach's *Cello Suites* beneath the historic 200-inch Hale Telescope at Palomar Observatory.
 
 [What's in my name?](#my-name)
