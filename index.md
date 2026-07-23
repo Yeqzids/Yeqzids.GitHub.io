@@ -6,7 +6,7 @@ layout: default
 
 ## Hi! I am Quanzhi (Ch'üan Chih).
 
-I am a taff scientist of [NASA](https://www.nasa.gov/)'s [Near-Earth Object (NEO) Surveyor](https://science.nasa.gov/mission/neo-surveyor/) mission at the [Department of Earth, Planetary, and Space Sciences](https://epss.ucla.edu/) of [University of California, Los Angeles (UCLA)](https://www.ucla.edu/). Currently I am also an adjunct research scientist at the [Department of Astronomy](https://www.astro.umd.edu/) at [University of Maryland](https://www.umd.edu/) and a visiting researcher at the [Center for Space Physics](https://www.bu.edu/csp/) of [Boston University](http://www.bu.edu).
+I am a staff scientist of the [Near-Earth Object (NEO) Surveyor](https://science.nasa.gov/mission/neo-surveyor/) mission at the [Department of Earth, Planetary, and Space Sciences](https://epss.ucla.edu/) of [University of California, Los Angeles (UCLA)](https://www.ucla.edu/). Currently I am also an adjunct research scientist at the [Department of Astronomy](https://www.astro.umd.edu/) at [University of Maryland](https://www.umd.edu/) and a visiting researcher at the [Center for Space Physics](https://www.bu.edu/csp/) of [Boston University](http://www.bu.edu).
 
 My research focuses on the small bodies of the Solar System -- asteroids, comets, meteoroids (interplanetary dust). These objects are primitive remnants of the Solar System's formation and preserve invaluable clues about the processes that shaped the planets. By studying them, we can better understand the formation and evolution of planetary systems, the delivery of water and organic materials to Earth, and the hazards posed by near-Earth objects (NEOs). They also provide important context for interpreting planetary systems around other stars.
 
@@ -34,7 +34,7 @@ My fascination with the night sky began in childhood and continues today. Outsid
 
 ## Professional Appointments
 
-* Staff Scientist, [Department of Earth, Planetary, and Space Sciences](https://epss.ucla.edu/), [UCLA](https://www.ucla.edu/), 2026 - present
+* NEO Surveyor Scientist, [Department of Earth, Planetary, and Space Sciences](https://epss.ucla.edu/), [UCLA](https://www.ucla.edu/), 2026 - present
 * Research Scientist, [Department of Astronomy](https://www.astro.umd.edu), [University of Maryland](http://www.umd.edu), 2019 - 2024 (Assistant); 2024 - 2026 (Associate); 2026 - present (Associate/adjunct)
 * Visiting Researcher, [Center for Space Physics](https://www.bu.edu/csp/), [Boston University](https://www.bu.edu/), 2022 - present
 * Postdoctoral Scholar, [Caltech](http://www.caltech.edu/)/[IPAC](http://www.ipac.caltech.edu/), 2016 - 2019
@@ -64,7 +64,7 @@ Keyword cloud generated using [SciX](https://ui.adsabs.harvard.edu/public-librar
 
 <img style="float: left;" src="imgs/trs2022.png" width="150">
 
-The Encke-Taurid Complex, comprising of Encke's Comet and the Taurid meteoroid stream, is thought to be the relics of a large-scale cometary breakup and may harbor a swarm of potentially Earth-threatening asteroids. The extent of this swarm, however, is uncertain due to the lack of observations. We used the mighty [Zwicky Transient Facility](https://www.ztf.caltech.edu/) to conduct a targeted search of such asteroids during their predicted close encounter to Earth in 2022. The analysis showed that there are no more than 9 to 14 hundred-meter-class asteroids in this swarm, or 10<sup2></sup> Tunguska-sized objects, suggesting that the impact risk from these asteroids is relatively low and that Encke's Comet's progenitor was about 10 km in size, smaller than some earlier estimates.
+The Encke-Taurid Complex, comprising of Encke's Comet and the Taurid meteoroid stream, is thought to be the relics of a large-scale cometary breakup and may harbor a swarm of potentially Earth-threatening asteroids. The extent of this swarm, however, is uncertain due to the lack of observations. We used the mighty [Zwicky Transient Facility](https://www.ztf.caltech.edu/) to conduct a targeted search of such asteroids during their predicted close encounter to Earth in 2022. The analysis showed that there are no more than 9 to 14 hundred-meter-class asteroids in this swarm, or 10<sup2></sup> Tunguska-sized objects, suggesting that the impact risk from these asteroids is relatively low.
 
 [Li, Ye, Vida et al. (2025), PSJ, 6, 94](https://iopscience.iop.org/article/10.3847/PSJ/adbe74) .. [Press Release](https://cmns.umd.edu/news-events/news/new-study-eases-concerns-over-possible-doomsday-asteroid-swarm) | [Ye, Li, Vida et al. (2026), Acta Astronautica, 238, 285](https://scixplorer.org/abs/2026AcAau.238..285Y/abstract)
 
